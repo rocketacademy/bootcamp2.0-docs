@@ -1,0 +1,90 @@
+{
+   "courseDay": 84,
+   "dateTypes": {
+      "module": "Module 8: Advanced React",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "8.8: React NPM Packages",
+                  "url": "https://bootcamp.rocketacademy.co/8-advanced-react/8.8-react-npm-packages"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "8.POCE.2: (Group Project) Climbing Trip",
+                  "url": "https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner"
+               }
+            ]
+         },
+         "dayIndex": 84
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "A.5.6: Trees - Part 6",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-6"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "A.5.6: Trees - Part 6",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-6"
+               }
+            ]
+         },
+         "dayIndex": 84
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "Project 5 Scrum",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 5 Implementation",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-5-group-react-app"
+               }
+            ]
+         },
+         "dayIndex": 84
+      }
+   }
+}

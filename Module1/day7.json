@@ -1,0 +1,79 @@
+{
+   "courseDay": 7,
+   "dateTypes": {
+      "module": "Module 1: Frontend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "css": {
+         "type": "css",
+         "preClass": {
+            "items": [
+               {
+                  "name": "CSS.2.7: Position",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.7-position"
+               },
+               {
+                  "name": "CSS.2.8: Float",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.8-float"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "1.ICE.CSS.1: Straits Times",
+                  "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.1-straits-times-css"
+               }
+            ]
+         },
+         "postClass": {},
+         "dayIndex": 7
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "Project 1 Scrum",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 1 Implementation",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
+               }
+            ]
+         },
+         "dayIndex": 7
+      }
+   }
+}

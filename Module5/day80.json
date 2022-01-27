@@ -1,0 +1,68 @@
+{
+   "courseDay": 80,
+   "dateTypes": {
+      "module": "Module 7: React",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "8.3.4: React E-Commerce App with Store",
+                  "url": "https://bootcamp.rocketacademy.co/8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "8.POCE.1: Car Rental",
+                  "url": "https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental"
+               }
+            ]
+         },
+         "dayIndex": 80
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 5 Ideation 2",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-2"
+               }
+            ]
+         },
+         "dayIndex": 80
+      }
+   }
+}

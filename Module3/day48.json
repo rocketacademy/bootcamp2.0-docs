@@ -1,0 +1,71 @@
+{
+   "courseDay": 48,
+   "dateTypes": {
+      "module": "Module 5: Full Stack Application",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "4.1.6 Sequelize Validations",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.6-sequelize-validations"
+               },
+               {
+                  "name": "5.2: AJAX",
+                  "url": "https://bootcamp.rocketacademy.co/5-full-stack-applications/5.2-ajax"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "5.ICE.2: AJAX",
+                  "url": "https://bootcamp.rocketacademy.co/5-full-stack-applications/5.ice-in-class-exercises/5.ice.2-ajax"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "4.POCE.3: Project 2 MVC Refactor",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor"
+               }
+            ]
+         },
+         "dayIndex": 48
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

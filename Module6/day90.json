@@ -1,0 +1,115 @@
+{
+   "courseDay": 90,
+   "dateTypes": {
+      "module": "Module 9: Advanced Topics",
+      "general": {
+         "type": "general",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {
+            "items": [
+               {
+                  "name": "A.9: Dynamic Programming - Pre-Class",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#pre-class"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "A.9: Dynamic Programming - Part 1",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-1"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "A.9: Dynamic Programming - Part 1",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-1"
+               }
+            ]
+         },
+         "dayIndex": 90
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {
+            "items": [
+               {
+                  "name": "Due: Portfolio",
+                  "url": "https://bootcamp.rocketacademy.co/interview-prep/ip.3-portfolio"
+               }
+            ]
+         },
+         "preClass": {
+            "items": [
+               {
+                  "name": "IP.4: Job List",
+                  "url": "https://bootcamp.rocketacademy.co/interview-prep/ip.4-job-list"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "IP.4: Job List",
+                  "url": "https://bootcamp.rocketacademy.co/interview-prep/ip.4-job-list"
+               }
+            ]
+         },
+         "dayIndex": 90
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {
+            "items": [
+               {
+                  "name": "Start: Project 6 Ideation Phase 2",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-6-capstone#ideation-phase-2"
+               }
+            ]
+         },
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "Project 5: Peer Project Review Exercise",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-5-group-react-app"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 5 Video",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#video-demo"
+               },
+               {
+                  "name": "Project 6 Exploration Time",
+                  "url": ""
+               }
+            ]
+         },
+         "dayIndex": 90
+      }
+   }
+}

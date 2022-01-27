@@ -1,0 +1,104 @@
+{
+   "courseDay": 55,
+   "dateTypes": {
+      "module": "Module 6: Frontend Infrastructure",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "Group Work (for project management)",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/group-work"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {},
+         "dayIndex": 55
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {
+            "items": [
+               {
+                  "name": "A.5.2: Hash Tables - Pre-Class",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "A.5.2: Hash Tables - Part 1",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables#part-1"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "A.5.2: Hash Tables - Part 1",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables#part-1"
+               }
+            ]
+         },
+         "dayIndex": 55
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {
+            "items": [
+               {
+                  "name": "Start: Project 3",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-2"
+               }
+            ]
+         },
+         "projectDue": {
+            "items": [
+               {
+                  "name": "Due: Project 3 Ideation Phase 2",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-2"
+               }
+            ]
+         },
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "Peer Planning Review",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-2"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 3 Implementation",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game"
+               }
+            ]
+         },
+         "dayIndex": 55
+      }
+   }
+}

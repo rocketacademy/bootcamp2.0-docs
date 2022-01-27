@@ -1,0 +1,83 @@
+{
+   "courseDay": 45,
+   "dateTypes": {
+      "module": "Module 4: Backend Structure",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "4.2: MVC",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.2-mvc"
+               },
+               {
+                  "name": "4.2.1: RESTful Routes",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.2-mvc/4.2.1-restful-routes"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "4.POCE.2: Drummers for Hire",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "4.POCE.2: Drummers for Hire",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire"
+               }
+            ]
+         },
+         "dayIndex": 45
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "UX.1: Overview",
+                  "url": "https://bootcamp.rocketacademy.co/user-experience/ux.1-overview"
+               },
+               {
+                  "name": "UX.2: The UX Process",
+                  "url": "https://bootcamp.rocketacademy.co/user-experience/ux.2-the-ux-process"
+               }
+            ]
+         },
+         "dayIndex": 45
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

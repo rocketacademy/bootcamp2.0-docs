@@ -1,0 +1,106 @@
+{
+   "courseDay": 86,
+   "dateTypes": {
+      "module": "Module 8: Advanced React",
+      "general": {
+         "type": "general",
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "8.POCE.2: Climbing Trip Redux",
+                  "url": "https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner"
+               }
+            ]
+         },
+         "postClass": {},
+         "dayIndex": 86
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "A.5.7: Graphs - Part 2",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-2"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "A.5.7: Graphs - Part 2",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-2"
+               }
+            ]
+         },
+         "dayIndex": 86
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {
+            "items": [
+               {
+                  "name": "IP.0: Interview Prep Overview",
+                  "url": "https://bootcamp.rocketacademy.co/interview-prep/ip.0-interview-prep-overview"
+               },
+               {
+                  "name": "IP.1: Job Application Strategy",
+                  "url": "https://bootcamp.rocketacademy.co/interview-prep/ip.1-job-application-strategy"
+               },
+               {
+                  "name": "IP.2: Resume",
+                  "url": "https://bootcamp.rocketacademy.co/interview-prep/ip.2-resume"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "IP.2: Resume",
+                  "url": "https://bootcamp.rocketacademy.co/interview-prep/ip.2-resume"
+               }
+            ]
+         },
+         "dayIndex": 86
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "Project 5 Scrum",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 5 Implementation",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-5-group-react-app"
+               }
+            ]
+         },
+         "dayIndex": 86
+      }
+   }
+}

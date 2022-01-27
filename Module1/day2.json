@@ -1,0 +1,86 @@
+{
+   "courseDay": 2,
+   "dateTypes": {
+      "module": "Module 1: Frontend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "0.3: Reading Documentation",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.3-reading-documentation"
+               },
+               {
+                  "name": "1.3: High Card DOM",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.3-high-card-dom"
+               },
+               {
+                  "name": "1.4: setTimeout",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.4-settimeout"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "Review 1 student's 1.POCE.1: Noodle Recipe Website"
+               },
+               {
+                  "name": "1.ICE.1: Drawing DOM (continued)",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "1.POCE.2: High Card DOM",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom"
+               }
+            ]
+         },
+         "dayIndex": 2
+      },
+      "css": {
+         "type": "css",
+         "preClass": {
+            "items": [
+               {
+                  "name": "CSS.1: Basic CSS (Exercises Part 1)",
+                  "url": "https://bootcamp.rocketacademy.co/css/css-1-basic-css"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {},
+         "dayIndex": 2
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

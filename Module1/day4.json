@@ -1,0 +1,87 @@
+{
+   "courseDay": 4,
+   "dateTypes": {
+      "module": "Module 1: Frontend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "1.7: setInterval",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.7-setinterval"
+               },
+               {
+                  "name": "1.8: Timer",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.8-timer"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "Peer-Review: 1.POCE.3: Match Game",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review"
+               },
+               {
+                  "name": "1.ICE.3: setInterval",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.3-setinterval"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "1.POCE.4: Timer",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.4-timer"
+               }
+            ]
+         },
+         "dayIndex": 4
+      },
+      "css": {
+         "type": "css",
+         "preClass": {
+            "items": [
+               {
+                  "name": "CSS.2.1 No Layout",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.1-no-layout"
+               },
+               {
+                  "name": "CSS.2.2 Display Inline Block",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.2-display-inline-and-block"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {},
+         "dayIndex": 4
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

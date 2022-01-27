@@ -1,0 +1,76 @@
+{
+   "courseDay": 10,
+   "dateTypes": {
+      "module": "Module 1: Frontend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "css": {
+         "type": "css",
+         "preClass": {
+            "items": [
+               {
+                  "name": "CSS.4 Responsive Design",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.4-responsive-design"
+               },
+               {
+                  "name": "CSS.5: Web Design Basics",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.5-web-design-basics"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {},
+         "dayIndex": 10
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "Project 1 Scrum",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 1 Implementation",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
+               },
+               {
+                  "name": "Project 1: Deploy to GitHub Pages",
+                  "url": "https://basics.rocketacademy.co/12-next-steps/12.3-deployment"
+               }
+            ]
+         },
+         "dayIndex": 10
+      }
+   }
+}

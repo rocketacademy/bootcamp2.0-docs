@@ -1,0 +1,87 @@
+{
+   "courseDay": 63,
+   "dateTypes": {
+      "module": "Module 7: React",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "7.2: React Components",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.2-react-components"
+               },
+               {
+                  "name": "7.2.1: Props",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.2-react-components/7.2.1-props"
+               },
+               {
+                  "name": "7.2.2: Generating Components from a List",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.2-react-components/7.2.2-generating-components-from-a-list"
+               },
+               {
+                  "name": "7.2.3: Class Components",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.2-react-components/7.2.3-class-components"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "7.ICE.2: React Pokedex",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.2-pokedex"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "7.ICE.2: React Pokedex",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.2-pokedex"
+               }
+            ]
+         },
+         "dayIndex": 63
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 3 Video Demo",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo"
+               }
+            ]
+         },
+         "dayIndex": 63
+      }
+   }
+}

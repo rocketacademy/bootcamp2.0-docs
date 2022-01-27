@@ -1,0 +1,75 @@
+{
+   "courseDay": 28,
+   "dateTypes": {
+      "module": "Module 3: Backend Applications",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "3.3.3: SQL Relationships (Many to Many)",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many"
+               },
+               {
+                  "name": "3.4.5: Forms for One-to-Many Relationships",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships"
+               },
+               {
+                  "name": "3.5.3: Password Hashing",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.3-password-hashing"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "3.ICE.7: Many-to-Many",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.7-many-to-many"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "3.POCE.7: Bird Watching Species",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.7-bird-watching-species"
+               }
+            ]
+         },
+         "dayIndex": 28
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

@@ -1,0 +1,83 @@
+{
+   "courseDay": 17,
+   "dateTypes": {
+      "module": "Module 2: Backend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "2.13.2: JSON File Storage Module - Passing Callbacks",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.13-json/2.13.2-json-file-storage-module-passing-callbacks"
+               },
+               {
+                  "name": "2.13.3: JSON File Storage Module - Summary",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.13-json/2.13.3-json-file-storage-module-summary"
+               },
+               {
+                  "name": "2.14: NPM",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.14-npm"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "2.ICE.6: NPM, JSON File Storage",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.6-npm-json-file-storage"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "2.POCE.6: To-Do List - JSON",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json"
+               }
+            ]
+         },
+         "dayIndex": 17
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "1.POCE.10: Bootstrap Adobe",
+                  "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe"
+               }
+            ]
+         },
+         "dayIndex": 17
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

@@ -1,0 +1,91 @@
+{
+   "courseDay": 6,
+   "dateTypes": {
+      "module": "Module 1: Frontend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "1.11: CSS Control with DOM",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.11-css-control-with-dom"
+               },
+               {
+                  "name": "0.4: JS Object as Tally",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.4-js-object-as-tally"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "Peer-Review: 1.POCE.5: Tic Tac Toe",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review"
+               }
+            ]
+         },
+         "postClass": {},
+         "dayIndex": 6
+      },
+      "css": {
+         "type": "css",
+         "preClass": {
+            "items": [
+               {
+                  "name": "CSS.2.5: Display Inline Block",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.5-display-inline-block"
+               },
+               {
+                  "name": "CSS.2.6: Layout Col / Card",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.6-layout-columns-and-cards"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {},
+         "dayIndex": 6
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {
+            "items": [
+               {
+                  "name": "Start: Project 1 Video Poker",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
+               }
+            ]
+         },
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 1 Implementation",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
+               }
+            ]
+         },
+         "dayIndex": 6
+      }
+   }
+}

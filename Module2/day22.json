@@ -1,0 +1,67 @@
+{
+   "courseDay": 22,
+   "dateTypes": {
+      "module": "Module 3: Backend Applications",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "3.1.4: PUT, DELETE Requests",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.1-express-js/3.1.4-put-delete-requests"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "Scrum",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "3.POCE.3: UFO Sightings",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos"
+               }
+            ]
+         },
+         "dayIndex": 22
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

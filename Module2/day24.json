@@ -1,0 +1,87 @@
+{
+   "courseDay": 24,
+   "dateTypes": {
+      "module": "Module 3: Backend Applications",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "3.3: SQL Language",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language"
+               },
+               {
+                  "name": "3.3.1: Basic SQL Commands",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.1-basic-sql-commands"
+               },
+               {
+                  "name": "3.5.1: Cookies",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.1-cookies"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "Scrum",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
+               },
+               {
+                  "name": "3.ICE.4: Cookies",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.4-cookies"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "3.POCE.3: UFO Sightings",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos"
+               }
+            ]
+         },
+         "dayIndex": 24
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "1.ICE.CSS.4: MyTunes",
+                  "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes"
+               }
+            ]
+         },
+         "postClass": {},
+         "dayIndex": 24
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

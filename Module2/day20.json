@@ -1,0 +1,77 @@
+{
+   "courseDay": 20,
+   "dateTypes": {
+      "module": "Module 3: Backend Applications",
+      "general": {
+         "type": "general",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {
+            "items": [
+               {
+                  "name": "0.2.3: ES6 Destructuring, Spread Operators",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.3-es6-destructuring-spread-operators"
+               },
+               {
+                  "name": "0.6: Nodemon",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.6-nodemon"
+               },
+               {
+                  "name": "3.2: EJS",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.2-ejs"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "3.ICE.2: Bigfoot EJS",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.2-bigfoot-ejs"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "3.POCE.2: Express, EJS Noodle App",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.2-express-ejs-noodle-app"
+               }
+            ]
+         },
+         "dayIndex": 20
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

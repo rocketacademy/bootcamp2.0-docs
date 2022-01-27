@@ -1,0 +1,81 @@
+{
+   "courseDay": 23,
+   "dateTypes": {
+      "module": "Module 3: Backend Applications",
+      "general": {
+         "type": "general",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {
+            "items": [
+               {
+                  "name": "3.2.3: EJS Partials",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.2-ejs/3.2.3-advanced-ejs"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "Scrum",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
+               },
+               {
+                  "name": "1.ICE.7: CSS Practice 1 - MyTunes",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.7-css-practice-1-mytunes"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "3.POCE.3: UFO Sightings",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos"
+               }
+            ]
+         },
+         "dayIndex": 23
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "1.ICE.CSS.4: MyTunes",
+                  "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes"
+               }
+            ]
+         },
+         "postClass": {},
+         "dayIndex": 23
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

@@ -1,0 +1,82 @@
+{
+   "courseDay": 54,
+   "dateTypes": {
+      "module": "Module 6: Frontend Infrastructure",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "6.1.5: Webpack with Express",
+                  "url": "https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "AJAX Cards Redux"
+               }
+            ]
+         },
+         "postClass": {},
+         "dayIndex": 54
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "A.5.1: Arrays - Part 2",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-2"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "A.5.1: Arrays - Part 2",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-2"
+               }
+            ]
+         },
+         "dayIndex": 54
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 3 Ideation Phase 2",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-2"
+               }
+            ]
+         },
+         "dayIndex": 54
+      }
+   }
+}

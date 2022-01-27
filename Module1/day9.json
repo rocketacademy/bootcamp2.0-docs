@@ -1,0 +1,75 @@
+{
+   "courseDay": 9,
+   "dateTypes": {
+      "module": "Module 1: Frontend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "css": {
+         "type": "css",
+         "preClass": {
+            "items": [
+               {
+                  "name": "CSS.3.1: Flexbox Columns",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.3-flexbox/css.3.1-flexbox-layout"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "1.ICE.CSS.4: Etsy",
+                  "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.4-etsy-css"
+               }
+            ]
+         },
+         "postClass": {},
+         "dayIndex": 9
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "Project 1 Scrum",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 1 Implementation",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
+               }
+            ]
+         },
+         "dayIndex": 9
+      }
+   }
+}

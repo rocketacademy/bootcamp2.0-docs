@@ -1,0 +1,71 @@
+{
+   "courseDay": 13,
+   "dateTypes": {
+      "module": "Module 2: Backend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "2.3: Modules",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.3-modules"
+               },
+               {
+                  "name": "2.4: Disk Reading",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.4-disk-reading"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "2.ICE.2: Modules, Disk Reading",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.2-modules-disk-reading"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "2.POCE.2: CSS Reader",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader"
+               }
+            ]
+         },
+         "dayIndex": 13
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

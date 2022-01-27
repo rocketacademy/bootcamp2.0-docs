@@ -1,0 +1,94 @@
+{
+   "courseDay": 15,
+   "dateTypes": {
+      "module": "Module 2: Backend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "2.9: HTTP Requests and Responses",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.9-http"
+               },
+               {
+                  "name": "2.10: HTTP File Server",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.10-http-file-server"
+               },
+               {
+                  "name": "Install ngrok. We will use it in 2.ICE.4.",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.0-module-2-overview#ngrok"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "Review 2.POCE.3: CSS Processor",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review"
+               },
+               {
+                  "name": "2.ICE.4: Servers and Requests",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.4-servers-and-requests"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "2.POCE.4: File Server",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.4-file-server"
+               }
+            ]
+         },
+         "dayIndex": 15
+      },
+      "css": {
+         "type": "css",
+         "preClass": {
+            "items": [
+               {
+                  "name": "CSS.6 Bootstrap",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.6-bootstrap"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "1.POCE.9: Bootstrap",
+                  "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns"
+               }
+            ]
+         },
+         "dayIndex": 15
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

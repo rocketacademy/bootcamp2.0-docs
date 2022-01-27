@@ -1,0 +1,94 @@
+{
+   "courseDay": 62,
+   "dateTypes": {
+      "module": "Module 7: React",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "7.0: Module 7 Overview",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.0-module-7-overview"
+               },
+               {
+                  "name": "7.1: JSX Intro",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.1-jsx-intro"
+               },
+               {
+                  "name": "7.1.1: Conditional Rendering",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.1-jsx-intro/7.1.1-conditional-rendering"
+               },
+               {
+                  "name": "7.1.2: Rendering In a Loop",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "7.ICE.1: JSX Products Items",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.1-product-rendering"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "7.POCE.1: JSX Bug Reports",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.1-bugs"
+               }
+            ]
+         },
+         "dayIndex": 62
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "Peer project review exercise",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#project-presentations"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 3 Video Demo",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo"
+               }
+            ]
+         },
+         "dayIndex": 62
+      }
+   }
+}

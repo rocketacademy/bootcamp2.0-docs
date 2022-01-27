@@ -1,0 +1,81 @@
+{
+   "courseDay": 21,
+   "dateTypes": {
+      "module": "Module 3: Backend Applications",
+      "general": {
+         "type": "general",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {
+            "items": [
+               {
+                  "name": "3.1.2: HTML Forms",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.1-express-js/3.1.2-html-forms"
+               },
+               {
+                  "name": "3.1.3: Handling POST Requests",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.1-express-js/3.1.3-handling-post-requests"
+               },
+               {
+                  "name": "3.2.2: EJS Conditionals",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.2-ejs/3.2.2-ejs-conditionals"
+               },
+               {
+                  "name": "0.7: Thunder Client",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.7-postman"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "3.ICE.3: Bigfoot POST",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.3-bigfoot-post"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "3.POCE.3: UFO Sightings",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos"
+               }
+            ]
+         },
+         "dayIndex": 21
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

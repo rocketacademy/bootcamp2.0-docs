@@ -1,0 +1,91 @@
+{
+   "courseDay": 81,
+   "dateTypes": {
+      "module": "Module 8: Advanced React",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "8.4: React Router",
+                  "url": "https://bootcamp.rocketacademy.co/8-advanced-react/8.4-react-router"
+               },
+               {
+                  "name": "8.4.1: React Router Shopping",
+                  "url": "https://bootcamp.rocketacademy.co/8-advanced-react/8.4-react-router/8.4.1-react-router-shopping"
+               },
+               {
+                  "name": "8.4.2: React Router Deep Linking",
+                  "url": "https://bootcamp.rocketacademy.co/8-advanced-react/8.4-react-router/8.4.2-react-router-deep-linking"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "8.POCE.1: Car Rental",
+                  "url": "https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental"
+               }
+            ]
+         },
+         "dayIndex": 81
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "A.5.6: Trees - Part 4",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-4"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "A.5.6: Trees - Part 4",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-4"
+               }
+            ]
+         },
+         "dayIndex": 81
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 5 Ideation Phase 2",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-2"
+               }
+            ]
+         },
+         "dayIndex": 81
+      }
+   }
+}

@@ -1,0 +1,87 @@
+{
+   "courseDay": 91,
+   "dateTypes": {
+      "module": "Module 9: Advanced Topics",
+      "general": {
+         "type": "general",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "A.9: Dynamic Programming - Part 2",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-2"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "A.9: Dynamic Programming - Part 2",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-2"
+               }
+            ]
+         },
+         "dayIndex": 91
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "IP.4: Job List",
+                  "url": "https://bootcamp.rocketacademy.co/interview-prep/ip.4-job-list"
+               }
+            ]
+         },
+         "dayIndex": 91
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "Project 6 Scrum",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 6 Implementation",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-6-capstone"
+               },
+               {
+                  "name": "Project 6 Exploration Time",
+                  "url": ""
+               }
+            ]
+         },
+         "dayIndex": 91
+      }
+   }
+}

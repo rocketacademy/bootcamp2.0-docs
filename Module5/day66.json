@@ -1,0 +1,83 @@
+{
+   "courseDay": 66,
+   "dateTypes": {
+      "module": "Module 7: React",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "7.7: Designing Component Hierarchy",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.7-designing-component-hierarchy"
+               },
+               {
+                  "name": "7.7.1: AJAX Requests from Components",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.7-designing-component-hierarchy/7.7.1-ajax-requests-from-components"
+               },
+               {
+                  "name": "7.9: React Dev Tools",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.9-react-dev-tools"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "7.ICE.5: Create Item",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.5-create-item"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "7.POCE.3: Read Later",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.3-read-later"
+               }
+            ]
+         },
+         "dayIndex": 66
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "A.6: Binary Search - Part 1 ",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.6-binary-search#part-1"
+               }
+            ]
+         },
+         "dayIndex": 66
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

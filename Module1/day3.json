@@ -1,0 +1,87 @@
+{
+   "courseDay": 3,
+   "dateTypes": {
+      "module": "Module 1: Frontend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "1.5: High Card setTimeout",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.5-high-card-settimeout"
+               },
+               {
+                  "name": "1.6: Match Game",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.6-match-game"
+               },
+               {
+                  "name": "0.2.4: Reference vs. Value",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "Peer-Review: 1.POCE.2: High Card",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review"
+               },
+               {
+                  "name": "1.ICE.2: Timeout / High Card Redux",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.2-high-card-redux"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "1.POCE.3: Match Game",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.3-match-game"
+               }
+            ]
+         },
+         "dayIndex": 3
+      },
+      "css": {
+         "type": "css",
+         "preClass": {
+            "items": [
+               {
+                  "name": "CSS.1: Basic CSS (Exercises Part 2)",
+                  "url": "https://bootcamp.rocketacademy.co/css/css-1-basic-css"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {},
+         "dayIndex": 3
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

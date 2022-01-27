@@ -1,0 +1,107 @@
+{
+   "courseDay": 1,
+   "dateTypes": {
+      "module": "Module 1: Frontend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "1.0: Module 1 Overview",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.0-module-1-overview"
+               },
+               {
+                  "name": "1.1: HTML",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html"
+               },
+               {
+                  "name": "1.1.0: Wireframes",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html/1.1.0-wireframes"
+               },
+               {
+                  "name": "1.1.1: HTML Basics",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html/1.1.1-basic-html"
+               },
+               {
+                  "name": "0.0: Module 0 Overview",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.0-module-0-overview"
+               },
+               {
+                  "name": "0.1: New JS Syntax",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.1-new-js-syntax"
+               },
+               {
+                  "name": "0.2: ES6",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6"
+               },
+               {
+                  "name": "0.2.1: ES6 Basics",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.1-es6-basics"
+               },
+               {
+                  "name": "1.2: DOM Review",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.2-dom-review"
+               },
+               {
+                  "name": "1.2.1: DOM Review - Creating Elements",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.2-dom-review/1.2.1-creating-elements"
+               },
+               {
+                  "name": "1.2.2: DOM Review - Events",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.2-dom-review/1.2.2-events"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "1.ICE.1: Drawing DOM",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "1.POCE.1: Noodle Recipe Website",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.1-noodles"
+               }
+            ]
+         },
+         "dayIndex": 1
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

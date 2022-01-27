@@ -1,0 +1,75 @@
+{
+   "courseDay": 25,
+   "dateTypes": {
+      "module": "Module 3: Backend Applications",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "3.4: SQL Applications",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications"
+               },
+               {
+                  "name": "3.4.1: PostgreSQL, psql",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.1-postgresql-psql"
+               },
+               {
+                  "name": "3.4.2: PostgreSQL Node App",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.2-postgresql-node-app"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "Project Presentation: 3.POCE.3",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-presentations"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "3.POCE.4: Meal Tracker",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.4-sql-meal-keeper"
+               }
+            ]
+         },
+         "dayIndex": 25
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

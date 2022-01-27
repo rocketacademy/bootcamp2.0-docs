@@ -1,0 +1,79 @@
+{
+   "courseDay": 64,
+   "dateTypes": {
+      "module": "Module 7: React",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "7.3: Using React with Express and Webpack",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.3-using-react-with-express-and-webpack"
+               },
+               {
+                  "name": "7.4: React State",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.4-react-state"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "7.ICE.3: React Cards",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.3-react-cards"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "7.POCE.2: React Tic Tac Toe",
+                  "url": "https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe"
+               }
+            ]
+         },
+         "dayIndex": 64
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "A.5.5: Linked Lists - Part 3",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#part-3"
+               }
+            ]
+         },
+         "dayIndex": 64
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

@@ -1,0 +1,75 @@
+{
+   "courseDay": 46,
+   "dateTypes": {
+      "module": "Module 4: Backend Structure",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "4.1.4: Sequelize Many-to-Many",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.4-sequelize-many-to-many"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "4.POCE.3: Project 2 MVC Refactor",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "4.POCE.2: Drummers for Hire",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire"
+               }
+            ]
+         },
+         "dayIndex": 46
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "UX.3: How to Design Your App",
+                  "url": "https://bootcamp.rocketacademy.co/user-experience/ux.3-how-to-design-your-app"
+               }
+            ]
+         },
+         "dayIndex": 46
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

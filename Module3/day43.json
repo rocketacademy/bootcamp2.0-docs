@@ -1,0 +1,79 @@
+{
+   "courseDay": 43,
+   "dateTypes": {
+      "module": "Module 4: Backend Structure",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "4.0: Module 4 Overview",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.0-module-4-overview"
+               },
+               {
+                  "name": "4.1: ORM, Sequelize",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize"
+               },
+               {
+                  "name": "4.1.1: Intro to Sequelize",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize"
+               },
+               {
+                  "name": "4.1.2: Sequelize One-to-Many",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.2-sequelize-one-to-many-relationships"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "3.ICE.13: DB Schema Design - Airbnb",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.13-db-schema-design-airbnb"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "4.POCE.1: Sequelize CLI App - Travel Itinerary",
+                  "url": "https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary"
+               }
+            ]
+         },
+         "dayIndex": 43
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

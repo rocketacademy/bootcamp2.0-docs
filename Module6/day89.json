@@ -1,0 +1,91 @@
+{
+   "courseDay": 89,
+   "dateTypes": {
+      "module": "Module 9: Advanced Topics",
+      "general": {
+         "type": "general",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "A.5.8: Heaps - Part 3",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-3"
+               }
+            ]
+         },
+         "dayIndex": 89
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "IP.3: Portfolio",
+                  "url": "https://bootcamp.rocketacademy.co/interview-prep/ip.3-portfolio"
+               }
+            ]
+         },
+         "dayIndex": 89
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {
+            "items": [
+               {
+                  "name": "Start: Project 6 Ideation Phase 1",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-6-capstone"
+               }
+            ]
+         },
+         "projectDue": {
+            "items": [
+               {
+                  "name": "Due: Project 5 Presentations",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-presentations"
+               }
+            ]
+         },
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 5 Post-Mortems",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting"
+               },
+               {
+                  "name": "Project 5 Video",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#video-demo"
+               },
+               {
+                  "name": "Project 6 Ideation Phase 1",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-6-capstone#ideation-phase-1"
+               }
+            ]
+         },
+         "dayIndex": 89
+      }
+   }
+}

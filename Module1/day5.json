@@ -1,0 +1,83 @@
+{
+   "courseDay": 5,
+   "dateTypes": {
+      "module": "Module 1: Frontend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "1.9: Tic Tac Toe",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.9-tic-tac-toe"
+               },
+               {
+                  "name": "1.10: Multi File Refactor",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.10-multi-file-refactor"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "Peer-Review: 1.POCE.4: Timer",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "1.POCE.5: Tic Tac Toe",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe"
+               }
+            ]
+         },
+         "dayIndex": 5
+      },
+      "css": {
+         "type": "css",
+         "preClass": {
+            "items": [
+               {
+                  "name": "CSS.2.3: Box Model",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.3-box-model"
+               },
+               {
+                  "name": "CSS.2.4: Layout Width",
+                  "url": "https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.4-layout-fixed-width-and-max-width"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {},
+         "dayIndex": 5
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}

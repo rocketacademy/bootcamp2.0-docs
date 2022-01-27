@@ -1,0 +1,94 @@
+{
+   "courseDay": 53,
+   "dateTypes": {
+      "module": "Module 6: Frontend Infrastructure",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "6.1.3: Webpack with Babel",
+                  "url": "https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel"
+               },
+               {
+                  "name": "6.1.4: Webpack with SASS",
+                  "url": "https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass"
+               }
+            ]
+         },
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "5.POCE.3: AJAX Cards",
+                  "url": "https://bootcamp.rocketacademy.co/5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards"
+               }
+            ]
+         },
+         "dayIndex": 53
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "A.5.1: Arrays - Part 1",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-1"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "A.5.1: Arrays - Part 1",
+                  "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-1"
+               }
+            ]
+         },
+         "dayIndex": 53
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {
+            "items": [
+               {
+                  "name": "Start: Project 3 Ideation Phase 2",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-2"
+               }
+            ]
+         },
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "Project 3 Ideation Phase 2",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-2"
+               }
+            ]
+         },
+         "dayIndex": 53
+      }
+   }
+}

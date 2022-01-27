@@ -1,0 +1,83 @@
+{
+   "courseDay": 12,
+   "dateTypes": {
+      "module": "Module 2: Backend Basics",
+      "general": {
+         "type": "general",
+         "preClass": {
+            "items": [
+               {
+                  "name": "2.0: Module 2 Overview",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.0-module-2-overview"
+               },
+               {
+                  "name": "2.1: My First Node.js Program",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.1-my-first-node-program"
+               },
+               {
+                  "name": "2.2: Command Line Programs",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.2-command-line-programs"
+               }
+            ]
+         },
+         "inClass": {
+            "items": [
+               {
+                  "name": "2.ICE.1: Conversions",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.1-conversions"
+               }
+            ]
+         },
+         "postClass": {
+            "items": [
+               {
+                  "name": "2.POCE.1: Command Line Colour Converter",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.1-command-line-colour-converter"
+               }
+            ]
+         },
+         "dayIndex": 12
+      },
+      "css": {
+         "type": "css",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {
+            "items": [
+               {
+                  "name": "1.POCE.6: CSS Flexbox",
+                  "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.1-technical-documentation-page-flexbox-responsive"
+               }
+            ]
+         },
+         "dayIndex": 12
+      },
+      "algos": {
+         "type": "algos",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ux": {
+         "type": "ux",
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "ip": {
+         "type": "ip",
+         "ipDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      },
+      "projects": {
+         "type": "projects",
+         "projectStart": {},
+         "projectDue": {},
+         "preClass": {},
+         "inClass": {},
+         "postClass": {}
+      }
+   }
+}
