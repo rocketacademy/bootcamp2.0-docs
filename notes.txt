@@ -1,0 +1,48 @@
+Module 1 is the same first 15 days.
+last day (16) is changed to be by in class activity to deploy video poker project to heroku, using http file server.
+moved original day 16 content to module 2.
+
+
+Module 2
+
+very long... as is, project ideation starts day 30.
+post class projects: UFO Sightings, Bird Watching, 
+
+
+removed AWS material from day 16. where to put it? TBD...
+{
+    "name": "2.11: Deploy Server to Cloud",
+    "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.11-deploy-server-to-cloud"
+},
+{
+    "name": "2.12: Domain Names",
+    "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.12-domain-names"
+},
+
+day1 = day 16 with aws topics removed
+day2 = day 17 as is
+day3 = day 18, 
+    redo git pull page. remove (EC2 reference.)
+    git activity is class repo, with listings of all video poker projects in the class. SL will create repo. each student will create a branch.
+    students can also commit different css stylings to main page to be like csszengarden.
+
+
+rethink
+
+Module 1: Day 1-15 + new 16 deploy to heroku
+
+Module 2 Day 16-42 (27days)
+
+
+Module 3 currently 43-61 (19 days)
+project starts day 51
+
+
+Module 4 currently starts day 62-77 (16 days)
+project ideation 67
+
+Module 5 starts day 78-86 (9days)
+project ideation day 78
+
+module 6 day 87-96 (10 days)
+prjoect day 89
