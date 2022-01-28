@@ -7,13 +7,19 @@
          "preClass": {
             "items": [
                {
-                  "name": "3.3.4: Inner Join",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.4-inner-join"
+                  "name": "3.3.3: SQL Relationships (Many to Many)",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many"
                },
                {
-                  "name": "3.5.2: User Auth",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.2-user-auth"
+                  "name": "3.4.6: Forms for Many-to-Many Relationships",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.6-forms-for-many-to-many-relationships"
+               }, 
+               {
+                  "name": "3.3.4: Inner Join",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.4-inner-join"
                }
+               
+               
             ]
          },
          "inClass": {

@@ -9,6 +9,14 @@
                {
                   "name": "6.1.2: Webpack with NPM Modules",
                   "url": "https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules"
+               },
+               {
+                  "name": "6.1.5: Webpack with Express",
+                  "url": "https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express"
+               },
+               {
+                  "name": "Group Work (for project management)",
+                  "url": "https://bootcamp.rocketacademy.co/course-logistics/group-work"
                }
             ]
          },

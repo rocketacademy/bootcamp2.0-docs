@@ -32,11 +32,24 @@ rethink
 Module 1: Day 1-15 + new 16 deploy to heroku
 
 Module 2 Day 16-42 (27days)
+- combined day 16 and 17 : 1 day with all JSON.
+- day 17 - all language (0.x)
+- day 18 - git pull and branching
+- Day 19 - Express
+20 - ejs
+21 - forms and post
+22 - put delete
+23 - promises
+24-26 - sql
+27 - cookies and auth
 
 
 Module 3 currently 43-61 (19 days)
 project starts day 51
 
+cut some webpack content (css, sass, babel)
+pushed some topics together (webpack npm and express, project management)
+now 16 days
 
 Module 4 currently starts day 62-77 (16 days)
 project ideation 67

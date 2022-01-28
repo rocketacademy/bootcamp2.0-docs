@@ -15,17 +15,15 @@
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.1-basic-sql-commands"
                },
                {
-                  "name": "3.5.1: Cookies",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.1-cookies"
+                  "name": "3.3.2: SQL Relationships (One to Many)",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many"
                }
+               
+               
             ]
          },
          "inClass": {
             "items": [
-               {
-                  "name": "Scrum",
-                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
-               },
                {
                   "name": "3.ICE.4: Cookies",
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.4-cookies"

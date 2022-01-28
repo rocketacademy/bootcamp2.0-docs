@@ -6,10 +6,7 @@
          "type": "general",
          "preClass": {
             "items": [
-               {
-                  "name": "0.2.2: ES6 Array Iterators",
-                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.2-es6-array-iterators"
-               },
+               
                {
                   "name": "0.5.1: Git Pull",
                   "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.5-advanced-git/0.5.1-git-pull"

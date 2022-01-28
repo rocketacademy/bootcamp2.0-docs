@@ -7,13 +7,13 @@
          "preClass": {
             "items": [
                {
-                  "name": "3.3.3: SQL Relationships (Many to Many)",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many"
+                  "name": "3.5.1: Cookies",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.1-cookies"
                },
                {
-                  "name": "3.4.5: Forms for One-to-Many Relationships",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships"
-               },
+                  "name": "3.5.2: User Auth",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.2-user-auth"
+               },          
                {
                   "name": "3.5.3: Password Hashing",
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.3-password-hashing"

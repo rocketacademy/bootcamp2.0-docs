@@ -7,17 +7,19 @@
          "preClass": {
             "items": [
                {
-                  "name": "3.3.2: SQL Relationships (One to Many)",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many"
+                  "name": "3.4.5: Forms for One-to-Many Relationships",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships"
+               },
+               {
+                  "name": "3.4.7: pg Promises",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.7-pg-promises"
                },
                {
                   "name": "3.4.3: Nested SQL Queries",
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.3-nested-sql-queries"
-               },
-               {
-                  "name": "3.4.4: PostgreSQL Express App",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.4-postgresql-express-app"
                }
+               
+               
             ]
          },
          "inClass": {

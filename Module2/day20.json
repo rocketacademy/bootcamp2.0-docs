@@ -8,17 +8,18 @@
          "projectDue": {},
          "preClass": {
             "items": [
-               {
-                  "name": "0.2.3: ES6 Destructuring, Spread Operators",
-                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.3-es6-destructuring-spread-operators"
-               },
-               {
-                  "name": "0.6: Nodemon",
-                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.6-nodemon"
-               },
+               
                {
                   "name": "3.2: EJS",
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.2-ejs"
+               },
+               {
+                  "name": "3.2.2: EJS Conditionals",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.2-ejs/3.2.2-ejs-conditionals"
+               },
+               {
+                  "name": "3.2.3: EJS Partials",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.2-ejs/3.2.3-advanced-ejs"
                }
             ]
          },

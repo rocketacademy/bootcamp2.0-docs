@@ -9,8 +9,12 @@
          "preClass": {
             "items": [
                {
-                  "name": "3.2.3: EJS Partials",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.2-ejs/3.2.3-advanced-ejs"
+                  "name": "0.8: JS Promises",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.8-js-promises"
+               },
+               {
+                  "name": "0.8.1: Promise.prototype.catch, Promise.all",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.8-js-promises/0.8.1-promise.prototype.catch-promise.all"
                }
             ]
          },

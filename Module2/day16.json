@@ -13,6 +13,14 @@
                {
                   "name": "2.13.1: JSON File Storage Module - Add, Read, Write",
                   "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.13-json/2.13.1-json-file-storage-module-add-read-write"
+               },
+               {
+                  "name": "2.13.2: JSON File Storage Module - Passing Callbacks",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.13-json/2.13.2-json-file-storage-module-passing-callbacks"
+               },
+               {
+                  "name": "2.13.3: JSON File Storage Module - Summary",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.13-json/2.13.3-json-file-storage-module-summary"
                }
             ]
          },

@@ -17,6 +17,10 @@
                {
                   "name": "3.4.2: PostgreSQL Node App",
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.2-postgresql-node-app"
+               },
+               {
+                  "name": "3.4.4: PostgreSQL Express App",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.4-postgresql-express-app"
                }
             ]
          },

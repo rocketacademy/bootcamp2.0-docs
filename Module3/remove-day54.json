@@ -6,10 +6,7 @@
          "type": "general",
          "preClass": {
             "items": [
-               {
-                  "name": "6.1.5: Webpack with Express",
-                  "url": "https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express"
-               }
+              
             ]
          },
          "inClass": {
