@@ -20,14 +20,7 @@
          },
          "inClass": {
             "items": [
-               {
-                  "name": "Scrum",
-                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
-               },
-               {
-                  "name": "1.ICE.7: CSS Practice 1 - MyTunes",
-                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.7-css-practice-1-mytunes"
-               }
+               
             ]
          },
          "postClass": {

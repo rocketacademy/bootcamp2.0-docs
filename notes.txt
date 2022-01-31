@@ -5,7 +5,10 @@ module 2
 - move authentication to Module 5
 - all we need is express and sql 
 
-populate icebox.
+mike done.
+- need to revisit projects (UFO, Bird Watching, Project 2)
+- revisit schema design activities.
+- removed css exercises
 
 
 Results of first pass

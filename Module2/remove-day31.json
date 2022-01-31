@@ -1,24 +1,26 @@
 {
-   "courseDay": 32,
+   "courseDay": 31,
    "dateTypes": {
       "module": "Module 3: Backend Applications",
       "general": {
          "type": "general",
          "preClass": {
             "items": [
+               
+               
+               
+            ]
+         },
+         "inClass": {
+            "items": [
                {
-                  "name": "3.4.9: Database Setup Files",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.9-database-setup-files"
-               },
-               {
-                  "name": "3.5.5: Custom Middleware for Authentication",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.5-custom-middleware-for-authentication"
+                  "name": "3.ICE.10: Bird Watching Redux",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.10-bird-watching-redux"
                }
             ]
          },
-         "inClass": {},
          "postClass": {},
-         "dayIndex": 32
+         "dayIndex": 31
       },
       "css": {
          "type": "css",
@@ -47,26 +49,19 @@
       },
       "projects": {
          "type": "projects",
-         "projectStart": {
-            "items": [
-               {
-                  "name": "Start: Project 2 Ideation Phase 2",
-                  "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2"
-               }
-            ]
-         },
+         "projectStart": {},
          "projectDue": {},
          "preClass": {},
          "inClass": {},
          "postClass": {
             "items": [
                {
-                  "name": "Project 2 Ideation Phase 2",
-                  "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2"
+                  "name": "Project 2 Ideation Phase 1",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1"
                }
             ]
          },
-         "dayIndex": 32
+         "dayIndex": 31
       }
    }
 }

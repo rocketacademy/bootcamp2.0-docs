@@ -1,29 +1,39 @@
 {
-   "courseDay": 31,
+   "courseDay": 30,
    "dateTypes": {
       "module": "Module 3: Backend Applications",
       "general": {
          "type": "general",
          "preClass": {
             "items": [
-               
-               
                {
-                  "name": "3.4.8: SQL Clients",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.8-sql-clients"
+                  "name": "3.4.9: Database Setup Files",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.9-database-setup-files"
                }
+               
             ]
          },
          "inClass": {
             "items": [
                {
-                  "name": "3.ICE.10: Bird Watching Redux",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.10-bird-watching-redux"
+                  "name": "3.ICE.9: DB Schema Design - Carousell",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.9-db-schema-design-carousell"
                }
             ]
          },
-         "postClass": {},
-         "dayIndex": 31
+         "postClass": {
+            "items": [
+               {
+                  "name": "3.POCE.9: Bird Watching Comments",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.9-bird-watching-comments"
+               },
+               {
+                  "name": "3.POCE.10: EC2 Deployment with Postgres",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres"
+               }
+            ]
+         },
+         "dayIndex": 30
       },
       "css": {
          "type": "css",
@@ -64,7 +74,7 @@
                }
             ]
          },
-         "dayIndex": 31
+         "dayIndex": 30
       }
    }
 }

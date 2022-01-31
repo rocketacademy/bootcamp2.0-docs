@@ -1,5 +1,5 @@
 {
-   "courseDay": 24,
+   "courseDay": 28,
    "dateTypes": {
       "module": "Module 3: Backend Applications",
       "general": {
@@ -7,19 +7,26 @@
          "preClass": {
             "items": [
                {
-                  "name": "3.3: SQL Language",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language"
+                  "name": "3.5.1: Cookies",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.1-cookies"
                },
                {
-                  "name": "3.3.1: Basic SQL Commands",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.1-basic-sql-commands"
+                  "name": "3.5.2: User Auth",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.2-user-auth"
+               },          
+               {
+                  "name": "3.5.3: Password Hashing",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.3-password-hashing"
                },
                {
-                  "name": "3.3.2: SQL Relationships (One to Many)",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many"
+                  "name": "3.5.4: Session Hashing",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.4-session-hashing"
+               },
+               {
+                  "name": "3.5.5: Custom Middleware for Authentication",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.5-custom-middleware-for-authentication"
                }
-               
-               
+
             ]
          },
          "inClass": {
@@ -28,31 +35,24 @@
                   "name": "3.ICE.4: Cookies",
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.4-cookies"
                }
+               
             ]
          },
          "postClass": {
             "items": [
                {
-                  "name": "3.POCE.3: UFO Sightings",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos"
+                  "name": "3.POCE.7: Bird Watching Species",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.7-bird-watching-species"
                }
             ]
          },
-         "dayIndex": 24
+         "dayIndex": 28
       },
       "css": {
          "type": "css",
          "preClass": {},
-         "inClass": {
-            "items": [
-               {
-                  "name": "1.ICE.CSS.4: MyTunes",
-                  "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes"
-               }
-            ]
-         },
-         "postClass": {},
-         "dayIndex": 24
+         "inClass": {},
+         "postClass": {}
       },
       "algos": {
          "type": "algos",

@@ -1,29 +1,18 @@
 {
-   "courseDay": 34,
+   "courseDay": 32,
    "dateTypes": {
       "module": "Module 3: Backend Applications",
       "general": {
          "type": "general",
-         "projectStart": {},
-         "projectDue": {},
          "preClass": {
             "items": [
-               {
-                  "name": "3.4.11: File Uploads",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.11-file-uploads"
-               }
+               
+               
             ]
          },
-         "inClass": {
-            "items": [
-               {
-                  "name": "3.ICE.12: DB Schema Design - Instagram",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram"
-               }
-            ]
-         },
+         "inClass": {},
          "postClass": {},
-         "dayIndex": 34
+         "dayIndex": 32
       },
       "css": {
          "type": "css",
@@ -55,30 +44,23 @@
          "projectStart": {
             "items": [
                {
-                  "name": "Start: Project 2 Start",
-                  "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app"
-               }
-            ]
-         },
-         "projectDue": {
-            "items": [
-               {
-                  "name": "Due: Project 2 Ideation Phase 2",
+                  "name": "Start: Project 2 Ideation Phase 2",
                   "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2"
                }
             ]
          },
+         "projectDue": {},
          "preClass": {},
-         "inClass": {
+         "inClass": {},
+         "postClass": {
             "items": [
                {
-                  "name": "Project 2 Peer Planning Review",
+                  "name": "Project 2 Ideation Phase 2",
                   "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2"
                }
             ]
          },
-         "postClass": {},
-         "dayIndex": 34
+         "dayIndex": 32
       }
    }
 }

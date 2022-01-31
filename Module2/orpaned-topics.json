@@ -1,18 +1,32 @@
-[
+{"pre_class" : [
     {
-        "name": "2.13: JSON",
-        "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.13-json"
-     },
-     {
-        "name": "2.13.1: JSON File Storage Module - Add, Read, Write",
-        "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.13-json/2.13.1-json-file-storage-module-add-read-write"
-     },
-     {
-        "name": "2.13.2: JSON File Storage Module - Passing Callbacks",
-        "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.13-json/2.13.2-json-file-storage-module-passing-callbacks"
-     },
-     {
-        "name": "2.13.3: JSON File Storage Module - Summary",
-        "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.13-json/2.13.3-json-file-storage-module-summary"
+        "name": "3.4.8: SQL Clients",
+        "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.8-sql-clients"
      }
-]
+
+     
+],
+ "in_class" : 
+ [
+    {
+        "name": "1.ICE.7: CSS Practice 1 - MyTunes",
+        "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.7-css-practice-1-mytunes"
+     },
+     {
+        "name": "1.ICE.CSS.8: Chase Bank",
+        "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.8-chase-bank"
+     },
+     {
+        "name": "1.ICE.CSS.7: Zillow",
+        "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.7-zillow"
+     },
+     {
+        "name": "1.ICE.CSS.6: NTU",
+        "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.6-ntu"
+     },
+     {
+        "name": "1.ICE.CSS.5: Restaurant",
+        "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.5-trombones"
+     }
+ ]
+}

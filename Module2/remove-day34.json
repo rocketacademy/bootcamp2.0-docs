@@ -1,27 +1,26 @@
 {
-   "courseDay": 33,
+   "courseDay": 34,
    "dateTypes": {
       "module": "Module 3: Backend Applications",
       "general": {
          "type": "general",
+         "projectStart": {},
+         "projectDue": {},
          "preClass": {
             "items": [
-               {
-                  "name": "3.4.10: Dates in SQL and JS",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.10-dates-in-sql-and-js"
-               }
+               
             ]
          },
          "inClass": {
             "items": [
                {
-                  "name": "3.ICE.11: DB Schema Design - Uber",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.11-db-schema-design-uber"
+                  "name": "3.ICE.12: DB Schema Design - Instagram",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram"
                }
             ]
          },
          "postClass": {},
-         "dayIndex": 33
+         "dayIndex": 34
       },
       "css": {
          "type": "css",
@@ -50,19 +49,33 @@
       },
       "projects": {
          "type": "projects",
-         "projectStart": {},
-         "projectDue": {},
-         "preClass": {},
-         "inClass": {},
-         "postClass": {
+         "projectStart": {
             "items": [
                {
-                  "name": "Project 2 Ideation Phase 2",
+                  "name": "Start: Project 2 Start",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app"
+               }
+            ]
+         },
+         "projectDue": {
+            "items": [
+               {
+                  "name": "Due: Project 2 Ideation Phase 2",
                   "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2"
                }
             ]
          },
-         "dayIndex": 33
+         "preClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "Project 2 Peer Planning Review",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2"
+               }
+            ]
+         },
+         "postClass": {},
+         "dayIndex": 34
       }
    }
 }

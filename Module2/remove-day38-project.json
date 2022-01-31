@@ -1,5 +1,5 @@
 {
-   "courseDay": 39,
+   "courseDay": 38,
    "dateTypes": {
       "module": "Module 3: Backend Applications",
       "general": {
@@ -13,14 +13,11 @@
          "preClass": {},
          "inClass": {
             "items": [
-               {
-                  "name": "1.ICE.CSS.8: Chase Bank",
-                  "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.8-chase-bank"
-               }
+               
             ]
          },
          "postClass": {},
-         "dayIndex": 39
+         "dayIndex": 38
       },
       "algos": {
          "type": "algos",
@@ -62,7 +59,7 @@
                }
             ]
          },
-         "dayIndex": 39
+         "dayIndex": 38
       }
    }
 }
