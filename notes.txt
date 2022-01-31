@@ -1,3 +1,24 @@
+
+kai
+module 2
+= move json, git, es6 to Bootcam warmup
+- move authentication to Module 5
+- all we need is express and sql 
+
+populate icebox.
+
+
+Results of first pass
+
+Module 1 is 16 days. same thing up to deppoyment. want to change deployment to heroku.
+Module 2 is the hardest. 26 days. needs more work. can reduce topics, but project requirements will suffer.
+Module 3 is 16 days. reduced webpack days. need to re-visit project days.
+Module 4 is 15 days. as is. 
+Module 5; is only 10 days. can add testing and AWS+cloud here.
+Module 6; is only 9 days. can add more grab bag topics here.
+
+
+
 Module 1 is the same first 15 days.
 last day (16) is changed to be by in class activity to deploy video poker project to heroku, using http file server.
 moved original day 16 content to module 2.
