@@ -1,34 +1,40 @@
 {
-   "courseDay": 29,
+   "courseDay": 25,
    "dateTypes": {
       "module": "Module 3: Backend Applications",
       "general": {
          "type": "general",
          "preClass": {
-            "items": [               
+            "items": [
                {
-                  "name": "3.3.6: SQL Schema Design",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.6-sql-schema-design"
+                  "name": "3.4.4: PostgreSQL Express App",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.4-postgresql-express-app"
+               },
+               {
+                  "name": "3.3.2: SQL Relationships (One to Many)",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many"
+               },               
+               {
+                  "name": "3.4.5: Forms for One-to-Many Relationships",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships"
                }
-               
-               
-               
             ]
          },
          "inClass": {
             "items": [
+               {
+                  "name": "3.ICE.5: One to Many",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.5-one-to-many"
+               }
                
             ]
          },
          "postClass": {
             "items": [
-               {
-                  "name": "3.POCE.8: Bird Watching Behaviour",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour"
-               }
+               
             ]
          },
-         "dayIndex": 29
+         "dayIndex": 25
       },
       "css": {
          "type": "css",

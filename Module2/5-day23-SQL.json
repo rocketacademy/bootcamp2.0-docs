@@ -1,31 +1,38 @@
 {
-   "courseDay": 25,
+   "courseDay": 23,
    "dateTypes": {
       "module": "Module 3: Backend Applications",
       "general": {
          "type": "general",
+         "projectStart": {},
+         "projectDue": {},
          "preClass": {
             "items": [
                {
-                  "name": "3.4.4: PostgreSQL Express App",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.4-postgresql-express-app"
+                  "name": "3.3: SQL Language",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language"
                },
                {
-                  "name": "3.3.2: SQL Relationships (One to Many)",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many"
-               },               
+                  "name": "3.3.1: Basic SQL Commands",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.1-basic-sql-commands"
+               },
                {
-                  "name": "3.4.5: Forms for One-to-Many Relationships",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships"
+                  "name": "3.4: SQL Applications",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications"
+               },
+               {
+                  "name": "3.4.1: PostgreSQL, psql",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.1-postgresql-psql"
+               },
+               {
+                  "name": "3.4.2: PostgreSQL Node App",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.2-postgresql-node-app"
                }
             ]
          },
          "inClass": {
             "items": [
-               {
-                  "name": "Project Presentation: 3.POCE.3",
-                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-presentations"
-               }
+               
             ]
          },
          "postClass": {
@@ -36,13 +43,18 @@
                }
             ]
          },
-         "dayIndex": 25
+         "dayIndex": 23
       },
       "css": {
          "type": "css",
          "preClass": {},
-         "inClass": {},
-         "postClass": {}
+         "inClass": {
+            "items": [
+               
+            ]
+         },
+         "postClass": {},
+         "dayIndex": 23
       },
       "algos": {
          "type": "algos",

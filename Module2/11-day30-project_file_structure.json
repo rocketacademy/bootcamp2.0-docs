@@ -26,11 +26,8 @@
                {
                   "name": "3.POCE.9: Bird Watching Comments",
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.9-bird-watching-comments"
-               },
-               {
-                  "name": "3.POCE.10: EC2 Deployment with Postgres",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres"
                }
+               
             ]
          },
          "dayIndex": 30
@@ -68,10 +65,7 @@
          "inClass": {},
          "postClass": {
             "items": [
-               {
-                  "name": "Project 2 Ideation Phase 1",
-                  "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1"
-               }
+               
             ]
          },
          "dayIndex": 30

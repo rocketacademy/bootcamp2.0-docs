@@ -6,14 +6,7 @@
          "type": "general",
          "preClass": {
             "items": [
-               {
-                  "name": "3.5.1: Cookies",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.1-cookies"
-               },
-               {
-                  "name": "3.5.2: User Auth",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.2-user-auth"
-               },          
+                     
                {
                   "name": "3.5.3: Password Hashing",
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.3-password-hashing"

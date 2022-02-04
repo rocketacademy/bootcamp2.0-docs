@@ -6,29 +6,14 @@
          "type": "general",
          "preClass": {
             "items": [
-               {
-                  "name": "3.3: SQL Language",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language"
-               },
-               {
-                  "name": "3.3.1: Basic SQL Commands",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.1-basic-sql-commands"
-               },
-               {
-                  "name": "3.4: SQL Applications",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications"
-               },
-               {
-                  "name": "3.4.1: PostgreSQL, psql",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.1-postgresql-psql"
-               },
-               {
-                  "name": "3.4.2: PostgreSQL Node App",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.2-postgresql-node-app"
-               },
+               
                {
                   "name": "3.4.3: Nested SQL Queries",
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.3-nested-sql-queries"
+               },
+               {
+                  "name": "3.3.6: SQL Schema Design",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.6-sql-schema-design"
                }
                
                
@@ -37,10 +22,7 @@
          },
          "inClass": {
             "items": [
-               {
-                  "name": "3.ICE.5: One to Many",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.5-one-to-many"
-               }
+               
             ]
          },
          "postClass": {
@@ -58,10 +40,7 @@
          "preClass": {},
          "inClass": {
             "items": [
-               {
-                  "name": "1.ICE.CSS.4: MyTunes",
-                  "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes"
-               }
+               
             ]
          },
          "postClass": {},

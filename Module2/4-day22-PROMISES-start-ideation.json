@@ -1,11 +1,9 @@
 {
-   "courseDay": 23,
+   "courseDay": 22,
    "dateTypes": {
       "module": "Module 3: Backend Applications",
       "general": {
          "type": "general",
-         "projectStart": {},
-         "projectDue": {},
          "preClass": {
             "items": [
                {
@@ -31,21 +29,13 @@
                }
             ]
          },
-         "dayIndex": 23
+         "dayIndex": 22
       },
       "css": {
          "type": "css",
          "preClass": {},
-         "inClass": {
-            "items": [
-               {
-                  "name": "1.ICE.CSS.4: MyTunes",
-                  "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes"
-               }
-            ]
-         },
-         "postClass": {},
-         "dayIndex": 23
+         "inClass": {},
+         "postClass": {}
       },
       "algos": {
          "type": "algos",
@@ -72,7 +62,13 @@
          "projectDue": {},
          "preClass": {},
          "inClass": {},
-         "postClass": {}
+         "postClass": {
+            "items":[
+            {
+               "name": "Project 2 Ideation Phase 1",
+               "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1"
+            }
+         ]}
       }
    }
 }
