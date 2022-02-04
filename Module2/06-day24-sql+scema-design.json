@@ -6,6 +6,15 @@
          "type": "general",
          "preClass": {
             "items": [
+
+               {
+                  "name": "0.8: JS Promises",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.8-js-promises"
+               },
+               {
+                  "name": "0.8.1: Promise.prototype.catch, Promise.all",
+                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.8-js-promises/0.8.1-promise.prototype.catch-promise.all"
+               },
                
                {
                   "name": "3.4.3: Nested SQL Queries",
@@ -22,7 +31,10 @@
          },
          "inClass": {
             "items": [
-               
+               {
+                  "name": "3.ICE.9: DB Schema Design - Carousell",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.9-db-schema-design-carousell"
+               }
             ]
          },
          "postClass": {
@@ -30,6 +42,10 @@
                {
                   "name": "3.POCE.3: UFO Sightings",
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos"
+               },
+               {
+                  "name": "Project 2 Ideation Phase 1",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1"
                }
             ]
          },

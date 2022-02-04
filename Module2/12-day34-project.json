@@ -14,12 +14,19 @@
          "inClass": {
             "items": [
                {
-                  "name": "3.ICE.12: DB Schema Design - Instagram",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram"
+                  "name": "Due: Project 2 Ideation Phase 2",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2"
+               },
+               {
+                  "name": "Project 2 Peer Planning Review",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2"
                }
             ]
          },
-         "postClass": {},
+         "postClass": {"items":[{
+            "name": "Project 2 Implementation",
+            "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation"
+         }]},
          "dayIndex": 34
       },
       "css": {
@@ -68,10 +75,7 @@
          "preClass": {},
          "inClass": {
             "items": [
-               {
-                  "name": "Project 2 Peer Planning Review",
-                  "url": "https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2"
-               }
+               
             ]
          },
          "postClass": {},

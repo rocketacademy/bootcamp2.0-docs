@@ -6,14 +6,7 @@
          "type": "general",
          "preClass": {
             "items": [
-               {
-                  "name": "0.8: JS Promises",
-                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.8-js-promises"
-               },
-               {
-                  "name": "0.8.1: Promise.prototype.catch, Promise.all",
-                  "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.8-js-promises/0.8.1-promise.prototype.catch-promise.all"
-               }
+               
             ]
          },
          "inClass": {

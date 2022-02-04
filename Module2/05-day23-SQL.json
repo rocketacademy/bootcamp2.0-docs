@@ -5,7 +5,7 @@
       "general": {
          "type": "general",
          "projectStart": {},
-         "projectDue": {},
+         "projectDue": {},    
          "preClass": {
             "items": [
                {
@@ -32,14 +32,17 @@
          },
          "inClass": {
             "items": [
-               
+               {
+                  "name": "3.POCE.4: Meal Tracker",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.4-sql-meal-keeper"
+               }
             ]
          },
          "postClass": {
             "items": [
                {
-                  "name": "3.POCE.4: Meal Tracker",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.4-sql-meal-keeper"
+                  "name": "3.POCE.3: UFO Sightings",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos"
                }
             ]
          },

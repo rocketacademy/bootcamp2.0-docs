@@ -9,6 +9,10 @@
                {
                   "name": "3.4.9: Database Setup Files",
                   "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.9-database-setup-files"
+               },
+               {
+                  "name": "3.4.8: SQL Clients",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.8-sql-clients"
                }
                
             ]
@@ -16,8 +20,8 @@
          "inClass": {
             "items": [
                {
-                  "name": "3.ICE.9: DB Schema Design - Carousell",
-                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.9-db-schema-design-carousell"
+                  "name": "3.ICE.12: DB Schema Design - Instagram",
+                  "url": "https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram"
                }
             ]
          },
