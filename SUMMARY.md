@@ -18,50 +18,6 @@
       * [1.2-dom-review](Module1/day1/preclass/1.2-dom-review.md)
       * [1.2.1-creating-elements](Module1/day1/preclass/1.2.1-creating-elements.md)
       * [1.2.2-events](Module1/day1/preclass/1.2.2-events.md)
-  - Day 10
-    - Postclass
-      * [12.3-deployment](Module1/day10/postclass/12.3-deployment.md)
-      * [Project 1 Video Poker](Module1/day10/postclass/project-1-video-poker.md)
-  - Day 11
-    - Postclass
-      * [Course Methodology](Module1/day11/postclass/course-methodology.md)
-  - Day 12
-    - Inclass
-      * [2.ice.1-conversions](Module1/day12/inclass/2.ice.1-conversions.md)
-    - Postclass
-      * [2.poce.1-command-line-colour-converter](Module1/day12/postclass/2.poce.1-command-line-colour-converter.md)
-    - Preclass
-      * [2.0-module-2-overview](Module1/day12/preclass/2.0-module-2-overview.md)
-      * [2.1-my-first-node-program](Module1/day12/preclass/2.1-my-first-node-program.md)
-      * [2.2-command-line-programs](Module1/day12/preclass/2.2-command-line-programs.md)
-  - Day 13
-    - Inclass
-      * [2.ice.2-modules-disk-reading](Module1/day13/inclass/2.ice.2-modules-disk-reading.md)
-    - Postclass
-      * [2.poce.2-css-reader](Module1/day13/postclass/2.poce.2-css-reader.md)
-    - Preclass
-      * [2.3-modules](Module1/day13/preclass/2.3-modules.md)
-      * [2.4-disk-reading](Module1/day13/preclass/2.4-disk-reading.md)
-  - Day 14
-    - Inclass
-      * [2.ice.3-disk-altering](Module1/day14/inclass/2.ice.3-disk-altering.md)
-    - Postclass
-      * [2.poce.3-css-processor](Module1/day14/postclass/2.poce.3-css-processor.md)
-    - Preclass
-      * [2.5-disk-writing](Module1/day14/preclass/2.5-disk-writing.md)
-      * [2.6-disk-altering](Module1/day14/preclass/2.6-disk-altering.md)
-      * [2.7-internet-101](Module1/day14/preclass/2.7-internet-101.md)
-      * [2.8-chrome-networking](Module1/day14/preclass/2.8-chrome-networking.md)
-  - Day 15
-    - Inclass
-      * [2.ice.4-servers-and-requests](Module1/day15/inclass/2.ice.4-servers-and-requests.md)
-      * [Course Methodology](Module1/day15/inclass/course-methodology.md)
-    - Postclass
-      * [2.poce.4-file-server](Module1/day15/postclass/2.poce.4-file-server.md)
-    - Preclass
-      * [2.0-module-2-overview](Module1/day15/preclass/2.0-module-2-overview.md)
-      * [2.10-http-file-server](Module1/day15/preclass/2.10-http-file-server.md)
-      * [2.9-http](Module1/day15/preclass/2.9-http.md)
   - Day 2
     - Inclass
       * [1.ice.1-drawing-dom](Module1/day2/inclass/1.ice.1-drawing-dom.md)
@@ -118,6 +74,50 @@
   - Day 9
     - Postclass
       * [Project 1 Video Poker](Module1/day9/postclass/project-1-video-poker.md)
+  - Day 10
+    - Postclass
+      * [12.3-deployment](Module1/day10/postclass/12.3-deployment.md)
+      * [Project 1 Video Poker](Module1/day10/postclass/project-1-video-poker.md)
+  - Day 11
+    - Postclass
+      * [Course Methodology](Module1/day11/postclass/course-methodology.md)
+  - Day 12
+    - Inclass
+      * [2.ice.1-conversions](Module1/day12/inclass/2.ice.1-conversions.md)
+    - Postclass
+      * [2.poce.1-command-line-colour-converter](Module1/day12/postclass/2.poce.1-command-line-colour-converter.md)
+    - Preclass
+      * [2.0-module-2-overview](Module1/day12/preclass/2.0-module-2-overview.md)
+      * [2.1-my-first-node-program](Module1/day12/preclass/2.1-my-first-node-program.md)
+      * [2.2-command-line-programs](Module1/day12/preclass/2.2-command-line-programs.md)
+  - Day 13
+    - Inclass
+      * [2.ice.2-modules-disk-reading](Module1/day13/inclass/2.ice.2-modules-disk-reading.md)
+    - Postclass
+      * [2.poce.2-css-reader](Module1/day13/postclass/2.poce.2-css-reader.md)
+    - Preclass
+      * [2.3-modules](Module1/day13/preclass/2.3-modules.md)
+      * [2.4-disk-reading](Module1/day13/preclass/2.4-disk-reading.md)
+  - Day 14
+    - Inclass
+      * [2.ice.3-disk-altering](Module1/day14/inclass/2.ice.3-disk-altering.md)
+    - Postclass
+      * [2.poce.3-css-processor](Module1/day14/postclass/2.poce.3-css-processor.md)
+    - Preclass
+      * [2.5-disk-writing](Module1/day14/preclass/2.5-disk-writing.md)
+      * [2.6-disk-altering](Module1/day14/preclass/2.6-disk-altering.md)
+      * [2.7-internet-101](Module1/day14/preclass/2.7-internet-101.md)
+      * [2.8-chrome-networking](Module1/day14/preclass/2.8-chrome-networking.md)
+  - Day 15
+    - Inclass
+      * [2.ice.4-servers-and-requests](Module1/day15/inclass/2.ice.4-servers-and-requests.md)
+      * [Course Methodology](Module1/day15/inclass/course-methodology.md)
+    - Postclass
+      * [2.poce.4-file-server](Module1/day15/postclass/2.poce.4-file-server.md)
+    - Preclass
+      * [2.0-module-2-overview](Module1/day15/preclass/2.0-module-2-overview.md)
+      * [2.10-http-file-server](Module1/day15/preclass/2.10-http-file-server.md)
+      * [2.9-http](Module1/day15/preclass/2.9-http.md)
 - Module 2
   - Day 1
     - Inclass
@@ -128,40 +128,6 @@
       * [3.0-module-3-overview](Module2/day1/preclass/3.0-module-3-overview.md)
       * [3.1-express-js](Module2/day1/preclass/3.1-express-js.md)
       * [3.1.1-express-with-json-db](Module2/day1/preclass/3.1.1-express-with-json-db.md)
-  - Day 10
-    - Inclass
-      * [3.ice.12-db-schema-design-instagram](Module2/day10/inclass/3.ice.12-db-schema-design-instagram.md)
-    - Postclass
-      * [3.poce.9-bird-watching-comments](Module2/day10/postclass/3.poce.9-bird-watching-comments.md)
-    - Preclass
-      * [3.4.8-sql-clients](Module2/day10/preclass/3.4.8-sql-clients.md)
-      * [3.4.9-database-setup-files](Module2/day10/preclass/3.4.9-database-setup-files.md)
-  - Day 11
-    - Inclass
-      * [Project 2 Server Side App](Module2/day11/inclass/project-2-server-side-app.md)
-    - Postclass
-      * [Project 2 Server Side App](Module2/day11/postclass/project-2-server-side-app.md)
-  - Day 12
-    - Postclass
-      * [Project 2 Server Side App](Module2/day12/postclass/project-2-server-side-app.md)
-  - Day 13
-    - Postclass
-      * [Project 2 Server Side App](Module2/day13/postclass/project-2-server-side-app.md)
-  - Day 14
-    - Postclass
-      * [Project 2 Server Side App](Module2/day14/postclass/project-2-server-side-app.md)
-  - Day 15
-    - Postclass
-      * [Project 2 Server Side App](Module2/day15/postclass/project-2-server-side-app.md)
-  - Day 16
-    - Postclass
-      * [3.poce.11-heroku-deployment](Module2/day16/postclass/3.poce.11-heroku-deployment.md)
-    - Preclass
-      * [0.10-introduction-to-classes](Module2/day16/preclass/0.10-introduction-to-classes.md)
-      * [3.6-heroku](Module2/day16/preclass/3.6-heroku.md)
-      * [3.6.1-heroku-deploy](Module2/day16/preclass/3.6.1-heroku-deploy.md)
-      * [3.6.2-heroku-postgres](Module2/day16/preclass/3.6.2-heroku-postgres.md)
-      * [3.6.3-heroku-s3](Module2/day16/preclass/3.6.3-heroku-s3.md)
   - Day 2
     - Inclass
       * [3.ice.2-bigfoot-ejs](Module2/day2/inclass/3.ice.2-bigfoot-ejs.md)
@@ -241,6 +207,41 @@
       * [3.4.11-file-uploads](Module2/day9/preclass/3.4.11-file-uploads.md)
       * [3.5.1-cookies](Module2/day9/preclass/3.5.1-cookies.md)
       * [3.5.2-user-auth](Module2/day9/preclass/3.5.2-user-auth.md)
+
+    - Day 10
+    - Inclass
+      * [3.ice.12-db-schema-design-instagram](Module2/day10/inclass/3.ice.12-db-schema-design-instagram.md)
+    - Postclass
+      * [3.poce.9-bird-watching-comments](Module2/day10/postclass/3.poce.9-bird-watching-comments.md)
+    - Preclass
+      * [3.4.8-sql-clients](Module2/day10/preclass/3.4.8-sql-clients.md)
+      * [3.4.9-database-setup-files](Module2/day10/preclass/3.4.9-database-setup-files.md)
+  - Day 11
+    - Inclass
+      * [Project 2 Server Side App](Module2/day11/inclass/project-2-server-side-app.md)
+    - Postclass
+      * [Project 2 Server Side App](Module2/day11/postclass/project-2-server-side-app.md)
+  - Day 12
+    - Postclass
+      * [Project 2 Server Side App](Module2/day12/postclass/project-2-server-side-app.md)
+  - Day 13
+    - Postclass
+      * [Project 2 Server Side App](Module2/day13/postclass/project-2-server-side-app.md)
+  - Day 14
+    - Postclass
+      * [Project 2 Server Side App](Module2/day14/postclass/project-2-server-side-app.md)
+  - Day 15
+    - Postclass
+      * [Project 2 Server Side App](Module2/day15/postclass/project-2-server-side-app.md)
+  - Day 16
+    - Postclass
+      * [3.poce.11-heroku-deployment](Module2/day16/postclass/3.poce.11-heroku-deployment.md)
+    - Preclass
+      * [0.10-introduction-to-classes](Module2/day16/preclass/0.10-introduction-to-classes.md)
+      * [3.6-heroku](Module2/day16/preclass/3.6-heroku.md)
+      * [3.6.1-heroku-deploy](Module2/day16/preclass/3.6.1-heroku-deploy.md)
+      * [3.6.2-heroku-postgres](Module2/day16/preclass/3.6.2-heroku-postgres.md)
+      * [3.6.3-heroku-s3](Module2/day16/preclass/3.6.3-heroku-s3.md)
 - Module 3
   - Day 1
     - Inclass
@@ -252,38 +253,6 @@
       * [4.1-orm-sequelize](Module3/day1/preclass/4.1-orm-sequelize.md)
       * [4.1.1-intro-to-sequelize](Module3/day1/preclass/4.1.1-intro-to-sequelize.md)
       * [4.1.2-sequelize-one-to-many-relationships](Module3/day1/preclass/4.1.2-sequelize-one-to-many-relationships.md)
-  - Day 10
-    - Inclass
-      * [6.ice.1-npm-webpack](Module3/day10/inclass/6.ice.1-npm-webpack.md)
-    - Postclass
-      * [5.poce.3-ajax-cards](Module3/day10/postclass/5.poce.3-ajax-cards.md)
-      * [Project 3 Full Stack Game](Module3/day10/postclass/project-3-full-stack-game.md)
-    - Preclass
-      * [6.1.2-webpack-with-npm-modules](Module3/day10/preclass/6.1.2-webpack-with-npm-modules.md)
-      * [6.1.5-webpack-with-express](Module3/day10/preclass/6.1.5-webpack-with-express.md)
-      * [Group Work](Module3/day10/preclass/group-work.md)
-  - Day 11
-    - Postclass
-      * [Project 3 Full Stack Game](Module3/day11/postclass/project-3-full-stack-game.md)
-  - Day 12
-    - Postclass
-      * [Project 3 Full Stack Game](Module3/day12/postclass/project-3-full-stack-game.md)
-    - Preclass
-      * [4.1.10-deploy-sequelize-app-to-heroku](Module3/day12/preclass/4.1.10-deploy-sequelize-app-to-heroku.md)
-      * [6.1.6-express-mvc-webpack-and-heroku](Module3/day12/preclass/6.1.6-express-mvc-webpack-and-heroku.md)
-  - Day 13
-    - Postclass
-      * [Project 3 Full Stack Game](Module3/day13/postclass/project-3-full-stack-game.md)
-  - Day 14
-    - Postclass
-      * [Project 3 Full Stack Game](Module3/day14/postclass/project-3-full-stack-game.md)
-  - Day 15
-    - Postclass
-      * [Project 3 Full Stack Game](Module3/day15/postclass/project-3-full-stack-game.md)
-  - Day 16
-    - Postclass
-      * [Course Methodology](Module3/day16/postclass/course-methodology.md)
-      * [Project 3 Full Stack Game](Module3/day16/postclass/project-3-full-stack-game.md)
   - Day 2
     - Inclass
       * [4.poce.1-sequelize-cli-app-travel-itinerary](Module3/day2/inclass/4.poce.1-sequelize-cli-app-travel-itinerary.md)
@@ -351,6 +320,39 @@
       * [6.0-module-6-overview](Module3/day9/preclass/6.0-module-6-overview.md)
       * [6.1-webpack](Module3/day9/preclass/6.1-webpack.md)
       * [6.1.1-webpack-with-local-modules](Module3/day9/preclass/6.1.1-webpack-with-local-modules.md)
+    - Day 10
+    - Inclass
+      * [6.ice.1-npm-webpack](Module3/day10/inclass/6.ice.1-npm-webpack.md)
+    - Postclass
+      * [5.poce.3-ajax-cards](Module3/day10/postclass/5.poce.3-ajax-cards.md)
+      * [Project 3 Full Stack Game](Module3/day10/postclass/project-3-full-stack-game.md)
+    - Preclass
+      * [6.1.2-webpack-with-npm-modules](Module3/day10/preclass/6.1.2-webpack-with-npm-modules.md)
+      * [6.1.5-webpack-with-express](Module3/day10/preclass/6.1.5-webpack-with-express.md)
+      * [Group Work](Module3/day10/preclass/group-work.md)
+  - Day 11
+    - Postclass
+      * [Project 3 Full Stack Game](Module3/day11/postclass/project-3-full-stack-game.md)
+  - Day 12
+    - Postclass
+      * [Project 3 Full Stack Game](Module3/day12/postclass/project-3-full-stack-game.md)
+    - Preclass
+      * [4.1.10-deploy-sequelize-app-to-heroku](Module3/day12/preclass/4.1.10-deploy-sequelize-app-to-heroku.md)
+      * [6.1.6-express-mvc-webpack-and-heroku](Module3/day12/preclass/6.1.6-express-mvc-webpack-and-heroku.md)
+  - Day 13
+    - Postclass
+      * [Project 3 Full Stack Game](Module3/day13/postclass/project-3-full-stack-game.md)
+  - Day 14
+    - Postclass
+      * [Project 3 Full Stack Game](Module3/day14/postclass/project-3-full-stack-game.md)
+  - Day 15
+    - Postclass
+      * [Project 3 Full Stack Game](Module3/day15/postclass/project-3-full-stack-game.md)
+  - Day 16
+    - Postclass
+      * [Course Methodology](Module3/day16/postclass/course-methodology.md)
+      * [Project 3 Full Stack Game](Module3/day16/postclass/project-3-full-stack-game.md)
+
 - Module 4
   - Day 1
     - Inclass
@@ -363,28 +365,6 @@
       * [7.1-jsx-intro](Module4/day1/preclass/7.1-jsx-intro.md)
       * [7.1.1-conditional-rendering](Module4/day1/preclass/7.1.1-conditional-rendering.md)
       * [7.1.2-rendering-in-a-loop](Module4/day1/preclass/7.1.2-rendering-in-a-loop.md)
-  - Day 10
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day10/postclass/project-4-full-stack-react-app.md)
-  - Day 11
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day11/postclass/project-4-full-stack-react-app.md)
-  - Day 12
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day12/postclass/project-4-full-stack-react-app.md)
-  - Day 13
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day13/postclass/project-4-full-stack-react-app.md)
-  - Day 14
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day14/postclass/project-4-full-stack-react-app.md)
-  - Day 15
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day15/postclass/project-4-full-stack-react-app.md)
-  - Day 16
-    - Postclass
-      * [Course Methodology](Module4/day16/postclass/course-methodology.md)
-      * [Project 4 Full Stack React App](Module4/day16/postclass/project-4-full-stack-react-app.md)
   - Day 2
     - Inclass
       * [7.ice.2-pokedex](Module4/day2/inclass/7.ice.2-pokedex.md)
@@ -444,6 +424,29 @@
       * [Course Methodology](Module4/day9/inclass/course-methodology.md)
     - Postclass
       * [Project 4 Full Stack React App](Module4/day9/postclass/project-4-full-stack-react-app.md)
+    - Day 10
+    - Postclass
+      * [Project 4 Full Stack React App](Module4/day10/postclass/project-4-full-stack-react-app.md)
+  - Day 11
+    - Postclass
+      * [Project 4 Full Stack React App](Module4/day11/postclass/project-4-full-stack-react-app.md)
+  - Day 12
+    - Postclass
+      * [Project 4 Full Stack React App](Module4/day12/postclass/project-4-full-stack-react-app.md)
+  - Day 13
+    - Postclass
+      * [Project 4 Full Stack React App](Module4/day13/postclass/project-4-full-stack-react-app.md)
+  - Day 14
+    - Postclass
+      * [Project 4 Full Stack React App](Module4/day14/postclass/project-4-full-stack-react-app.md)
+  - Day 15
+    - Postclass
+      * [Project 4 Full Stack React App](Module4/day15/postclass/project-4-full-stack-react-app.md)
+  - Day 16
+    - Postclass
+      * [Course Methodology](Module4/day16/postclass/course-methodology.md)
+      * [Project 4 Full Stack React App](Module4/day16/postclass/project-4-full-stack-react-app.md)
+
 - Module 5
   - Day 1
     - Postclass
@@ -516,9 +519,7 @@
       * [9.1.1-unit-testing](Module6/day1/preclass/9.1.1-unit-testing.md)
       * [9.1.2-tdd](Module6/day1/preclass/9.1.2-tdd.md)
       * [9.1.3-ci](Module6/day1/preclass/9.1.3-ci.md)
-  - Day 10
-    - Postclass
-      * [Project 6 Capstone](Module6/day10/postclass/project-6-capstone.md)
+  
   - Day 2
     - Postclass
       * [Project 5 Group React App](Module6/day2/postclass/project-5-group-react-app.md)
@@ -549,4 +550,6 @@
   - Day 9
     - Postclass
       * [Project 6 Capstone](Module6/day9/postclass/project-6-capstone.md)
-      
+  - Day 10
+    - Postclass
+      * [Project 6 Capstone](Module6/day10/postclass/project-6-capstone.md)
