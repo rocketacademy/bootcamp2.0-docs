@@ -1,4 +1,4 @@
-# Bootcamp 2.0
+# Your Book Title
 
 - Module 1
   - Day 1
@@ -28,6 +28,7 @@
       * [0.3-reading-documentation](Module1/day2/preclass/0.3-reading-documentation.md)
       * [1.3-high-card-dom](Module1/day2/preclass/1.3-high-card-dom.md)
       * [1.4-settimeout](Module1/day2/preclass/1.4-settimeout.md)
+      * [Css 1 Basic Css](Module1/day2/preclass/css-1-basic-css.md)
   - Day 3
     - Inclass
       * [1.ice.2-high-card-redux](Module1/day3/inclass/1.ice.2-high-card-redux.md)
@@ -38,6 +39,7 @@
       * [0.2.4-reference-vs.-value](Module1/day3/preclass/0.2.4-reference-vs.-value.md)
       * [1.5-high-card-settimeout](Module1/day3/preclass/1.5-high-card-settimeout.md)
       * [1.6-match-game](Module1/day3/preclass/1.6-match-game.md)
+      * [Css 1 Basic Css](Module1/day3/preclass/css-1-basic-css.md)
   - Day 4
     - Inclass
       * [1.ice.3-setinterval](Module1/day4/inclass/1.ice.3-setinterval.md)
@@ -47,6 +49,8 @@
     - Preclass
       * [1.7-setinterval](Module1/day4/preclass/1.7-setinterval.md)
       * [1.8-timer](Module1/day4/preclass/1.8-timer.md)
+      * [css.2.1-no-layout](Module1/day4/preclass/css.2.1-no-layout.md)
+      * [css.2.2-display-inline-and-block](Module1/day4/preclass/css.2.2-display-inline-and-block.md)
   - Day 5
     - Inclass
       * [Course Methodology](Module1/day5/inclass/course-methodology.md)
@@ -55,6 +59,8 @@
     - Preclass
       * [1.10-multi-file-refactor](Module1/day5/preclass/1.10-multi-file-refactor.md)
       * [1.9-tic-tac-toe](Module1/day5/preclass/1.9-tic-tac-toe.md)
+      * [css.2.3-box-model](Module1/day5/preclass/css.2.3-box-model.md)
+      * [css.2.4-layout-fixed-width-and-max-width](Module1/day5/preclass/css.2.4-layout-fixed-width-and-max-width.md)
   - Day 6
     - Inclass
       * [Course Methodology](Module1/day6/inclass/course-methodology.md)
@@ -63,21 +69,36 @@
     - Preclass
       * [0.4-js-object-as-tally](Module1/day6/preclass/0.4-js-object-as-tally.md)
       * [1.11-css-control-with-dom](Module1/day6/preclass/1.11-css-control-with-dom.md)
+      * [css.2.5-display-inline-block](Module1/day6/preclass/css.2.5-display-inline-block.md)
+      * [css.2.6-layout-columns-and-cards](Module1/day6/preclass/css.2.6-layout-columns-and-cards.md)
   - Day 7
+    - Inclass
+      * [1.ice.css.1-straits-times-css](Module1/day7/inclass/1.ice.css.1-straits-times-css.md)
     - Postclass
       * [Project 1 Video Poker](Module1/day7/postclass/project-1-video-poker.md)
+    - Preclass
+      * [css.2.7-position](Module1/day7/preclass/css.2.7-position.md)
+      * [css.2.8-float](Module1/day7/preclass/css.2.8-float.md)
   - Day 8
+    - Inclass
+      * [1.ice.css.2-css-practice-6-wikipedia](Module1/day8/inclass/1.ice.css.2-css-practice-6-wikipedia.md)
     - Postclass
       * [Project 1 Video Poker](Module1/day8/postclass/project-1-video-poker.md)
     - Preclass
       * [2.0-module-2-overview](Module1/day8/preclass/2.0-module-2-overview.md)
+      * [css.3-flexbox](Module1/day8/preclass/css.3-flexbox.md)
   - Day 9
     - Postclass
       * [Project 1 Video Poker](Module1/day9/postclass/project-1-video-poker.md)
+    - Preclass
+      * [css.3.1-flexbox-layout](Module1/day9/preclass/css.3.1-flexbox-layout.md)
   - Day 10
     - Postclass
       * [12.3-deployment](Module1/day10/postclass/12.3-deployment.md)
       * [Project 1 Video Poker](Module1/day10/postclass/project-1-video-poker.md)
+    - Preclass
+      * [css.4-responsive-design](Module1/day10/preclass/css.4-responsive-design.md)
+      * [css.5-web-design-basics](Module1/day10/preclass/css.5-web-design-basics.md)
   - Day 11
     - Postclass
       * [Course Methodology](Module1/day11/postclass/course-methodology.md)
@@ -118,6 +139,7 @@
       * [2.0-module-2-overview](Module1/day15/preclass/2.0-module-2-overview.md)
       * [2.10-http-file-server](Module1/day15/preclass/2.10-http-file-server.md)
       * [2.9-http](Module1/day15/preclass/2.9-http.md)
+      * [css.6-bootstrap](Module1/day15/preclass/css.6-bootstrap.md)
 - Module 2
   - Day 1
     - Inclass
@@ -128,6 +150,7 @@
       * [3.0-module-3-overview](Module2/day1/preclass/3.0-module-3-overview.md)
       * [3.1-express-js](Module2/day1/preclass/3.1-express-js.md)
       * [3.1.1-express-with-json-db](Module2/day1/preclass/3.1.1-express-with-json-db.md)
+
   - Day 2
     - Inclass
       * [3.ice.2-bigfoot-ejs](Module2/day2/inclass/3.ice.2-bigfoot-ejs.md)
@@ -207,8 +230,7 @@
       * [3.4.11-file-uploads](Module2/day9/preclass/3.4.11-file-uploads.md)
       * [3.5.1-cookies](Module2/day9/preclass/3.5.1-cookies.md)
       * [3.5.2-user-auth](Module2/day9/preclass/3.5.2-user-auth.md)
-
-    - Day 10
+  - Day 10
     - Inclass
       * [3.ice.12-db-schema-design-instagram](Module2/day10/inclass/3.ice.12-db-schema-design-instagram.md)
     - Postclass
@@ -253,6 +275,7 @@
       * [4.1-orm-sequelize](Module3/day1/preclass/4.1-orm-sequelize.md)
       * [4.1.1-intro-to-sequelize](Module3/day1/preclass/4.1.1-intro-to-sequelize.md)
       * [4.1.2-sequelize-one-to-many-relationships](Module3/day1/preclass/4.1.2-sequelize-one-to-many-relationships.md)
+
   - Day 2
     - Inclass
       * [4.poce.1-sequelize-cli-app-travel-itinerary](Module3/day2/inclass/4.poce.1-sequelize-cli-app-travel-itinerary.md)
@@ -320,7 +343,7 @@
       * [6.0-module-6-overview](Module3/day9/preclass/6.0-module-6-overview.md)
       * [6.1-webpack](Module3/day9/preclass/6.1-webpack.md)
       * [6.1.1-webpack-with-local-modules](Module3/day9/preclass/6.1.1-webpack-with-local-modules.md)
-    - Day 10
+  - Day 10
     - Inclass
       * [6.ice.1-npm-webpack](Module3/day10/inclass/6.ice.1-npm-webpack.md)
     - Postclass
@@ -352,7 +375,6 @@
     - Postclass
       * [Course Methodology](Module3/day16/postclass/course-methodology.md)
       * [Project 3 Full Stack Game](Module3/day16/postclass/project-3-full-stack-game.md)
-
 - Module 4
   - Day 1
     - Inclass
@@ -365,6 +387,7 @@
       * [7.1-jsx-intro](Module4/day1/preclass/7.1-jsx-intro.md)
       * [7.1.1-conditional-rendering](Module4/day1/preclass/7.1.1-conditional-rendering.md)
       * [7.1.2-rendering-in-a-loop](Module4/day1/preclass/7.1.2-rendering-in-a-loop.md)
+
   - Day 2
     - Inclass
       * [7.ice.2-pokedex](Module4/day2/inclass/7.ice.2-pokedex.md)
@@ -424,7 +447,7 @@
       * [Course Methodology](Module4/day9/inclass/course-methodology.md)
     - Postclass
       * [Project 4 Full Stack React App](Module4/day9/postclass/project-4-full-stack-react-app.md)
-    - Day 10
+  - Day 10
     - Postclass
       * [Project 4 Full Stack React App](Module4/day10/postclass/project-4-full-stack-react-app.md)
   - Day 11
@@ -446,7 +469,6 @@
     - Postclass
       * [Course Methodology](Module4/day16/postclass/course-methodology.md)
       * [Project 4 Full Stack React App](Module4/day16/postclass/project-4-full-stack-react-app.md)
-
 - Module 5
   - Day 1
     - Postclass
@@ -519,7 +541,6 @@
       * [9.1.1-unit-testing](Module6/day1/preclass/9.1.1-unit-testing.md)
       * [9.1.2-tdd](Module6/day1/preclass/9.1.2-tdd.md)
       * [9.1.3-ci](Module6/day1/preclass/9.1.3-ci.md)
-  
   - Day 2
     - Postclass
       * [Project 5 Group React App](Module6/day2/postclass/project-5-group-react-app.md)
