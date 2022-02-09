@@ -8,7 +8,7 @@ Heroku is a platform that uses AWS EC2 and makes it easy to create and deploy ap
 
 Sign up for an account [here](https://www.heroku.com/).
 
-![Simplified Heroku Architecture Diagram](../../.gitbook/assets/heroku-arch-simple.png)
+![Simplified Heroku Architecture Diagram](../../../.gitbook/assets/heroku-arch-simple.png)
 
 ## Dynos
 

@@ -47,7 +47,7 @@ This is the basic flexbox column layout example. Every column div will divide it
 
 We can change the default style to make one column smaller by changing the `flex-shrink` property. This shrinks one column smaller than the other.
 
-![](../../.gitbook/assets/shrink-col.png)
+![](../../../.gitbook/assets/shrink-col.png)
 
 ```css
 .container {
@@ -90,7 +90,7 @@ We can change the default style to make one column smaller by changing the `flex
 
 A magical property of flexbox is that it knows how to tell boxes to take up the rest of the available space. We set the `flex-grow` property to tell it to grow to fit the rest of the parent. If there is any horizontal space left, the right box will take it up.
 
-![](../../.gitbook/assets/take-up.png)
+![](../../../.gitbook/assets/take-up.png)
 
 ```css
 .container {
@@ -125,7 +125,7 @@ A magical property of flexbox is that it knows how to tell boxes to take up the 
 
 We can fix the maximum dimensions of a box with the `flex-basis` style. The left column will never take up more than 200px width. This measurement can also be set with other units.
 
-![](../../.gitbook/assets/fixed-max.png)
+![](../../../.gitbook/assets/fixed-max.png)
 
 ```css
 .container {
@@ -177,7 +177,7 @@ Read more about it [here](https://stackoverflow.com/questions/34352140/what-are-
 
 Finally, we can vertically center something with flexbox. Note however, that this is not a panacea. The height of the container must be explicitly set, and the box inside must also have it's dimensions set.
 
-![](../../.gitbook/assets/vertical-center.png)
+![](../../../.gitbook/assets/vertical-center.png)
 
 ```css
 .vertical-container {

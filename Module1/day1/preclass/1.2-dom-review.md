@@ -4,7 +4,7 @@
 
 The DOM \(Document Object Model\) is a set of nodes that represent the elements in an HTML document. Browsers generate the DOM automatically when they load HTML. The DOM is the interface through which our JS logic can update what's on screen and determine how user actions manipulate our UI.
 
-![](../../.gitbook/assets/img_0018.png)
+![](../../../.gitbook/assets/img_0018.png)
 
 {% embed url="https://youtu.be/AP8YcJ9MR64" caption="" %}
 
