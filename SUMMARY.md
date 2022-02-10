@@ -574,3 +574,63 @@
   - Day 10
     - Postclass
       * [Project 6 Capstone](Module6/day10/postclass/project-6-capstone.md)
+
+
+
+## 🧮 Algorithms
+* [A.0: Algorithms Overview](algorithms/a.0-algorithms-overview.md)
+* [A.1: Intro to SWE Interviews](algorithms/a.1-intro-to-swe-interviews.md)
+* [A.2: Intro to Python](algorithms/a.2-intro-to-python.md)
+* [A.3: Complexity Analysis, Big-O Notation](algorithms/a.3-complexity-analysis-big-o-notation.md)
+* [A.4: Interview Strategies](algorithms/a.4-interview-strategies/README.md)
+  * [A.4.1 Introduction to Algorithm Problems](algorithms/a.4-interview-strategies/a.4.1-introduction-to-algorithm-problems.md)
+* [A.5: Data Structures](algorithms/a.5-data-structures/README.md)
+  * [A.5.1: Arrays](algorithms/a.5-data-structures/a.5.1-arrays.md)
+  * [A.5.2: Hash Tables](algorithms/a.5-data-structures/a.5.2-hash-tables/README.md)
+    * [A.5.2.1: Hash Table Data Structure](algorithms/a.5-data-structures/a.5.2-hash-tables/a.5.2.1-hash-table-data-structure.md)
+    * [A.5.2.2: Hash Collisions: Chaining](algorithms/a.5-data-structures/a.5.2-hash-tables/a.5.2.2-hash-collisions-chaining.md)
+    * [A.5.2.3: Hash Collisions: Open Addressing](algorithms/a.5-data-structures/a.5.2-hash-tables/a.5.2.3-hash-collisions-open-addressing.md)
+  * [A.5.3: Stacks](algorithms/a.5-data-structures/a.5.3-stacks.md)
+  * [A.5.4: Queues](algorithms/a.5-data-structures/a.5.4-queues.md)
+  * [A.5.5: Linked Lists](algorithms/a.5-data-structures/a.5.5-linked-lists/README.md)
+    * [A.5.5.1: Recursive Linked Lists](algorithms/a.5-data-structures/a.5.5-linked-lists/a.5.5.1-recursive-linked-lists.md)
+  * [A.5.6: Trees](algorithms/a.5-data-structures/a.5.6-trees/README.md)
+    * [A.5.6.1: Tree Traversal](algorithms/a.5-data-structures/a.5.6-trees/a.5.6.1-tree-traversal.md)
+    * [A.5.6.2: Binary Search Trees](algorithms/a.5-data-structures/a.5.6-trees/a.5.6.2-binary-search-trees.md)
+  * [A.5.7: Graphs](algorithms/a.5-data-structures/a.5.7-graphs.md)
+  * [A.5.8: Heaps](algorithms/a.5-data-structures/a.5.8-heaps/README.md)
+    * [A.5.8.1: Heap Sort](algorithms/a.5-data-structures/a.5.8-heaps/a.5.8.1-heap-sort.md)
+* [A.6: Binary Search](algorithms/a.6-binary-search.md)
+* [A.7: Sliding Windows](algorithms/a.7-sliding-windows.md)
+* [A.8: Object-Oriented Programming](algorithms/a.8-intro-to-object-oriented-programming.md)
+* [A.9: Recursion](algorithms/a.9-recursion/README.md)
+  * [A.9.1: Recursive Backtracking](algorithms/a.9-recursion/a.9.1-recursive-backtracking.md)
+* [A.10: Sorting Algorithms](algorithms/a.10-sorting-algorithms/README.md)
+  * [A.10.1: Divide and Conquer Sorting](algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting.md)
+  * [A.10.2: Radix Sort](algorithms/a.10-sorting-algorithms/a.10.2-radix-sort.md)
+* [A.11: Dynamic Programming](algorithms/a.11-dynamic-programming.md)
+* [A.12: Bit Manipulation](algorithms/a.12-bit-manipulation.md)
+* [A.13: Open Practice](algorithms/a.13-open-practice.md)
+
+## Algorithms (New)
+
+* [Overview](algorithms-new/untitled.md)
+* [Intro to Python](algorithms-new/intro-to-python.md)
+* [Big-O](algorithms-new/big-o.md)
+* [Intro to Algorithm Problem Sets](algorithms-new/intro-to-algorithm-problem-sets.md)
+* [Data Structures](algorithms-new/data-structures/README.md)
+  * [Untitled](algorithms-new/data-structures/untitled-1.md)
+## 💼 Interview Prep
+
+* [IP.0: Interview Prep Overview](interview-prep/ip.0-interview-prep-overview.md)
+* [IP.1: Job Application Strategy](interview-prep/ip.1-job-application-strategy.md)
+* [IP.2: Resume](interview-prep/ip.2-resume.md)
+* [IP.3: Portfolio](interview-prep/ip.3-portfolio.md)
+* [IP.4: Job List](interview-prep/ip.4-job-list.md)
+* [IP.5: Negotiation](interview-prep/ip.5-negotiation.md)
+
+## ☺ User Experience
+
+* [UX.1: Overview](user-experience/ux.1-overview.md)
+* [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
+* [UX.3: How to Design Your App](user-experience/ux.3-how-to-design-your-app.md)
