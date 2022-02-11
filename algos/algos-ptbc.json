@@ -167,8 +167,8 @@
       "preClass": {
          "items": [
             {
-               "name": "A.8: Object-Oriented Programming",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.8-intro-to-object-oriented-programming"
+               "name": "A.6: Object-Oriented Programming",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.6-intro-to-object-oriented-programming"
             }
          ]
       },
@@ -356,24 +356,24 @@
       "preClass": {
          "items": [
             {
-               "name": "A.9: Recursion - Required Reading",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#required-reading"
+               "name": "A.7: Recursion - Required Reading",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.7-recursion#required-reading"
             }
          ]
       },
       "inClass": {
          "items": [
             {
-               "name": "A.9: Recursion - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-1"
+               "name": "A.7: Recursion - Part 1",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.7-recursion#part-1"
             }
          ]
       },
       "postClass": {
          "items": [
             {
-               "name": "A.9: Recursion - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-1"
+               "name": "A.7: Recursion - Part 1",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.7-recursion#part-1"
             }
          ]
       },
@@ -385,16 +385,16 @@
       "inClass": {
          "items": [
             {
-               "name": "A.9: Recursion - Part 2",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-2"
+               "name": "A.7: Recursion - Part 2",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.7-recursion#part-2"
             }
          ]
       },
       "postClass": {
          "items": [
             {
-               "name": "A.9: Recursion - Part 2",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-2"
+               "name": "A.7: Recursion - Part 2",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.7-recursion#part-2"
             }
          ]
       },
@@ -406,16 +406,16 @@
       "inClass": {
          "items": [
             {
-               "name": "A.9: Recursion - Part 3",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-3"
+               "name": "A.7: Recursion - Part 3",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.7-recursion#part-3"
             }
          ]
       },
       "postClass": {
          "items": [
             {
-               "name": "A.9: Recursion - Part 3",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-3"
+               "name": "A.7: Recursion - Part 3",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.7-recursion#part-3"
             }
          ]
       },
@@ -426,8 +426,8 @@
       "preClass": {
          "items": [
             {
-               "name": "A.10: Sorting Algorithms",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms"
+               "name": "A.8: Sorting Algorithms",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.8-sorting-algorithms"
             }
          ]
       },
@@ -447,64 +447,8 @@
       "preClass": {
          "items": [
             {
-               "name": "A.10.1: Sorting Algorithms - Part 2",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting"
-            }
-         ]
-      },
-      "inClass": {
-         "items": [
-            {
-               "name": "A.10.1: Sorting Algorithms - Part 2",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting"
-            }
-         ]
-      },
-      "postClass": {},
-      "dayIndex": 75
-   },
-   {
-      "type": "algos",
-      "preClass": {
-         "items": [
-            {
-               "name": "A.10.1: Sorting Algorithms - Part 3",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting"
-            }
-         ]
-      },
-      "inClass": {
-         "items": [
-            {
-               "name": "A.10.1: Sorting Algorithms - Part 3",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting"
-            }
-         ]
-      },
-      "postClass": {},
-      "dayIndex": 76
-   },
-   {
-      "type": "algos",
-      "preClass": {
-         "items": [
-            {
                "name": "A.5.6: Trees - Pre-Class",
                "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#pre-class"
-            }
-         ]
-      },
-      "inClass": {},
-      "postClass": {},
-      "dayIndex": 77
-   },
-   {
-      "type": "algos",
-      "preClass": {
-         "items": [
-            {
-               "name": "Trees  - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-1"
             }
          ]
       },
@@ -524,16 +468,12 @@
             }
          ]
       },
-      "dayIndex": 78
+      "dayIndex": 75
    },
    {
       "type": "algos",
       "preClass": {
          "items": [
-            {
-               "name": "Trees - Part 2",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-2"
-            },
             {
                "name": "Binary Search Trees",
                "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees/a.5.6.2-binary-search-trees"
@@ -556,6 +496,76 @@
             }
          ]
       },
+      "dayIndex": 76
+   },
+   {
+      "type": "algos",
+      "preClass": {},
+      "inClass": {
+         "items": [
+            {
+               "name": "A.5.6: Trees - Part 3",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-3"
+            }
+         ]
+      },
+      "postClass": {
+         "items": [
+            {
+               "name": "A.5.6: Trees - Part 3",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-3"
+            }
+         ]
+      },
+      "dayIndex": 77
+   },
+   {
+      "type": "algos",
+      "preClass": {
+         "items": [
+            {
+               "name": "A.10: Sorting Algorithms - Part 2",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms#divide-and-conquer"
+            }
+         ]
+      },
+      "inClass": {
+         "items": [
+            {
+               "name": "A.10: Sorting Algorithms - Part 2",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms#divide-and-conquer"
+            }
+         ]
+      },
+      "postClass": {},
+      "dayIndex": 78
+   },
+   {
+      "type": "algos",
+      "preClass": {
+         "items": [
+            {
+               "name": "A.11.1: Recursive Backtracking - Pre-Class",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#pre-class"
+            }
+         ]
+      },
+      "inClass": {
+         "items": [
+            {
+               "name": "A.11.1: Recursive Backtracking - Part 1",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#part-1"
+            }
+         ]
+      },
+      "postClass": {
+         "items": [
+            {
+               "name": "A.11.1: Recursive Backtracking - Part 1",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#part-1"
+            }
+         ]
+      },
       "dayIndex": 79
    },
    {
@@ -564,41 +574,20 @@
       "inClass": {
          "items": [
             {
-               "name": "A.5.6: Trees - Part 3",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-3"
+               "name": "A.5.6: Trees - Part 4",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-4"
             }
          ]
       },
       "postClass": {
          "items": [
             {
-               "name": "A.5.6: Trees - Part 3",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-3"
+               "name": "A.5.6: Trees - Part 4",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-4"
             }
          ]
       },
       "dayIndex": 81
-   },
-   {
-      "type": "algos",
-      "preClass": {},
-      "inClass": {
-         "items": [
-            {
-               "name": "A.5.6: Trees - Part 4",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-4"
-            }
-         ]
-      },
-      "postClass": {
-         "items": [
-            {
-               "name": "A.5.6: Trees - Part 4",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-4"
-            }
-         ]
-      },
-      "dayIndex": 82
    },
    {
       "type": "algos",
@@ -647,97 +636,6 @@
       "preClass": {
          "items": [
             {
-               "name": "A.5.8: Heaps - Pre-Class",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#pre-class"
-            }
-         ]
-      },
-      "inClass": {
-         "items": [
-            {
-               "name": "A.5.8: Heaps - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1"
-            }
-         ]
-      },
-      "postClass": {
-         "items": [
-            {
-               "name": "A.5.8: Heaps - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1"
-            }
-         ]
-      },
-      "dayIndex": 85
-   },
-   {
-      "type": "algos",
-      "preClass": {},
-      "inClass": {
-         "items": [
-            {
-               "name": "A.5.8: Heaps - Part 2",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-2"
-            }
-         ]
-      },
-      "postClass": {
-         "items": [
-            {
-               "name": "A.5.8: Heaps - Part 2",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-2"
-            }
-         ]
-      },
-      "dayIndex": 86
-   },
-   {
-      "type": "algos",
-      "preClass": {},
-      "inClass": {},
-      "postClass": {
-         "items": [
-            {
-               "name": "A.5.8: Heaps - Part 3",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-3"
-            }
-         ]
-      },
-      "dayIndex": 87
-   },
-   {
-      "type": "algos",
-      "preClass": {
-         "items": [
-            {
-               "name": "A.11.1: Recursive Backtracking - Pre-Class",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#pre-class"
-            }
-         ]
-      },
-      "inClass": {
-         "items": [
-            {
-               "name": "A.11.1: Recursive Backtracking - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#part-1"
-            }
-         ]
-      },
-      "postClass": {
-         "items": [
-            {
-               "name": "A.11.1: Recursive Backtracking - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#part-1"
-            }
-         ]
-      },
-      "dayIndex": 88
-   },
-   {
-      "type": "algos",
-      "preClass": {
-         "items": [
-            {
                "name": "A.5.7: Graphs - Pre-Class",
                "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs"
             }
@@ -759,70 +657,91 @@
             }
          ]
       },
+      "dayIndex": 85
+   },
+   {
+      "type": "algos",
+      "preClass": {},
+      "inClass": {
+         "items": [
+            {
+               "name": "A.5.7: Graphs - Part 2",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-2"
+            }
+         ]
+      },
+      "postClass": {
+         "items": [
+            {
+               "name": "A.5.7: Graphs - Part 2",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-2"
+            }
+         ]
+      },
+      "dayIndex": 86
+   },
+   {
+      "type": "algos",
+      "preClass": {},
+      "inClass": {
+         "items": [
+            {
+               "name": "A.5.8: Heaps - Part 1",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1"
+            }
+         ]
+      },
+      "postClass": {
+         "items": [
+            {
+               "name": "A.5.8: Heaps - Part 1",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1"
+            }
+         ]
+      },
+      "dayIndex": 87
+   },
+   {
+      "type": "algos",
+      "preClass": {
+         "items": [
+            {
+               "name": "A.5.8: Heaps - Pre-Class",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#pre-class"
+            }
+         ]
+      },
+      "inClass": {
+         "items": [
+            {
+               "name": "A.5.8: Heaps - Part 2",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-2"
+            }
+         ]
+      },
+      "postClass": {
+         "items": [
+            {
+               "name": "A.5.8: Heaps - Part 2",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-2"
+            }
+         ]
+      },
+      "dayIndex": 88
+   },
+   {
+      "type": "algos",
+      "preClass": {},
+      "inClass": {},
+      "postClass": {
+         "items": [
+            {
+               "name": "A.5.8: Heaps - Part 3",
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-3"
+            }
+         ]
+      },
       "dayIndex": 89
-   },
-   {
-      "type": "algos",
-      "preClass": {},
-      "inClass": {
-         "items": [
-            {
-               "name": "A.5.7: Graphs - Part 2",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-2"
-            }
-         ]
-      },
-      "postClass": {
-         "items": [
-            {
-               "name": "A.5.7: Graphs - Part 2",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-2"
-            }
-         ]
-      },
-      "dayIndex": 91
-   },
-   {
-      "type": "algos",
-      "preClass": {},
-      "inClass": {
-         "items": [
-            {
-               "name": "Graphs - Part 3",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs"
-            }
-         ]
-      },
-      "postClass": {
-         "items": [
-            {
-               "name": "Graphs - Part 3",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs"
-            }
-         ]
-      },
-      "dayIndex": 92
-   },
-   {
-      "type": "algos",
-      "preClass": {},
-      "inClass": {
-         "items": [
-            {
-               "name": "Graphs - Part 4",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs"
-            }
-         ]
-      },
-      "postClass": {
-         "items": [
-            {
-               "name": "Graphs - Part 4",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs"
-            }
-         ]
-      },
-      "dayIndex": 93
    },
    {
       "type": "algos",
@@ -850,7 +769,7 @@
             }
          ]
       },
-      "dayIndex": 94
+      "dayIndex": 90
    },
    {
       "type": "algos",
@@ -871,7 +790,7 @@
             }
          ]
       },
-      "dayIndex": 95
+      "dayIndex": 91
    },
    {
       "type": "algos",
@@ -892,7 +811,7 @@
             }
          ]
       },
-      "dayIndex": 96
+      "dayIndex": 92
    },
    {
       "type": "algos",
@@ -921,7 +840,7 @@
             }
          ]
       },
-      "dayIndex": 97
+      "dayIndex": 93
    },
    {
       "type": "algos",
@@ -949,7 +868,6 @@
             }
          ]
       },
-      "dayIndex": 98
+      "dayIndex": 94
    }
- 
 ]

@@ -1,625 +1,992 @@
+
 # Your Book Title
 
-- Module 1
+# Module 1: Basic Frontend
+- Module1
   - Day 1
-    - Inclass
-      * [1.ice.1-drawing-dom](Module1/day1/inclass/1.ice.1-drawing-dom.md)
-    - Postclass
-      * [1.poce.1-noodles](Module1/day1/postclass/1.poce.1-noodles.md)
-    - Preclass
-      * [0.0-module-0-overview](Module1/day1/preclass/0.0-module-0-overview.md)
-      * [0.1-new-js-syntax](Module1/day1/preclass/0.1-new-js-syntax.md)
-      * [0.2-es6](Module1/day1/preclass/0.2-es6.md)
-      * [0.2.1-es6-basics](Module1/day1/preclass/0.2.1-es6-basics.md)
-      * [1.0-module-1-overview](Module1/day1/preclass/1.0-module-1-overview.md)
-      * [1.1-html](Module1/day1/preclass/1.1-html.md)
-      * [1.1.0-wireframes](Module1/day1/preclass/1.1.0-wireframes.md)
-      * [1.1.1-basic-html](Module1/day1/preclass/1.1.1-basic-html.md)
-      * [1.2-dom-review](Module1/day1/preclass/1.2-dom-review.md)
-      * [1.2.1-creating-elements](Module1/day1/preclass/1.2.1-creating-elements.md)
-      * [1.2.2-events](Module1/day1/preclass/1.2.2-events.md)
+    - Pre Class
+      * [1.0: Module 1 Overview](https://bootcamp.rocketacademy.co/1-frontend-basics/1.0-module-1-overview)
+      * [1.1: HTML](https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html)
+      * [1.1.0: Wireframes](https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html/1.1.0-wireframes)
+      * [1.1.1: HTML Basics](https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html/1.1.1-basic-html)
+      * [0.0: Module 0 Overview](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.0-module-0-overview)
+      * [0.1: New JS Syntax](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.1-new-js-syntax)
+      * [0.2: ES6](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6)
+      * [0.2.1: ES6 Basics](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.1-es6-basics)
+      * [1.2: DOM Review](https://bootcamp.rocketacademy.co/1-frontend-basics/1.2-dom-review)
+      * [1.2.1: DOM Review - Creating Elements](https://bootcamp.rocketacademy.co/1-frontend-basics/1.2-dom-review/1.2.1-creating-elements)
+      * [1.2.2: DOM Review - Events](https://bootcamp.rocketacademy.co/1-frontend-basics/1.2-dom-review/1.2.2-events)
+    - In Class
+      * [1.ICE.1: Drawing DOM](https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom)
+    - Post Class
+      * [1.POCE.1: Noodle Recipe Website](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.1-noodles)
   - Day 2
-    - Inclass
-      * [1.ice.1-drawing-dom](Module1/day2/inclass/1.ice.1-drawing-dom.md)
-      * [1.poce.1-noodles](Module1/day2/inclass/1.poce.1-noodles.md)
-    - Postclass
-      * [1.poce.2-high-card-dom](Module1/day2/postclass/1.poce.2-high-card-dom.md)
-    - Preclass
-      * [0.3-reading-documentation](Module1/day2/preclass/0.3-reading-documentation.md)
-      * [1.3-high-card-dom](Module1/day2/preclass/1.3-high-card-dom.md)
-      * [1.4-settimeout](Module1/day2/preclass/1.4-settimeout.md)
-      * [Css 1 Basic Css](Module1/day2/preclass/css-1-basic-css.md)
+    - Pre Class
+      * [0.3: Reading Documentation](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.3-reading-documentation)
+      * [1.3: High Card DOM](https://bootcamp.rocketacademy.co/1-frontend-basics/1.3-high-card-dom)
+      * [1.4: setTimeout](https://bootcamp.rocketacademy.co/1-frontend-basics/1.4-settimeout)
+      * [CSS.1: Basic CSS (Exercises Part 1)](https://bootcamp.rocketacademy.co/css/css-1-basic-css)
+    - In Class
+      * [Review 1 student's 1.POCE.1: Noodle Recipe Website](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.1-noodles)
+      * [1.ICE.1: Drawing DOM (continued)](https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom)
+    - Post Class
+      * [1.POCE.2: High Card DOM](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom)
   - Day 3
-    - Inclass
-      * [1.ice.2-high-card-redux](Module1/day3/inclass/1.ice.2-high-card-redux.md)
-      * [Course Methodology](Module1/day3/inclass/course-methodology.md)
-    - Postclass
-      * [1.poce.3-match-game](Module1/day3/postclass/1.poce.3-match-game.md)
-    - Preclass
-      * [0.2.4-reference-vs.-value](Module1/day3/preclass/0.2.4-reference-vs.-value.md)
-      * [1.5-high-card-settimeout](Module1/day3/preclass/1.5-high-card-settimeout.md)
-      * [1.6-match-game](Module1/day3/preclass/1.6-match-game.md)
-      * [Css 1 Basic Css](Module1/day3/preclass/css-1-basic-css.md)
+    - Pre Class
+      * [1.5: High Card setTimeout](https://bootcamp.rocketacademy.co/1-frontend-basics/1.5-high-card-settimeout)
+      * [1.6: Match Game](https://bootcamp.rocketacademy.co/1-frontend-basics/1.6-match-game)
+      * [0.2.4: Reference vs. Value](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value)
+      * [CSS.1: Basic CSS (Exercises Part 2)](https://bootcamp.rocketacademy.co/css/css-1-basic-css)
+    - In Class
+      * [Peer-Review: 1.POCE.2: High Card](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review)
+      * [1.ICE.2: Timeout / High Card Redux](https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.2-high-card-redux)
+    - Post Class
+      * [1.POCE.3: Match Game](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.3-match-game)
   - Day 4
-    - Inclass
-      * [1.ice.3-setinterval](Module1/day4/inclass/1.ice.3-setinterval.md)
-      * [Course Methodology](Module1/day4/inclass/course-methodology.md)
-    - Postclass
-      * [1.poce.4-timer](Module1/day4/postclass/1.poce.4-timer.md)
-    - Preclass
-      * [1.7-setinterval](Module1/day4/preclass/1.7-setinterval.md)
-      * [1.8-timer](Module1/day4/preclass/1.8-timer.md)
-      * [css.2.1-no-layout](Module1/day4/preclass/css.2.1-no-layout.md)
-      * [css.2.2-display-inline-and-block](Module1/day4/preclass/css.2.2-display-inline-and-block.md)
+    - Pre Class
+      * [1.7: setInterval](https://bootcamp.rocketacademy.co/1-frontend-basics/1.7-setinterval)
+      * [1.8: Timer](https://bootcamp.rocketacademy.co/1-frontend-basics/1.8-timer)
+      * [CSS.2.1 No Layout](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.1-no-layout)
+      * [CSS.2.2 Display Inline Block](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.2-display-inline-and-block)
+    - In Class
+      * [Peer-Review: 1.POCE.3: Match Game](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review)
+      * [1.ICE.3: setInterval](https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.3-setinterval)
+    - Post Class
+      * [1.POCE.4: Timer](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.4-timer)
   - Day 5
-    - Inclass
-      * [Course Methodology](Module1/day5/inclass/course-methodology.md)
-    - Postclass
-      * [1.poce.5-tic-tac-toe](Module1/day5/postclass/1.poce.5-tic-tac-toe.md)
-    - Preclass
-      * [1.10-multi-file-refactor](Module1/day5/preclass/1.10-multi-file-refactor.md)
-      * [1.9-tic-tac-toe](Module1/day5/preclass/1.9-tic-tac-toe.md)
-      * [css.2.3-box-model](Module1/day5/preclass/css.2.3-box-model.md)
-      * [css.2.4-layout-fixed-width-and-max-width](Module1/day5/preclass/css.2.4-layout-fixed-width-and-max-width.md)
+    - Pre Class
+      * [1.9: Tic Tac Toe](https://bootcamp.rocketacademy.co/1-frontend-basics/1.9-tic-tac-toe)
+      * [1.10: Multi File Refactor](https://bootcamp.rocketacademy.co/1-frontend-basics/1.10-multi-file-refactor)
+      * [CSS.2.3: Box Model](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.3-box-model)
+      * [CSS.2.4: Layout Width](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.4-layout-fixed-width-and-max-width)
+    - In Class
+      * [Peer-Review: 1.POCE.4: Timer](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review)
+    - Post Class
+      * [1.POCE.5: Tic Tac Toe](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe)
   - Day 6
-    - Inclass
-      * [Course Methodology](Module1/day6/inclass/course-methodology.md)
-    - Postclass
-      * [Project 1 Video Poker](Module1/day6/postclass/project-1-video-poker.md)
-    - Preclass
-      * [0.4-js-object-as-tally](Module1/day6/preclass/0.4-js-object-as-tally.md)
-      * [1.11-css-control-with-dom](Module1/day6/preclass/1.11-css-control-with-dom.md)
-      * [css.2.5-display-inline-block](Module1/day6/preclass/css.2.5-display-inline-block.md)
-      * [css.2.6-layout-columns-and-cards](Module1/day6/preclass/css.2.6-layout-columns-and-cards.md)
+    - Pre Class
+      * [1.11: CSS Control with DOM](https://bootcamp.rocketacademy.co/1-frontend-basics/1.11-css-control-with-dom)
+      * [0.4: JS Object as Tally](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.4-js-object-as-tally)
+      * [CSS.2.5: Display Inline Block](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.5-display-inline-block)
+      * [CSS.2.6: Layout Col / Card](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.6-layout-columns-and-cards)
+    - In Class
+      * [Peer-Review: 1.POCE.5: Tic Tac Toe](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review)
+    - Post Class
+      * [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
   - Day 7
-    - Inclass
-      * [1.ice.css.1-straits-times-css](Module1/day7/inclass/1.ice.css.1-straits-times-css.md)
-    - Postclass
-      * [Project 1 Video Poker](Module1/day7/postclass/project-1-video-poker.md)
-    - Preclass
-      * [css.2.7-position](Module1/day7/preclass/css.2.7-position.md)
-      * [css.2.8-float](Module1/day7/preclass/css.2.8-float.md)
+    - Pre Class
+      * [CSS.2.7: Position](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.7-position)
+      * [CSS.2.8: Float](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.8-float)
+    - In Class
+      * [1.ICE.CSS.1: Straits Times](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.1-straits-times-css)
+    - Post Class
+      * [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
   - Day 8
-    - Inclass
-      * [1.ice.css.2-css-practice-6-wikipedia](Module1/day8/inclass/1.ice.css.2-css-practice-6-wikipedia.md)
-    - Postclass
-      * [Project 1 Video Poker](Module1/day8/postclass/project-1-video-poker.md)
-    - Preclass
-      * [2.0-module-2-overview](Module1/day8/preclass/2.0-module-2-overview.md)
-      * [css.3-flexbox](Module1/day8/preclass/css.3-flexbox.md)
+    - Pre Class
+      * [2.0: Module 2 Setup](https://bootcamp.rocketacademy.co/2-backend-basics/2.0-module-2-overview)
+      * [CSS.3 Flexbox](https://bootcamp.rocketacademy.co/css/css.3-flexbox)
+    - In Class
+      * [1.ICE.CSS.2: Wikipedia](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.2-css-practice-6-wikipedia)
+    - Post Class
+      * [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
   - Day 9
-    - Postclass
-      * [Project 1 Video Poker](Module1/day9/postclass/project-1-video-poker.md)
-    - Preclass
-      * [css.3.1-flexbox-layout](Module1/day9/preclass/css.3.1-flexbox-layout.md)
+    - Pre Class
+      * [CSS.3.1: Flexbox Columns](https://bootcamp.rocketacademy.co/css/css.3-flexbox/css.3.1-flexbox-layout)
+    - In Class
+      * [1.ICE.CSS.4: Etsy](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.4-etsy-css)
+    - Post Class
+      * [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
   - Day 10
-    - Postclass
-      * [12.3-deployment](Module1/day10/postclass/12.3-deployment.md)
-      * [Project 1 Video Poker](Module1/day10/postclass/project-1-video-poker.md)
-    - Preclass
-      * [css.4-responsive-design](Module1/day10/preclass/css.4-responsive-design.md)
-      * [css.5-web-design-basics](Module1/day10/preclass/css.5-web-design-basics.md)
+    - Pre Class
+      * [CSS.4 Responsive Design](https://bootcamp.rocketacademy.co/css/css.4-responsive-design)
+      * [CSS.5: Web Design Basics](https://bootcamp.rocketacademy.co/css/css.5-web-design-basics)
+    - In Class
+    - Post Class
+      * [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
+      * [Project 1: Deploy to GitHub Pages](https://basics.rocketacademy.co/12-next-steps/12.3-deployment)
   - Day 11
-    - Postclass
-      * [Course Methodology](Module1/day11/postclass/course-methodology.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 1 Post-Mortems](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting)
   - Day 12
-    - Inclass
-      * [2.ice.1-conversions](Module1/day12/inclass/2.ice.1-conversions.md)
-    - Postclass
-      * [2.poce.1-command-line-colour-converter](Module1/day12/postclass/2.poce.1-command-line-colour-converter.md)
-    - Preclass
-      * [2.0-module-2-overview](Module1/day12/preclass/2.0-module-2-overview.md)
-      * [2.1-my-first-node-program](Module1/day12/preclass/2.1-my-first-node-program.md)
-      * [2.2-command-line-programs](Module1/day12/preclass/2.2-command-line-programs.md)
+    - Pre Class
+      * [2.0: Module 2 Overview](https://bootcamp.rocketacademy.co/2-backend-basics/2.0-module-2-overview)
+      * [2.1: My First Node.js Program](https://bootcamp.rocketacademy.co/2-backend-basics/2.1-my-first-node-program)
+      * [2.2: Command Line Programs](https://bootcamp.rocketacademy.co/2-backend-basics/2.2-command-line-programs)
+    - In Class
+      * [2.ICE.1: Conversions](https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.1-conversions)
+    - Post Class
+      * [2.POCE.1: Command Line Colour Converter](https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.1-command-line-colour-converter)
   - Day 13
-    - Inclass
-      * [2.ice.2-modules-disk-reading](Module1/day13/inclass/2.ice.2-modules-disk-reading.md)
-    - Postclass
-      * [2.poce.2-css-reader](Module1/day13/postclass/2.poce.2-css-reader.md)
-    - Preclass
-      * [2.3-modules](Module1/day13/preclass/2.3-modules.md)
-      * [2.4-disk-reading](Module1/day13/preclass/2.4-disk-reading.md)
+    - Pre Class
+      * [2.3: Modules](https://bootcamp.rocketacademy.co/2-backend-basics/2.3-modules)
+      * [2.4: Disk Reading](https://bootcamp.rocketacademy.co/2-backend-basics/2.4-disk-reading)
+    - In Class
+      * [2.ICE.2: Modules, Disk Reading](https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.2-modules-disk-reading)
+    - Post Class
+      * [2.POCE.2: CSS Reader](https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader)
   - Day 14
-    - Inclass
-      * [2.ice.3-disk-altering](Module1/day14/inclass/2.ice.3-disk-altering.md)
-    - Postclass
-      * [2.poce.3-css-processor](Module1/day14/postclass/2.poce.3-css-processor.md)
-    - Preclass
-      * [2.5-disk-writing](Module1/day14/preclass/2.5-disk-writing.md)
-      * [2.6-disk-altering](Module1/day14/preclass/2.6-disk-altering.md)
-      * [2.7-internet-101](Module1/day14/preclass/2.7-internet-101.md)
-      * [2.8-chrome-networking](Module1/day14/preclass/2.8-chrome-networking.md)
+    - Pre Class
+      * [2.5: Disk Writing](https://bootcamp.rocketacademy.co/2-backend-basics/2.5-disk-writing)
+      * [2.6: Disk Altering](https://bootcamp.rocketacademy.co/2-backend-basics/2.6-disk-altering)
+      * [2.7: Internet 101](https://bootcamp.rocketacademy.co/2-backend-basics/2.7-internet-101)
+      * [2.8: Chrome Networking](https://bootcamp.rocketacademy.co/2-backend-basics/2.8-chrome-networking)
+    - In Class
+      * [2.ICE.3: Disk Altering](https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.3-disk-altering)
+    - Post Class
+      * [2.POCE.3: CSS Processor](https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor)
   - Day 15
-    - Inclass
-      * [2.ice.4-servers-and-requests](Module1/day15/inclass/2.ice.4-servers-and-requests.md)
-      * [Course Methodology](Module1/day15/inclass/course-methodology.md)
-    - Postclass
-      * [2.poce.4-file-server](Module1/day15/postclass/2.poce.4-file-server.md)
-    - Preclass
-      * [2.0-module-2-overview](Module1/day15/preclass/2.0-module-2-overview.md)
-      * [2.10-http-file-server](Module1/day15/preclass/2.10-http-file-server.md)
-      * [2.9-http](Module1/day15/preclass/2.9-http.md)
-      * [css.6-bootstrap](Module1/day15/preclass/css.6-bootstrap.md)
-- Module 2
+    - Pre Class
+      * [2.9: HTTP Requests and Responses](https://bootcamp.rocketacademy.co/2-backend-basics/2.9-http)
+      * [2.10: HTTP File Server](https://bootcamp.rocketacademy.co/2-backend-basics/2.10-http-file-server)
+      * [Install ngrok. We will use it in 2.ICE.4.](https://bootcamp.rocketacademy.co/2-backend-basics/2.0-module-2-overview#ngrok)
+      * [CSS.6 Bootstrap](https://bootcamp.rocketacademy.co/css/css.6-bootstrap)
+    - In Class
+      * [Review 2.POCE.3: CSS Processor](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review)
+      * [2.ICE.4: Servers and Requests](https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.4-servers-and-requests)
+    - Post Class
+      * [2.POCE.4: File Server](https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.4-file-server)
+# Module 2: Basic Backend
+- Module2
   - Day 1
-    - Inclass
-      * [3.ice.1-bigfoot](Module2/day1/inclass/3.ice.1-bigfoot.md)
-    - Postclass
-      * [3.poce.1-express-noodle-app](Module2/day1/postclass/3.poce.1-express-noodle-app.md)
-    - Preclass
-      * [3.0-module-3-overview](Module2/day1/preclass/3.0-module-3-overview.md)
-      * [3.1-express-js](Module2/day1/preclass/3.1-express-js.md)
-      * [3.1.1-express-with-json-db](Module2/day1/preclass/3.1.1-express-with-json-db.md)
-
+    - Pre Class
+      * [3.0: Overview](https://bootcamp.rocketacademy.co/3-backend-applications/3.0-module-3-overview)
+      * [3.1: Express.js](https://bootcamp.rocketacademy.co/3-backend-applications/3.1-express-js)
+      * [3.1.1: Express with JSON DB](https://bootcamp.rocketacademy.co/3-backend-applications/3.1-express-js/3.1.1-express-with-json-db)
+    - In Class
+      * [3.ICE.1: Bigfoot](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.1-bigfoot)
+    - Post Class
+      * [3.POCE.1: Express Noodle App](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.1-express-noodle-app)
   - Day 2
-    - Inclass
-      * [3.ice.2-bigfoot-ejs](Module2/day2/inclass/3.ice.2-bigfoot-ejs.md)
-    - Postclass
-      * [3.poce.2-express-ejs-noodle-app](Module2/day2/postclass/3.poce.2-express-ejs-noodle-app.md)
-    - Preclass
-      * [3.2-ejs](Module2/day2/preclass/3.2-ejs.md)
-      * [3.2.2-ejs-conditionals](Module2/day2/preclass/3.2.2-ejs-conditionals.md)
-      * [3.2.3-advanced-ejs](Module2/day2/preclass/3.2.3-advanced-ejs.md)
+    - Pre Class
+      * [3.2: EJS](https://bootcamp.rocketacademy.co/3-backend-applications/3.2-ejs)
+      * [3.2.2: EJS Conditionals](https://bootcamp.rocketacademy.co/3-backend-applications/3.2-ejs/3.2.2-ejs-conditionals)
+      * [3.2.3: EJS Partials](https://bootcamp.rocketacademy.co/3-backend-applications/3.2-ejs/3.2.3-advanced-ejs)
+    - In Class
+      * [3.ICE.2: Bigfoot EJS](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.2-bigfoot-ejs)
+    - Post Class
+      * [3.POCE.2: Express, EJS Noodle App](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.2-express-ejs-noodle-app)
   - Day 3
-    - Inclass
-      * [3.ice.3-bigfoot-post](Module2/day3/inclass/3.ice.3-bigfoot-post.md)
-    - Postclass
-      * [3.poce.3-express-ufos](Module2/day3/postclass/3.poce.3-express-ufos.md)
-    - Preclass
-      * [0.7-postman](Module2/day3/preclass/0.7-postman.md)
-      * [3.1.2-html-forms](Module2/day3/preclass/3.1.2-html-forms.md)
-      * [3.1.3-handling-post-requests](Module2/day3/preclass/3.1.3-handling-post-requests.md)
-      * [3.1.4-put-delete-requests](Module2/day3/preclass/3.1.4-put-delete-requests.md)
+    - Pre Class
+      * [3.1.2: HTML Forms](https://bootcamp.rocketacademy.co/3-backend-applications/3.1-express-js/3.1.2-html-forms)
+      * [3.1.3: Handling POST Requests](https://bootcamp.rocketacademy.co/3-backend-applications/3.1-express-js/3.1.3-handling-post-requests)
+      * [3.1.4: PUT, DELETE Requests](https://bootcamp.rocketacademy.co/3-backend-applications/3.1-express-js/3.1.4-put-delete-requests)
+      * [0.7: Thunder Client](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.7-postman)
+    - In Class
+      * [3.ICE.3: Bigfoot POST](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.3-bigfoot-post)
+    - Post Class
+      * [3.POCE.3: UFO Sightings](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos)
   - Day 4
-    - Inclass
-      * [3.poce.4-sql-meal-keeper](Module2/day4/inclass/3.poce.4-sql-meal-keeper.md)
-    - Postclass
-      * [3.poce.3-express-ufos](Module2/day4/postclass/3.poce.3-express-ufos.md)
-    - Preclass
-      * [3.3-sql-language](Module2/day4/preclass/3.3-sql-language.md)
-      * [3.3.1-basic-sql-commands](Module2/day4/preclass/3.3.1-basic-sql-commands.md)
-      * [3.4-sql-applications](Module2/day4/preclass/3.4-sql-applications.md)
-      * [3.4.1-postgresql-psql](Module2/day4/preclass/3.4.1-postgresql-psql.md)
-      * [3.4.2-postgresql-node-app](Module2/day4/preclass/3.4.2-postgresql-node-app.md)
+    - Pre Class
+      * [3.3: SQL Language](https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language)
+      * [3.3.1: Basic SQL Commands](https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.1-basic-sql-commands)
+      * [3.4: SQL Applications](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications)
+      * [3.4.1: PostgreSQL, psql](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.1-postgresql-psql)
+      * [3.4.2: PostgreSQL Node App](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.2-postgresql-node-app)
+    - In Class
+      * [3.POCE.4: Meal Tracker](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.4-sql-meal-keeper)
+    - Post Class
+      * [3.POCE.3: UFO Sightings](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos)
   - Day 5
-    - Inclass
-      * [3.ice.9-db-schema-design-carousell](Module2/day5/inclass/3.ice.9-db-schema-design-carousell.md)
-    - Postclass
-      * [3.poce.3-express-ufos](Module2/day5/postclass/3.poce.3-express-ufos.md)
-      * [Project 2 Server Side App](Module2/day5/postclass/project-2-server-side-app.md)
-    - Preclass
-      * [0.8-js-promises](Module2/day5/preclass/0.8-js-promises.md)
-      * [0.8.1-promise.prototype.catch-promise.all](Module2/day5/preclass/0.8.1-promise.prototype.catch-promise.all.md)
-      * [3.3.6-sql-schema-design](Module2/day5/preclass/3.3.6-sql-schema-design.md)
-      * [3.4.3-nested-sql-queries](Module2/day5/preclass/3.4.3-nested-sql-queries.md)
+    - Pre Class
+      * [0.8: JS Promises](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.8-js-promises)
+      * [0.8.1: Promise.prototype.catch, Promise.all](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.8-js-promises/0.8.1-promise.prototype.catch-promise.all)
+      * [3.4.3: Nested SQL Queries](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.3-nested-sql-queries)
+      * [3.3.6: SQL Schema Design](https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.6-sql-schema-design)
+    - In Class
+      * [3.ICE.9: DB Schema Design - Carousell](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.9-db-schema-design-carousell)
+    - Post Class
+      * [3.POCE.3: UFO Sightings](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos)
+      * [Project 2 Ideation Phase 1](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1)
   - Day 6
-    - Inclass
-      * [3.ice.5-one-to-many](Module2/day6/inclass/3.ice.5-one-to-many.md)
-    - Postclass
-      * [3.poce.5-bird-watching](Module2/day6/postclass/3.poce.5-bird-watching.md)
-    - Preclass
-      * [3.3.2-sql-relationships-one-to-many](Module2/day6/preclass/3.3.2-sql-relationships-one-to-many.md)
-      * [3.4.4-postgresql-express-app](Module2/day6/preclass/3.4.4-postgresql-express-app.md)
-      * [3.4.5-forms-for-one-to-many-relationships](Module2/day6/preclass/3.4.5-forms-for-one-to-many-relationships.md)
+    - Pre Class
+      * [3.4.4: PostgreSQL Express App](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.4-postgresql-express-app)
+      * [3.3.2: SQL Relationships (One to Many)](https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many)
+      * [3.4.5: Forms for One-to-Many Relationships](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.5-forms-for-one-to-many-relationships)
+    - In Class
+      * [3.ICE.5: One to Many](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.5-one-to-many)
+    - Post Class
+      * [3.POCE.5: Bird Watching](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.5-bird-watching)
   - Day 7
-    - Inclass
-      * [3.ice.7-many-to-many](Module2/day7/inclass/3.ice.7-many-to-many.md)
-    - Postclass
-      * [3.poce.7-bird-watching-species](Module2/day7/postclass/3.poce.7-bird-watching-species.md)
-    - Preclass
-      * [3.3.3-sql-relationships-many-to-many](Module2/day7/preclass/3.3.3-sql-relationships-many-to-many.md)
-      * [3.4.6-forms-for-many-to-many-relationships](Module2/day7/preclass/3.4.6-forms-for-many-to-many-relationships.md)
-      * [3.4.7-pg-promises](Module2/day7/preclass/3.4.7-pg-promises.md)
+    - Pre Class
+      * [3.4.7: pg Promises](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.7-pg-promises)
+      * [3.3.3: SQL Relationships (Many to Many)](https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.3-sql-relationships-many-to-many)
+      * [3.4.6: Forms for Many-to-Many Relationships](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.6-forms-for-many-to-many-relationships)
+    - In Class
+      * [3.ICE.7: Many-to-Many](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.7-many-to-many)
+    - Post Class
+      * [3.POCE.7: Bird Watching Species](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.7-bird-watching-species)
   - Day 8
-    - Inclass
-      * [3.ice.6-inner-join](Module2/day8/inclass/3.ice.6-inner-join.md)
-      * [3.ice.8-multi-foreign-key](Module2/day8/inclass/3.ice.8-multi-foreign-key.md)
-    - Postclass
-      * [Project 2 Server Side App](Module2/day8/postclass/project-2-server-side-app.md)
-    - Preclass
-      * [3.3.2-sql-relationships-one-to-many](Module2/day8/preclass/3.3.2-sql-relationships-one-to-many.md)
-      * [3.3.4-inner-join](Module2/day8/preclass/3.3.4-inner-join.md)
+    - Pre Class
+      * [3.3.4: Inner Join](https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.4-inner-join)
+      * [3.3.5: Non-FK Relationship Data in Join Table](https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.2-sql-relationships-one-to-many)
+    - In Class
+      * [3.ICE.6: Inner Joins](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.6-inner-join)
+      * [3.ICE.8: Multiple Foreign Keys](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.8-multi-foreign-key)
+    - Post Class
+      * [Project 2 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2)
   - Day 9
-    - Inclass
-      * [3.poce.6-bird-watching-users](Module2/day9/inclass/3.poce.6-bird-watching-users.md)
-    - Postclass
-      * [3.poce.8-bird-watching-behaviour](Module2/day9/postclass/3.poce.8-bird-watching-behaviour.md)
-      * [Project 2 Server Side App](Module2/day9/postclass/project-2-server-side-app.md)
-    - Preclass
-      * [3.4.10-dates-in-sql-and-js](Module2/day9/preclass/3.4.10-dates-in-sql-and-js.md)
-      * [3.4.11-file-uploads](Module2/day9/preclass/3.4.11-file-uploads.md)
-      * [3.5.1-cookies](Module2/day9/preclass/3.5.1-cookies.md)
-      * [3.5.2-user-auth](Module2/day9/preclass/3.5.2-user-auth.md)
+    - Pre Class
+      * [3.4.10: Dates in SQL and JS](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.10-dates-in-sql-and-js)
+      * [3.4.11: File Uploads](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.11-file-uploads)
+      * [3.5.1: Cookies](https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.1-cookies)
+      * [3.5.2: User Auth](https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.2-user-auth)
+    - In Class
+      * [3.POCE.6: Bird Watching Users](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.6-bird-watching-users)
+    - Post Class
+      * [3.POCE.8: Bird Watching Behaviour](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour)
+      * [Project 2 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2)
   - Day 10
-    - Inclass
-      * [3.ice.12-db-schema-design-instagram](Module2/day10/inclass/3.ice.12-db-schema-design-instagram.md)
-    - Postclass
-      * [3.poce.9-bird-watching-comments](Module2/day10/postclass/3.poce.9-bird-watching-comments.md)
-    - Preclass
-      * [3.4.8-sql-clients](Module2/day10/preclass/3.4.8-sql-clients.md)
-      * [3.4.9-database-setup-files](Module2/day10/preclass/3.4.9-database-setup-files.md)
+    - Pre Class
+      * [3.4.9: Database Setup Files](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.9-database-setup-files)
+      * [3.4.8: SQL Clients](https://bootcamp.rocketacademy.co/3-backend-applications/3.4-sql-applications/3.4.8-sql-clients)
+    - In Class
+      * [3.ICE.12: DB Schema Design - Instagram](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram)
+    - Post Class
+      * [3.POCE.9: Bird Watching Comments](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.9-bird-watching-comments)
   - Day 11
-    - Inclass
-      * [Project 2 Server Side App](Module2/day11/inclass/project-2-server-side-app.md)
-    - Postclass
-      * [Project 2 Server Side App](Module2/day11/postclass/project-2-server-side-app.md)
+    - Pre Class
+    - In Class
+      * [Due: Project 2 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2)
+      * [Project 2 Peer Planning Review](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2)
+    - Post Class
+      * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
   - Day 12
-    - Postclass
-      * [Project 2 Server Side App](Module2/day12/postclass/project-2-server-side-app.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
   - Day 13
-    - Postclass
-      * [Project 2 Server Side App](Module2/day13/postclass/project-2-server-side-app.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 2 Mid-Point Instructor Meeting (30 minutes)](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#project-timeline)
+      * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
   - Day 14
-    - Postclass
-      * [Project 2 Server Side App](Module2/day14/postclass/project-2-server-side-app.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
   - Day 15
-    - Postclass
-      * [Project 2 Server Side App](Module2/day15/postclass/project-2-server-side-app.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
   - Day 16
-    - Postclass
-      * [3.poce.11-heroku-deployment](Module2/day16/postclass/3.poce.11-heroku-deployment.md)
-    - Preclass
-      * [0.10-introduction-to-classes](Module2/day16/preclass/0.10-introduction-to-classes.md)
-      * [3.6-heroku](Module2/day16/preclass/3.6-heroku.md)
-      * [3.6.1-heroku-deploy](Module2/day16/preclass/3.6.1-heroku-deploy.md)
-      * [3.6.2-heroku-postgres](Module2/day16/preclass/3.6.2-heroku-postgres.md)
-      * [3.6.3-heroku-s3](Module2/day16/preclass/3.6.3-heroku-s3.md)
-- Module 3
+    - Pre Class
+      * [3.6: Heroku](https://bootcamp.rocketacademy.co/3-backend-applications/3.6-heroku)
+      * [3.6.1: Heroku Deploy](https://bootcamp.rocketacademy.co/3-backend-applications/3.6-heroku/3.6.1-heroku-deploy)
+      * [3.6.2: Heroku Postgres](https://bootcamp.rocketacademy.co/3-backend-applications/3.6-heroku/3.6.2-heroku-postgres)
+      * [3.6.3: Heroku S3](https://bootcamp.rocketacademy.co/3-backend-applications/3.6-heroku/3.6.3-heroku-s3)
+      * [0.10: Introduction to Classes](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.10-introduction-to-classes)
+    - In Class
+    - Post Class
+      * [3.POCE.11: Heroku Deployment](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.11-heroku-deployment)
+# Module3: Backend Applications
+- Module3
   - Day 1
-    - Inclass
-      * [3.ice.13-db-schema-design-airbnb](Module3/day1/inclass/3.ice.13-db-schema-design-airbnb.md)
-    - Postclass
-      * [4.poce.1-sequelize-cli-app-travel-itinerary](Module3/day1/postclass/4.poce.1-sequelize-cli-app-travel-itinerary.md)
-    - Preclass
-      * [4.0-module-4-overview](Module3/day1/preclass/4.0-module-4-overview.md)
-      * [4.1-orm-sequelize](Module3/day1/preclass/4.1-orm-sequelize.md)
-      * [4.1.1-intro-to-sequelize](Module3/day1/preclass/4.1.1-intro-to-sequelize.md)
-      * [4.1.2-sequelize-one-to-many-relationships](Module3/day1/preclass/4.1.2-sequelize-one-to-many-relationships.md)
-
+    - Pre Class
+      * [4.0: Module 4 Overview](https://bootcamp.rocketacademy.co/4-backend-structure/4.0-module-4-overview)
+      * [4.1: ORM, Sequelize](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize)
+      * [4.1.1: Intro to Sequelize](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.1-intro-to-sequelize)
+      * [4.1.2: Sequelize One-to-Many](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.2-sequelize-one-to-many-relationships)
+    - In Class
+      * [3.ICE.13: DB Schema Design - Airbnb](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.13-db-schema-design-airbnb)
+    - Post Class
+      * [4.POCE.1: Sequelize CLI App - Travel Itinerary](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary)
   - Day 2
-    - Inclass
-      * [4.poce.1-sequelize-cli-app-travel-itinerary](Module3/day2/inclass/4.poce.1-sequelize-cli-app-travel-itinerary.md)
-    - Postclass
-      * [4.poce.1-sequelize-cli-app-travel-itinerary](Module3/day2/postclass/4.poce.1-sequelize-cli-app-travel-itinerary.md)
-    - Preclass
-      * [0.8.2-try-catch](Module3/day2/preclass/0.8.2-try-catch.md)
-      * [0.8.3-async-await](Module3/day2/preclass/0.8.3-async-await.md)
-      * [4.1.3-async-await-with-sequelize](Module3/day2/preclass/4.1.3-async-await-with-sequelize.md)
+    - Pre Class
+      * [0.8.2: Try Catch](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.8-js-promises/0.8.2-try-catch)
+      * [0.8.3: Async/Await](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.8-js-promises/0.8.3-async-await)
+      * [4.1.3: Async/Await with Sequelize](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.3-async-await-with-sequelize)
+    - In Class
+      * [4.POCE.1: Sequelize CLI App - Travel Itinerary (Pair Programming)](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary)
+    - Post Class
+      * [4.POCE.1: Sequelize CLI App - Travel Itinerary](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary)
   - Day 3
-    - Inclass
-      * [4.poce.2-drummers-for-hire](Module3/day3/inclass/4.poce.2-drummers-for-hire.md)
-    - Postclass
-      * [4.poce.2-drummers-for-hire](Module3/day3/postclass/4.poce.2-drummers-for-hire.md)
-    - Preclass
-      * [4.2-mvc](Module3/day3/preclass/4.2-mvc.md)
-      * [4.2.1-restful-routes](Module3/day3/preclass/4.2.1-restful-routes.md)
+    - Pre Class
+      * [4.2: MVC](https://bootcamp.rocketacademy.co/4-backend-structure/4.2-mvc)
+      * [4.2.1: RESTful Routes](https://bootcamp.rocketacademy.co/4-backend-structure/4.2-mvc/4.2.1-restful-routes)
+    - In Class
+      * [4.POCE.2: Drummers for Hire](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire)
+    - Post Class
+      * [4.POCE.2: Drummers for Hire](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire)
   - Day 4
-    - Inclass
-      * [4.poce.3-project-2-mvc-refactor](Module3/day4/inclass/4.poce.3-project-2-mvc-refactor.md)
-    - Postclass
-      * [4.poce.2-drummers-for-hire](Module3/day4/postclass/4.poce.2-drummers-for-hire.md)
-    - Preclass
-      * [4.1.4-sequelize-many-to-many](Module3/day4/preclass/4.1.4-sequelize-many-to-many.md)
+    - Pre Class
+      * [4.1.4: Sequelize Many-to-Many](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.4-sequelize-many-to-many)
+    - In Class
+      * [4.POCE.3: Project 2 MVC Refactor](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor)
+    - Post Class
+      * [4.POCE.2: Drummers for Hire](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire)
   - Day 5
-    - Inclass
-      * [5.ice.1-full-stack-modal](Module3/day5/inclass/5.ice.1-full-stack-modal.md)
-    - Postclass
-      * [4.poce.3-project-2-mvc-refactor](Module3/day5/postclass/4.poce.3-project-2-mvc-refactor.md)
-    - Preclass
-      * [4.1.5-sequelize-many-to-many-with-non-fk-attributes-in-through-table](Module3/day5/preclass/4.1.5-sequelize-many-to-many-with-non-fk-attributes-in-through-table.md)
-      * [5.0-module-5-overview](Module3/day5/preclass/5.0-module-5-overview.md)
-      * [5.1-dom-manipulation-with-express-app](Module3/day5/preclass/5.1-dom-manipulation-with-express-app.md)
+    - Pre Class
+      * [4.1.5: Sequelize Many-to-Many with Non-FK Attributes in "Through Table"](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.5-sequelize-many-to-many-with-non-fk-attributes-in-through-table)
+      * [5.0: Module 5 Overview](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.0-module-5-overview)
+      * [5.1: DOM Manipulation with Express App](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.1-dom-manipulation-with-express-app)
+    - In Class
+      * [5.ICE.1: Full-Stack Modal](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.ice-in-class-exercises/5.ice.1-full-stack-modal)
+    - Post Class
+      * [4.POCE.3: Project 2 MVC Refactor](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor)
   - Day 6
-    - Inclass
-      * [5.ice.2-ajax](Module3/day6/inclass/5.ice.2-ajax.md)
-    - Postclass
-      * [4.poce.3-project-2-mvc-refactor](Module3/day6/postclass/4.poce.3-project-2-mvc-refactor.md)
-    - Preclass
-      * [4.1.6-sequelize-validations](Module3/day6/preclass/4.1.6-sequelize-validations.md)
-      * [5.2-ajax](Module3/day6/preclass/5.2-ajax.md)
+    - Pre Class
+      * [4.1.6 Sequelize Validations](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.6-sequelize-validations)
+      * [5.2: AJAX](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.2-ajax)
+    - In Class
+      * [5.ICE.2: AJAX](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.ice-in-class-exercises/5.ice.2-ajax)
+    - Post Class
+      * [4.POCE.3: Project 2 MVC Refactor](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor)
   - Day 7
-    - Inclass
-      * [5.ice.3-bug-reports-ajax](Module3/day7/inclass/5.ice.3-bug-reports-ajax.md)
-    - Postclass
-      * [5.poce.1-bug-reports-ajax](Module3/day7/postclass/5.poce.1-bug-reports-ajax.md)
-    - Preclass
-      * [4.1.7-sequelize-eager-loading](Module3/day7/preclass/4.1.7-sequelize-eager-loading.md)
-      * [5.2.1-ajax-post-requests](Module3/day7/preclass/5.2.1-ajax-post-requests.md)
+    - Pre Class
+      * [4.1.7: Sequelize Eager Loading](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.7-sequelize-eager-loading)
+      * [5.2.1: AJAX POST Requests](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.2-ajax/5.2.1-ajax-post-requests)
+    - In Class
+      * [5.ICE.3: Bug Reports AJAX](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.ice-in-class-exercises/5.ice.3-bug-reports-ajax)
+    - Post Class
+      * [5.POCE.1: Bug Reports AJAX](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax)
   - Day 8
-    - Inclass
-      * [5.ice.4-cross-domain-ajax](Module3/day8/inclass/5.ice.4-cross-domain-ajax.md)
-    - Postclass
-      * [5.poce.2-bug-reports-ajax-users](Module3/day8/postclass/5.poce.2-bug-reports-ajax-users.md)
-    - Preclass
-      * [4.1.8-multiple-foreign-key-columns-referencing-same-table](Module3/day8/preclass/4.1.8-multiple-foreign-key-columns-referencing-same-table.md)
+    - Pre Class
+      * [4.1.8: Multiple FK Columns Referencing Same Table](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.8-multiple-foreign-key-columns-referencing-same-table)
+    - In Class
+      * [5.ICE.4: Cross-Domain AJAX](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax)
+    - Post Class
+      * [5.POCE.2: Bug Reports AJAX Users](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users)
   - Day 9
-    - Inclass
-      * [Course Methodology](Module3/day9/inclass/course-methodology.md)
-    - Postclass
-      * [5.poce.3-ajax-cards](Module3/day9/postclass/5.poce.3-ajax-cards.md)
-      * [Project 3 Full Stack Game](Module3/day9/postclass/project-3-full-stack-game.md)
-    - Preclass
-      * [5.2.2-ajax-cards](Module3/day9/preclass/5.2.2-ajax-cards.md)
-      * [6.0-module-6-overview](Module3/day9/preclass/6.0-module-6-overview.md)
-      * [6.1-webpack](Module3/day9/preclass/6.1-webpack.md)
-      * [6.1.1-webpack-with-local-modules](Module3/day9/preclass/6.1.1-webpack-with-local-modules.md)
+    - Pre Class
+      * [6.1: Webpack](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack)
+      * [5.2.2: AJAX Cards](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards)
+      * [6.1.1: Webpack with Local Modules](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules)
+      * [6.0: Module 6 Overview](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.0-module-6-overview)
+    - In Class
+      * [Bug Reports (5.POCE.1, 5.POCE.2) Redux ](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review)
+    - Post Class
+      * [5.POCE.3: AJAX Cards](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards)
+      * [Project 3 Ideation Phase 1](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
   - Day 10
-    - Inclass
-      * [6.ice.1-npm-webpack](Module3/day10/inclass/6.ice.1-npm-webpack.md)
-    - Postclass
-      * [5.poce.3-ajax-cards](Module3/day10/postclass/5.poce.3-ajax-cards.md)
-      * [Project 3 Full Stack Game](Module3/day10/postclass/project-3-full-stack-game.md)
-    - Preclass
-      * [6.1.2-webpack-with-npm-modules](Module3/day10/preclass/6.1.2-webpack-with-npm-modules.md)
-      * [6.1.5-webpack-with-express](Module3/day10/preclass/6.1.5-webpack-with-express.md)
-      * [Group Work](Module3/day10/preclass/group-work.md)
+    - Pre Class
+      * [6.1.2: Webpack with NPM Modules](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules)
+      * [6.1.5: Webpack with Express](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express)
+      * [Group Work (for project management)](https://bootcamp.rocketacademy.co/course-logistics/group-work)
+    - In Class
+      * [6.ICE.1: NPM Webpack](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack)
+    - Post Class
+      * [5.POCE.3: AJAX Cards](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards)
+      * [Project 3 Ideation Phase 1](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
+# Module4: Frontend (React)
+- Module4
+  - Day 1
+    - Pre Class
+      * [7.0: Module 7 Overview](https://bootcamp.rocketacademy.co/7-react/7.0-module-7-overview)
+      * [7.1: JSX Intro](https://bootcamp.rocketacademy.co/7-react/7.1-jsx-intro)
+      * [7.1.1: Conditional Rendering](https://bootcamp.rocketacademy.co/7-react/7.1-jsx-intro/7.1.1-conditional-rendering)
+      * [7.1.2: Rendering In a Loop](https://bootcamp.rocketacademy.co/7-react/7.1-jsx-intro/7.1.2-rendering-in-a-loop)
+    - In Class
+      * [7.ICE.1: JSX Products Items](https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.1-product-rendering)
+    - Post Class
+      * [7.POCE.1: JSX Bug Reports](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.1-bugs)
+      * [Project 3 Video Demo](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo)
+  - Day 2
+    - Pre Class
+      * [7.2: React Components](https://bootcamp.rocketacademy.co/7-react/7.2-react-components)
+      * [7.2.1: Props](https://bootcamp.rocketacademy.co/7-react/7.2-react-components/7.2.1-props)
+      * [7.2.2: Generating Components from a List](https://bootcamp.rocketacademy.co/7-react/7.2-react-components/7.2.2-generating-components-from-a-list)
+      * [7.2.3: Class Components](https://bootcamp.rocketacademy.co/7-react/7.2-react-components/7.2.3-class-components)
+    - In Class
+      * [7.ICE.2: React Pokedex](https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.2-pokedex)
+    - Post Class
+      * [7.ICE.2: React Pokedex](https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.2-pokedex)
+      * [Project 3 Video Demo](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo)
+  - Day 3
+    - Pre Class
+      * [7.3: Using React with Express and Webpack](https://bootcamp.rocketacademy.co/7-react/7.3-using-react-with-express-and-webpack)
+      * [7.4: React State](https://bootcamp.rocketacademy.co/7-react/7.4-react-state)
+    - In Class
+      * [7.ICE.3: React Cards](https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.3-react-cards)
+    - Post Class
+      * [7.POCE.2: React Tic Tac Toe](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe)
+  - Day 4
+    - Pre Class
+      * [7.5: Controlled Forms](https://bootcamp.rocketacademy.co/7-react/7.5-controlled-forms)
+      * [7.6: Passing Data Between Sibling Components](https://bootcamp.rocketacademy.co/7-react/7.6-passing-data-between-sibling-components)
+    - In Class
+      * [7.ICE.4: Guess the Word](https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.4-guess-the-word)
+    - Post Class
+      * [7.POCE.3: Read Later](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.3-read-later)
+  - Day 5
+    - Pre Class
+      * [7.7: Designing Component Hierarchy](https://bootcamp.rocketacademy.co/7-react/7.7-designing-component-hierarchy)
+      * [7.7.1: AJAX Requests from Components](https://bootcamp.rocketacademy.co/7-react/7.7-designing-component-hierarchy/7.7.1-ajax-requests-from-components)
+      * [7.9: React Dev Tools](https://bootcamp.rocketacademy.co/7-react/7.9-react-dev-tools)
+    - In Class
+      * [7.ICE.5: Create Item](https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.5-create-item)
+    - Post Class
+      * [7.POCE.3: Read Later](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.3-read-later)
+  - Day 6
+    - Pre Class
+    - In Class
+      * [Review 7.POCE.3: Read Later](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.3-read-later)
+    - Post Class
+      * [7.POCE.4: Hot Pot Bill Splitter](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter)
+      * [Project 4 Ideation Phase 1](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
+  - Day 7
+    - Pre Class
+      * [7.7.2: useEffect](https://bootcamp.rocketacademy.co/7-react/7.7-designing-component-hierarchy/7.7.2-useeffect)
+    - In Class
+    - Post Class
+      * [7.POCE.4: Hot Pot Bill Splitter](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter)
+      * [Project 4 Ideation Phase 1](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
+  - Day 8
+    - Pre Class
+      * [7.8: Error Boundaries](https://bootcamp.rocketacademy.co/7-react/7.8-error-boundaries)
+    - In Class
+    - Post Class
+      * [7.POCE.4: Hot Pot Bill Splitter](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter)
+      * [Project 4 Ideation Phase 1](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
+  - Day 9
+    - Pre Class
+    - In Class
+      * [Review 7.POCE.4: Hot Pot Bill Splitter](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review)
+    - Post Class
+      * [Project 4 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-2)
+  - Day 10
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Start: Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
   - Day 11
-    - Postclass
-      * [Project 3 Full Stack Game](Module3/day11/postclass/project-3-full-stack-game.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
   - Day 12
-    - Postclass
-      * [Project 3 Full Stack Game](Module3/day12/postclass/project-3-full-stack-game.md)
-    - Preclass
-      * [4.1.10-deploy-sequelize-app-to-heroku](Module3/day12/preclass/4.1.10-deploy-sequelize-app-to-heroku.md)
-      * [6.1.6-express-mvc-webpack-and-heroku](Module3/day12/preclass/6.1.6-express-mvc-webpack-and-heroku.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
   - Day 13
-    - Postclass
-      * [Project 3 Full Stack Game](Module3/day13/postclass/project-3-full-stack-game.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
   - Day 14
-    - Postclass
-      * [Project 3 Full Stack Game](Module3/day14/postclass/project-3-full-stack-game.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
   - Day 15
-    - Postclass
-      * [Project 3 Full Stack Game](Module3/day15/postclass/project-3-full-stack-game.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
   - Day 16
-    - Postclass
-      * [Course Methodology](Module3/day16/postclass/course-methodology.md)
-      * [Project 3 Full Stack Game](Module3/day16/postclass/project-3-full-stack-game.md)
-- Module 4
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 4 Post-Mortems](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting)
+      * [Project 4 Video Demo](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#video-demo)
+# Module 5: Advanced React
+- Module5
   - Day 1
-    - Inclass
-      * [7.ice.1-product-rendering](Module4/day1/inclass/7.ice.1-product-rendering.md)
-    - Postclass
-      * [7.poce.1-bugs](Module4/day1/postclass/7.poce.1-bugs.md)
-      * [Project 3 Full Stack Game](Module4/day1/postclass/project-3-full-stack-game.md)
-    - Preclass
-      * [7.0-module-7-overview](Module4/day1/preclass/7.0-module-7-overview.md)
-      * [7.1-jsx-intro](Module4/day1/preclass/7.1-jsx-intro.md)
-      * [7.1.1-conditional-rendering](Module4/day1/preclass/7.1.1-conditional-rendering.md)
-      * [7.1.2-rendering-in-a-loop](Module4/day1/preclass/7.1.2-rendering-in-a-loop.md)
-
+    - Pre Class
+      * [8.0: Module 8 Overview](https://bootcamp.rocketacademy.co/8-advanced-react/8.0-module-8-overview)
+      * [8.1: Create React App](https://bootcamp.rocketacademy.co/8-advanced-react/8.1-create-react-app)
+      * [8.1.1: Create React App Full Stack](https://bootcamp.rocketacademy.co/8-advanced-react/8.1-create-react-app/8.1.1-create-react-app-full-stack-setup)
+      * [8.2: Higher Order Components](https://bootcamp.rocketacademy.co/8-advanced-react/8.3-higher-order-components)
+    - In Class
+    - Post Class
+      * [Project 5 Ideation Phase 1](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-1)
   - Day 2
-    - Inclass
-      * [7.ice.2-pokedex](Module4/day2/inclass/7.ice.2-pokedex.md)
-    - Postclass
-      * [7.ice.2-pokedex](Module4/day2/postclass/7.ice.2-pokedex.md)
-      * [Project 3 Full Stack Game](Module4/day2/postclass/project-3-full-stack-game.md)
-    - Preclass
-      * [7.2-react-components](Module4/day2/preclass/7.2-react-components.md)
-      * [7.2.1-props](Module4/day2/preclass/7.2.1-props.md)
-      * [7.2.2-generating-components-from-a-list](Module4/day2/preclass/7.2.2-generating-components-from-a-list.md)
-      * [7.2.3-class-components](Module4/day2/preclass/7.2.3-class-components.md)
+    - Pre Class
+      * [8.3.1: useContext](https://bootcamp.rocketacademy.co/8-advanced-react/8.2-usecontext/8.3.1-usecontext)
+      * [8.3.2: useReducer](https://bootcamp.rocketacademy.co/8-advanced-react/8.2-usecontext/8.3.2-usereducer)
+      * [8.3.3: useContext + useReducer](https://bootcamp.rocketacademy.co/8-advanced-react/8.2-usecontext/8.3.3-usecontext-+-usereducer)
+    - In Class
+      * [8.ICE.1: useContext](https://bootcamp.rocketacademy.co/8-advanced-react/8.ice-in-class-exercises/8.ice.1-usecontext)
+    - Post Class
+      * [8.POCE.1: Car Rental](https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental)
+      * [Project 5 Ideation Phase 1](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-1)
   - Day 3
-    - Inclass
-      * [7.ice.3-react-cards](Module4/day3/inclass/7.ice.3-react-cards.md)
-    - Postclass
-      * [7.poce.2-react-tic-tac-toe](Module4/day3/postclass/7.poce.2-react-tic-tac-toe.md)
-    - Preclass
-      * [7.3-using-react-with-express-and-webpack](Module4/day3/preclass/7.3-using-react-with-express-and-webpack.md)
-      * [7.4-react-state](Module4/day3/preclass/7.4-react-state.md)
+    - Pre Class
+      * [8.3.4: React E-Commerce App with Store](https://bootcamp.rocketacademy.co/8-advanced-react/8.2-usecontext/8.3.4-react-e-commerce-app-with-store)
+    - In Class
+    - Post Class
+      * [8.POCE.1: Car Rental](https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental)
+      * [Project 5 Ideation 2](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-2)
   - Day 4
-    - Inclass
-      * [7.ice.4-guess-the-word](Module4/day4/inclass/7.ice.4-guess-the-word.md)
-    - Postclass
-      * [7.poce.3-read-later](Module4/day4/postclass/7.poce.3-read-later.md)
-    - Preclass
-      * [7.5-controlled-forms](Module4/day4/preclass/7.5-controlled-forms.md)
-      * [7.6-passing-data-between-sibling-components](Module4/day4/preclass/7.6-passing-data-between-sibling-components.md)
+    - Pre Class
+      * [8.4: React Router](https://bootcamp.rocketacademy.co/8-advanced-react/8.4-react-router)
+      * [8.4.1: React Router Shopping](https://bootcamp.rocketacademy.co/8-advanced-react/8.4-react-router/8.4.1-react-router-shopping)
+      * [8.4.2: React Router Deep Linking](https://bootcamp.rocketacademy.co/8-advanced-react/8.4-react-router/8.4.2-react-router-deep-linking)
+    - In Class
+    - Post Class
+      * [8.POCE.1: Car Rental](https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental)
+      * [Project 5 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-2)
   - Day 5
-    - Inclass
-      * [7.ice.5-create-item](Module4/day5/inclass/7.ice.5-create-item.md)
-    - Postclass
-      * [7.poce.3-read-later](Module4/day5/postclass/7.poce.3-read-later.md)
-    - Preclass
-      * [7.7-designing-component-hierarchy](Module4/day5/preclass/7.7-designing-component-hierarchy.md)
-      * [7.7.1-ajax-requests-from-components](Module4/day5/preclass/7.7.1-ajax-requests-from-components.md)
-      * [7.9-react-dev-tools](Module4/day5/preclass/7.9-react-dev-tools.md)
+    - Pre Class
+      * [8.5: Advanced useEffect](https://bootcamp.rocketacademy.co/8-advanced-react/8.5-advanced-useeffect)
+    - In Class
+    - Post Class
+      * [8.POCE.2: (Group Project) Climbing Trip](https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner)
   - Day 6
-    - Inclass
-      * [7.poce.3-read-later](Module4/day6/inclass/7.poce.3-read-later.md)
-    - Postclass
-      * [7.poce.4-hot-pot-bill-splitter](Module4/day6/postclass/7.poce.4-hot-pot-bill-splitter.md)
-      * [Project 4 Full Stack React App](Module4/day6/postclass/project-4-full-stack-react-app.md)
+    - Pre Class
+      * [8.6: Styled Components](https://bootcamp.rocketacademy.co/8-advanced-react/8.6-styled-components)
+      * [8.7: React Portals](https://bootcamp.rocketacademy.co/8-advanced-react/8.7-react-portals)
+    - In Class
+    - Post Class
+      * [8.POCE.2: (Group Project) Climbing Trip](https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner)
+      * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
   - Day 7
-    - Postclass
-      * [7.poce.4-hot-pot-bill-splitter](Module4/day7/postclass/7.poce.4-hot-pot-bill-splitter.md)
-      * [Project 4 Full Stack React App](Module4/day7/postclass/project-4-full-stack-react-app.md)
-    - Preclass
-      * [7.7.2-useeffect](Module4/day7/preclass/7.7.2-useeffect.md)
+    - Pre Class
+      * [8.8: React NPM Packages](https://bootcamp.rocketacademy.co/8-advanced-react/8.8-react-npm-packages)
+    - In Class
+    - Post Class
+      * [8.POCE.2: (Group Project) Climbing Trip](https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner)
+      * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
   - Day 8
-    - Postclass
-      * [7.poce.4-hot-pot-bill-splitter](Module4/day8/postclass/7.poce.4-hot-pot-bill-splitter.md)
-      * [Project 4 Full Stack React App](Module4/day8/postclass/project-4-full-stack-react-app.md)
-    - Preclass
-      * [7.8-error-boundaries](Module4/day8/preclass/7.8-error-boundaries.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [8.POCE.2: (Group Project) Climbing Trip](https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner)
+      * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
   - Day 9
-    - Inclass
-      * [Course Methodology](Module4/day9/inclass/course-methodology.md)
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day9/postclass/project-4-full-stack-react-app.md)
+    - Pre Class
+    - In Class
+      * [8.POCE.2: Climbing Trip Redux](https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.2-rock-climbing-trip-planner)
+    - Post Class
+      * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
+# Module6: Capstone
+- Module6
+  - Day 1
+    - Pre Class
+      * [9.0: Module 9 Overview](https://bootcamp.rocketacademy.co/9-advanced-topics/9.0-module-9-overview)
+      * [9.1: Testing](https://bootcamp.rocketacademy.co/9-advanced-topics/9.1-testing)
+      * [9.1.1: Unit Testing](https://bootcamp.rocketacademy.co/9-advanced-topics/9.1-testing/9.1.1-unit-testing)
+      * [9.1.2: TDD](https://bootcamp.rocketacademy.co/9-advanced-topics/9.1-testing/9.1.2-tdd)
+      * [9.1.3: CI](https://bootcamp.rocketacademy.co/9-advanced-topics/9.1-testing/9.1.3-ci)
+    - In Class
+      * [9.ICE.1: Unit Testing](https://bootcamp.rocketacademy.co/9-advanced-topics/9.ice-in-class-exercises/9.ice.1-unit-testing)
+    - Post Class
+      * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
+  - Day 2
+    - Pre Class
+      * [9.2.1: XSS](https://bootcamp.rocketacademy.co/9-advanced-topics/9.2-security/9.2.1-xss)
+      * [9.2.2: CSRF](https://bootcamp.rocketacademy.co/9-advanced-topics/9.2-security/9.2.2-csrf)
+      * [9.2.3: SQL Injection](https://bootcamp.rocketacademy.co/9-advanced-topics/9.2-security/9.2.3-sql-injection)
+    - In Class
+    - Post Class
+      * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
+  - Day 3
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 5 Post-Mortems](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting)
+      * [Project 5 Video](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#video-demo)
+      * [Project 6 Ideation Phase 1](https://bootcamp.rocketacademy.co/projects/project-6-capstone#ideation-phase-1)
+  - Day 4
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 5 Video](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#video-demo)
+      * [Project 6 Exploration Time]()
+  - Day 5
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
+      * [Project 6 Exploration Time]()
+  - Day 6
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
+      * [Project 6 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-6-capstone#ideation-phase-2)
+  - Day 7
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
+  - Day 8
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
+  - Day 9
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
   - Day 10
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day10/postclass/project-4-full-stack-react-app.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
+# Algorithms
+- Algorithms
+  - Day 1
+    - Pre Class
+      * [A.0: Algorithms Overview](https://bootcamp.rocketacademy.co/algorithms/a.0-algorithms-overview)
+      * [A.1: Intro to SWE Interviews](https://bootcamp.rocketacademy.co/algorithms/a.1-intro-to-swe-interviews)
+      * [A.2: Intro to Python (Exercises 1-8)](https://bootcamp.rocketacademy.co/algorithms/a.2-intro-to-python)
+      * [A.0: Algorithms Overview](https://bootcamp.rocketacademy.co/algorithms/a.0-algorithms-overview)
+      * [A.1: Intro to SWE Interviews](https://bootcamp.rocketacademy.co/algorithms/a.1-intro-to-swe-interviews)
+      * [A.2: Intro to Python (Exercises 1-8)](https://bootcamp.rocketacademy.co/algorithms/a.2-intro-to-python)
+    - In Class
+    - Post Class
+  - Day 2
+    - Pre Class
+      * [A.2: Intro to Python (Exercises 9-11)](https://bootcamp.rocketacademy.co/algorithms/a.2-intro-to-python)
+      * [A.2: Intro to Python (Exercises 9-11)](https://bootcamp.rocketacademy.co/algorithms/a.2-intro-to-python)
+    - In Class
+    - Post Class
+  - Day 3
+    - Pre Class
+      * [A.3: Complexity Analysis, Big-O Notation](https://bootcamp.rocketacademy.co/algorithms/a.3-complexity-analysis-big-o-notation)
+      * [A.4: Interview Strategies](https://bootcamp.rocketacademy.co/algorithms/a.4-interview-strategies)
+      * [A.4.1 Introduction to Algorithm Problems](https://bootcamp.rocketacademy.co/algorithms/a.4-interview-strategies/a.4.1-introduction-to-algorithm-problems#pre-class)
+      * [A.3: Complexity Analysis, Big-O Notation](https://bootcamp.rocketacademy.co/algorithms/a.3-complexity-analysis-big-o-notation)
+      * [A.4: Interview Strategies](https://bootcamp.rocketacademy.co/algorithms/a.4-interview-strategies)
+      * [A.4.1 Introduction to Algorithm Problems](https://bootcamp.rocketacademy.co/algorithms/a.4-interview-strategies/a.4.1-introduction-to-algorithm-problems#pre-class)
+    - In Class
+    - Post Class
+  - Day 4
+    - Pre Class
+      * [A.5.1: Arrays - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#pre-class)
+      * [A.5.1: Arrays - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#pre-class)
+    - In Class
+    - Post Class
+  - Day 5
+    - Pre Class
+    - In Class
+      * [A.5.1: Arrays - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-1)
+      * [A.5.1: Arrays - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-1)
+    - Post Class
+      * [A.5.1: Arrays - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-1)
+      * [A.5.1: Arrays - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-1)
+  - Day 6
+    - Pre Class
+    - In Class
+      * [A.5.1: Arrays - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-2)
+      * [A.5.1: Arrays - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-2)
+    - Post Class
+      * [A.5.1: Arrays - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-2)
+      * [A.5.1: Arrays - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.1-arrays#part-2)
+  - Day 7
+    - Pre Class
+      * [A.5.2: Hash Tables - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables)
+      * [A.5.2: Hash Tables - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables)
+    - In Class
+      * [A.5.2: Hash Tables - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables#part-1)
+      * [A.5.2: Hash Tables - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables#part-1)
+    - Post Class
+      * [A.5.2: Hash Tables - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables#part-1)
+      * [A.5.2: Hash Tables - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables#part-1)
+  - Day 8
+    - Pre Class
+    - In Class
+      * [A.5.2: Hash Tables - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables#part-2)
+      * [A.5.2: Hash Tables - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables#part-2)
+    - Post Class
+      * [A.5.2: Hash Tables - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables#part-2)
+      * [A.5.2: Hash Tables - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.2-hash-tables#part-2)
+  - Day 9
+    - Pre Class
+      * [A.8: Object-Oriented Programming](https://bootcamp.rocketacademy.co/algorithms/a.8-intro-to-object-oriented-programming)
+      * [A.8: Object-Oriented Programming](https://bootcamp.rocketacademy.co/algorithms/a.8-intro-to-object-oriented-programming)
+    - In Class
+      * [A.8: Object-Oriented Programming](https://bootcamp.rocketacademy.co/algorithms/a.8-intro-to-object-oriented-programming#in-class-exercise)
+      * [A.8: Object-Oriented Programming](https://bootcamp.rocketacademy.co/algorithms/a.8-intro-to-object-oriented-programming#in-class-exercise)
+    - Post Class
+  - Day 10
+    - Pre Class
+      * [A.5.3: Stacks - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.3-stacks#pre-class)
+      * [A.5.3: Stacks - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.3-stacks#pre-class)
+    - In Class
+      * [A.5.3: Stacks - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.3-stacks#part-1)
+      * [A.5.3: Stacks - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.3-stacks#part-1)
+    - Post Class
+      * [A.5.3: Stacks - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.3-stacks#part-1)
+      * [A.5.3: Stacks - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.3-stacks#part-1)
   - Day 11
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day11/postclass/project-4-full-stack-react-app.md)
+    - Pre Class
+    - In Class
+      * [A.5.3: Stacks - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.3-stacks#part-2)
+      * [A.5.3: Stacks - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.3-stacks#part-2)
+    - Post Class
+      * [A.5.3: Stacks - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.3-stacks#part-2)
+      * [A.5.3: Stacks - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.3-stacks#part-2)
   - Day 12
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day12/postclass/project-4-full-stack-react-app.md)
+    - Pre Class
+      * [A.5.5: Linked Lists - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#pre-class)
+      * [A.5.5: Linked Lists - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#pre-class)
+    - In Class
+      * [A.5.5: Linked Lists - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#part-1)
+      * [A.5.5: Linked Lists - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#part-1)
+    - Post Class
+      * [A.5.5: Linked Lists - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#part-1)
+      * [A.5.5: Linked Lists - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#part-1)
   - Day 13
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day13/postclass/project-4-full-stack-react-app.md)
+    - Pre Class
+    - In Class
+      * [A.5.5: Linked Lists - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#part-2)
+      * [A.5.5: Linked Lists - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#part-2)
+    - Post Class
+      * [A.5.5: Linked Lists - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#part-2)
+      * [A.5.5: Linked Lists - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#part-2)
   - Day 14
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day14/postclass/project-4-full-stack-react-app.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [A.5.5: Linked Lists - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#part-3)
+      * [A.5.5: Linked Lists - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.5-linked-lists#part-3)
   - Day 15
-    - Postclass
-      * [Project 4 Full Stack React App](Module4/day15/postclass/project-4-full-stack-react-app.md)
+    - Pre Class
+      * [A.6: Binary Search - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.6-binary-search#pre-class)
+      * [A.6: Binary Search - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.6-binary-search#pre-class)
+    - In Class
+    - Post Class
   - Day 16
-    - Postclass
-      * [Course Methodology](Module4/day16/postclass/course-methodology.md)
-      * [Project 4 Full Stack React App](Module4/day16/postclass/project-4-full-stack-react-app.md)
-- Module 5
-  - Day 1
-    - Postclass
-      * [Project 5 Group React App](Module5/day1/postclass/project-5-group-react-app.md)
-    - Preclass
-      * [8.0-module-8-overview](Module5/day1/preclass/8.0-module-8-overview.md)
-      * [8.1-create-react-app](Module5/day1/preclass/8.1-create-react-app.md)
-      * [8.1.1-create-react-app-full-stack-setup](Module5/day1/preclass/8.1.1-create-react-app-full-stack-setup.md)
-      * [8.3-higher-order-components](Module5/day1/preclass/8.3-higher-order-components.md)
-  - Day 2
-    - Inclass
-      * [8.ice.1-usecontext](Module5/day2/inclass/8.ice.1-usecontext.md)
-    - Postclass
-      * [8.poce.1-car-rental](Module5/day2/postclass/8.poce.1-car-rental.md)
-      * [Project 5 Group React App](Module5/day2/postclass/project-5-group-react-app.md)
-    - Preclass
-      * [8.3.1-usecontext](Module5/day2/preclass/8.3.1-usecontext.md)
-      * [8.3.2-usereducer](Module5/day2/preclass/8.3.2-usereducer.md)
-      * [8.3.3-usecontext-+-usereducer](Module5/day2/preclass/8.3.3-usecontext-+-usereducer.md)
-  - Day 3
-    - Postclass
-      * [8.poce.1-car-rental](Module5/day3/postclass/8.poce.1-car-rental.md)
-      * [Project 5 Group React App](Module5/day3/postclass/project-5-group-react-app.md)
-    - Preclass
-      * [8.3.4-react-e-commerce-app-with-store](Module5/day3/preclass/8.3.4-react-e-commerce-app-with-store.md)
-  - Day 4
-    - Postclass
-      * [8.poce.1-car-rental](Module5/day4/postclass/8.poce.1-car-rental.md)
-      * [Project 5 Group React App](Module5/day4/postclass/project-5-group-react-app.md)
-    - Preclass
-      * [8.4-react-router](Module5/day4/preclass/8.4-react-router.md)
-      * [8.4.1-react-router-shopping](Module5/day4/preclass/8.4.1-react-router-shopping.md)
-      * [8.4.2-react-router-deep-linking](Module5/day4/preclass/8.4.2-react-router-deep-linking.md)
-  - Day 5
-    - Postclass
-      * [8.poce.2-rock-climbing-trip-planner](Module5/day5/postclass/8.poce.2-rock-climbing-trip-planner.md)
-    - Preclass
-      * [8.5-advanced-useeffect](Module5/day5/preclass/8.5-advanced-useeffect.md)
-  - Day 6
-    - Postclass
-      * [8.poce.2-rock-climbing-trip-planner](Module5/day6/postclass/8.poce.2-rock-climbing-trip-planner.md)
-      * [Project 5 Group React App](Module5/day6/postclass/project-5-group-react-app.md)
-    - Preclass
-      * [8.6-styled-components](Module5/day6/preclass/8.6-styled-components.md)
-      * [8.7-react-portals](Module5/day6/preclass/8.7-react-portals.md)
-  - Day 7
-    - Postclass
-      * [8.poce.2-rock-climbing-trip-planner](Module5/day7/postclass/8.poce.2-rock-climbing-trip-planner.md)
-      * [Project 5 Group React App](Module5/day7/postclass/project-5-group-react-app.md)
-    - Preclass
-      * [8.8-react-npm-packages](Module5/day7/preclass/8.8-react-npm-packages.md)
-  - Day 8
-    - Postclass
-      * [8.poce.2-rock-climbing-trip-planner](Module5/day8/postclass/8.poce.2-rock-climbing-trip-planner.md)
-      * [Project 5 Group React App](Module5/day8/postclass/project-5-group-react-app.md)
-  - Day 9
-    - Inclass
-      * [8.poce.2-rock-climbing-trip-planner](Module5/day9/inclass/8.poce.2-rock-climbing-trip-planner.md)
-    - Postclass
-      * [Project 5 Group React App](Module5/day9/postclass/project-5-group-react-app.md)
-- Module 6
-  - Day 1
-    - Inclass
-      * [9.ice.1-unit-testing](Module6/day1/inclass/9.ice.1-unit-testing.md)
-    - Postclass
-      * [Project 5 Group React App](Module6/day1/postclass/project-5-group-react-app.md)
-    - Preclass
-      * [9.0-module-9-overview](Module6/day1/preclass/9.0-module-9-overview.md)
-      * [9.1-testing](Module6/day1/preclass/9.1-testing.md)
-      * [9.1.1-unit-testing](Module6/day1/preclass/9.1.1-unit-testing.md)
-      * [9.1.2-tdd](Module6/day1/preclass/9.1.2-tdd.md)
-      * [9.1.3-ci](Module6/day1/preclass/9.1.3-ci.md)
-  - Day 2
-    - Postclass
-      * [Project 5 Group React App](Module6/day2/postclass/project-5-group-react-app.md)
-    - Preclass
-      * [9.2.1-xss](Module6/day2/preclass/9.2.1-xss.md)
-      * [9.2.2-csrf](Module6/day2/preclass/9.2.2-csrf.md)
-      * [9.2.3-sql-injection](Module6/day2/preclass/9.2.3-sql-injection.md)
-  - Day 3
-    - Postclass
-      * [Course Methodology](Module6/day3/postclass/course-methodology.md)
-      * [Project 5 Group React App](Module6/day3/postclass/project-5-group-react-app.md)
-      * [Project 6 Capstone](Module6/day3/postclass/project-6-capstone.md)
-  - Day 4
-    - Postclass
-      * [Project 5 Group React App](Module6/day4/postclass/project-5-group-react-app.md)
-  - Day 5
-    - Postclass
-      * [Project 6 Capstone](Module6/day5/postclass/project-6-capstone.md)
-  - Day 6
-    - Postclass
-      * [Project 6 Capstone](Module6/day6/postclass/project-6-capstone.md)
-  - Day 7
-    - Postclass
-      * [Project 6 Capstone](Module6/day7/postclass/project-6-capstone.md)
-  - Day 8
-    - Postclass
-      * [Project 6 Capstone](Module6/day8/postclass/project-6-capstone.md)
-  - Day 9
-    - Postclass
-      * [Project 6 Capstone](Module6/day9/postclass/project-6-capstone.md)
-  - Day 10
-    - Postclass
-      * [Project 6 Capstone](Module6/day10/postclass/project-6-capstone.md)
+    - Pre Class
+    - In Class
+    - Post Class
+      * [A.6: Binary Search - Part 1 ](https://bootcamp.rocketacademy.co/algorithms/a.6-binary-search#part-1)
+      * [A.6: Binary Search - Part 1 ](https://bootcamp.rocketacademy.co/algorithms/a.6-binary-search#part-1)
+  - Day 17
+    - Pre Class
+      * [A.5.4: Queues - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#pre-class)
+      * [A.5.4: Queues - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#pre-class)
+    - In Class
+      * [A.5.4: Queues - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1)
+      * [A.5.4: Queues - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1)
+    - Post Class
+      * [A.5.4: Queues - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1)
+      * [A.5.4: Queues - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1)
+  - Day 18
+    - Pre Class
+      * [A.9: Recursion - Required Reading](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#required-reading)
+      * [A.9: Recursion - Required Reading](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#required-reading)
+    - In Class
+      * [A.9: Recursion - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-1)
+      * [A.9: Recursion - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-1)
+    - Post Class
+      * [A.9: Recursion - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-1)
+      * [A.9: Recursion - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-1)
+  - Day 19
+    - Pre Class
+    - In Class
+      * [A.9: Recursion - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-2)
+      * [A.9: Recursion - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-2)
+    - Post Class
+      * [A.9: Recursion - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-2)
+      * [A.9: Recursion - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-2)
+  - Day 20
+    - Pre Class
+    - In Class
+      * [A.9: Recursion - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-3)
+      * [A.9: Recursion - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-3)
+    - Post Class
+      * [A.9: Recursion - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-3)
+      * [A.9: Recursion - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.9-recursion#part-3)
+  - Day 21
+    - Pre Class
+      * [A.10: Sorting Algorithms](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms)
+      * [A.10: Sorting Algorithms](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms)
+    - In Class
+      * [A.10: Sorting Algorithms](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms)
+      * [A.10: Sorting Algorithms](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms)
+    - Post Class
+  - Day 22
+    - Pre Class
+      * [A.10.1: Sorting Algorithms - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting)
+      * [A.10.1: Sorting Algorithms - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting)
+    - In Class
+      * [A.10.1: Sorting Algorithms - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting)
+      * [A.10.1: Sorting Algorithms - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting)
+    - Post Class
+  - Day 23
+    - Pre Class
+      * [A.10.1: Sorting Algorithms - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting)
+      * [A.10.1: Sorting Algorithms - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting)
+    - In Class
+      * [A.10.1: Sorting Algorithms - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting)
+      * [A.10.1: Sorting Algorithms - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting)
+    - Post Class
+  - Day 24
+    - Pre Class
+      * [A.5.6: Trees - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#pre-class)
+      * [A.5.6: Trees - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#pre-class)
+    - In Class
+    - Post Class
+  - Day 25
+    - Pre Class
+      * [Trees  - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-1)
+      * [Trees  - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-1)
+    - In Class
+      * [A.5.6: Trees - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-1)
+      * [A.5.6: Trees - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-1)
+    - Post Class
+      * [A.5.6: Trees - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-1)
+      * [A.5.6: Trees - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-1)
+  - Day 26
+    - Pre Class
+      * [Trees - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-2)
+      * [Binary Search Trees](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees/a.5.6.2-binary-search-trees)
+      * [Trees - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-2)
+      * [Binary Search Trees](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees/a.5.6.2-binary-search-trees)
+    - In Class
+      * [A.5.6: Trees - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-2)
+      * [A.5.6: Trees - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-2)
+    - Post Class
+      * [A.5.6: Trees - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-2)
+      * [A.5.6: Trees - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-2)
+  - Day 27
+    - Pre Class
+    - In Class
+      * [A.5.6: Trees - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-3)
+      * [A.5.6: Trees - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-3)
+    - Post Class
+      * [A.5.6: Trees - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-3)
+      * [A.5.6: Trees - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-3)
+  - Day 28
+    - Pre Class
+    - In Class
+      * [A.5.6: Trees - Part 4](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-4)
+      * [A.5.6: Trees - Part 4](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-4)
+    - Post Class
+      * [A.5.6: Trees - Part 4](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-4)
+      * [A.5.6: Trees - Part 4](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-4)
+  - Day 29
+    - Pre Class
+    - In Class
+      * [A.5.6: Trees - Part 5](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-5)
+      * [A.5.6: Trees - Part 5](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-5)
+    - Post Class
+      * [A.5.6: Trees - Part 5](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-5)
+      * [A.5.6: Trees - Part 5](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-5)
+  - Day 30
+    - Pre Class
+    - In Class
+      * [A.5.6: Trees - Part 6](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-6)
+      * [A.5.6: Trees - Part 6](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-6)
+    - Post Class
+      * [A.5.6: Trees - Part 6](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-6)
+      * [A.5.6: Trees - Part 6](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.6-trees#part-6)
+  - Day 31
+    - Pre Class
+      * [A.5.8: Heaps - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#pre-class)
+      * [A.5.8: Heaps - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#pre-class)
+    - In Class
+      * [A.5.8: Heaps - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1)
+      * [A.5.8: Heaps - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1)
+    - Post Class
+      * [A.5.8: Heaps - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1)
+      * [A.5.8: Heaps - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.4-queues#part-1)
+  - Day 32
+    - Pre Class
+    - In Class
+      * [A.5.8: Heaps - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-2)
+      * [A.5.8: Heaps - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-2)
+    - Post Class
+      * [A.5.8: Heaps - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-2)
+      * [A.5.8: Heaps - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-2)
+  - Day 33
+    - Pre Class
+    - In Class
+    - Post Class
+      * [A.5.8: Heaps - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-3)
+      * [A.5.8: Heaps - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.8-heaps#part-3)
+  - Day 34
+    - Pre Class
+      * [A.11.1: Recursive Backtracking - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#pre-class)
+      * [A.11.1: Recursive Backtracking - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#pre-class)
+    - In Class
+      * [A.11.1: Recursive Backtracking - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#part-1)
+      * [A.11.1: Recursive Backtracking - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#part-1)
+    - Post Class
+      * [A.11.1: Recursive Backtracking - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#part-1)
+      * [A.11.1: Recursive Backtracking - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#part-1)
+  - Day 35
+    - Pre Class
+      * [A.5.7: Graphs - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs)
+      * [A.5.7: Graphs - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs)
+    - In Class
+      * [A.5.7: Graphs - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-1)
+      * [A.5.7: Graphs - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-1)
+    - Post Class
+      * [A.5.7: Graphs - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-1)
+      * [A.5.7: Graphs - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-1)
+  - Day 36
+    - Pre Class
+    - In Class
+      * [A.5.7: Graphs - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-2)
+      * [A.5.7: Graphs - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-2)
+    - Post Class
+      * [A.5.7: Graphs - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-2)
+      * [A.5.7: Graphs - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs#part-2)
+  - Day 37
+    - Pre Class
+    - In Class
+      * [Graphs - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs)
+      * [Graphs - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs)
+    - Post Class
+      * [Graphs - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs)
+      * [Graphs - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs)
+  - Day 38
+    - Pre Class
+    - In Class
+      * [Graphs - Part 4](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs)
+      * [Graphs - Part 4](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs)
+    - Post Class
+      * [Graphs - Part 4](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs)
+      * [Graphs - Part 4](https://bootcamp.rocketacademy.co/algorithms/a.5-data-structures/a.5.7-graphs)
+  - Day 39
+    - Pre Class
+      * [A.9: Dynamic Programming - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#pre-class)
+      * [A.9: Dynamic Programming - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#pre-class)
+    - In Class
+      * [A.9: Dynamic Programming - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-1)
+      * [A.9: Dynamic Programming - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-1)
+    - Post Class
+      * [A.9: Dynamic Programming - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-1)
+      * [A.9: Dynamic Programming - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-1)
+  - Day 40
+    - Pre Class
+    - In Class
+      * [A.9: Dynamic Programming - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-2)
+      * [A.9: Dynamic Programming - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-2)
+    - Post Class
+      * [A.9: Dynamic Programming - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-2)
+      * [A.9: Dynamic Programming - Part 2](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-2)
+  - Day 41
+    - Pre Class
+    - In Class
+      * [A.9: Dynamic Programming - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-3)
+      * [A.9: Dynamic Programming - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-3)
+    - Post Class
+      * [A.9: Dynamic Programming - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-3)
+      * [A.9: Dynamic Programming - Part 3](https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-3)
+  - Day 42
+    - Pre Class
+    - In Class
+      * [Algorithms Open Practice](https://bootcamp.rocketacademy.co/algorithms/a.13-open-practice)
+      * [A.10: Bit Manipulation - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.10-bit-manipulation#part-1)
+      * [Algorithms Open Practice](https://bootcamp.rocketacademy.co/algorithms/a.13-open-practice)
+      * [A.10: Bit Manipulation - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.10-bit-manipulation#part-1)
+    - Post Class
+      * [Algorithms Open Practice](https://bootcamp.rocketacademy.co/algorithms/a.13-open-practice)
+      * [A.10: Bit Manipulation - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.10-bit-manipulation#part-1)
+      * [Algorithms Open Practice](https://bootcamp.rocketacademy.co/algorithms/a.13-open-practice)
+      * [A.10: Bit Manipulation - Part 1](https://bootcamp.rocketacademy.co/algorithms/a.10-bit-manipulation#part-1)
+  - Day 43
+    - Pre Class
+      * [A.10: Bit Manipulation - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.10-bit-manipulation#pre-class)
+      * [A.10: Bit Manipulation - Pre-Class](https://bootcamp.rocketacademy.co/algorithms/a.10-bit-manipulation#pre-class)
+    - In Class
+      * [Algorithms Open Practice](https://bootcamp.rocketacademy.co/algorithms/a.13-open-practice)
+      * [Algorithms Open Practice](https://bootcamp.rocketacademy.co/algorithms/a.13-open-practice)
+    - Post Class
+      * [Algorithms Open Practice](https://bootcamp.rocketacademy.co/algorithms/a.13-open-practice)
+      * [Algorithms Open Practice](https://bootcamp.rocketacademy.co/algorithms/a.13-open-practice)
 
-
-
-## 🧮 Algorithms
-* [A.0: Algorithms Overview](algorithms/a.0-algorithms-overview.md)
-* [A.1: Intro to SWE Interviews](algorithms/a.1-intro-to-swe-interviews.md)
-* [A.2: Intro to Python](algorithms/a.2-intro-to-python.md)
-* [A.3: Complexity Analysis, Big-O Notation](algorithms/a.3-complexity-analysis-big-o-notation.md)
-* [A.4: Interview Strategies](algorithms/a.4-interview-strategies/README.md)
-  * [A.4.1 Introduction to Algorithm Problems](algorithms/a.4-interview-strategies/a.4.1-introduction-to-algorithm-problems.md)
-* [A.5: Data Structures](algorithms/a.5-data-structures/README.md)
-  * [A.5.1: Arrays](algorithms/a.5-data-structures/a.5.1-arrays.md)
-  * [A.5.2: Hash Tables](algorithms/a.5-data-structures/a.5.2-hash-tables/README.md)
-    * [A.5.2.1: Hash Table Data Structure](algorithms/a.5-data-structures/a.5.2-hash-tables/a.5.2.1-hash-table-data-structure.md)
-    * [A.5.2.2: Hash Collisions: Chaining](algorithms/a.5-data-structures/a.5.2-hash-tables/a.5.2.2-hash-collisions-chaining.md)
-    * [A.5.2.3: Hash Collisions: Open Addressing](algorithms/a.5-data-structures/a.5.2-hash-tables/a.5.2.3-hash-collisions-open-addressing.md)
-  * [A.5.3: Stacks](algorithms/a.5-data-structures/a.5.3-stacks.md)
-  * [A.5.4: Queues](algorithms/a.5-data-structures/a.5.4-queues.md)
-  * [A.5.5: Linked Lists](algorithms/a.5-data-structures/a.5.5-linked-lists/README.md)
-    * [A.5.5.1: Recursive Linked Lists](algorithms/a.5-data-structures/a.5.5-linked-lists/a.5.5.1-recursive-linked-lists.md)
-  * [A.5.6: Trees](algorithms/a.5-data-structures/a.5.6-trees/README.md)
-    * [A.5.6.1: Tree Traversal](algorithms/a.5-data-structures/a.5.6-trees/a.5.6.1-tree-traversal.md)
-    * [A.5.6.2: Binary Search Trees](algorithms/a.5-data-structures/a.5.6-trees/a.5.6.2-binary-search-trees.md)
-  * [A.5.7: Graphs](algorithms/a.5-data-structures/a.5.7-graphs.md)
-  * [A.5.8: Heaps](algorithms/a.5-data-structures/a.5.8-heaps/README.md)
-    * [A.5.8.1: Heap Sort](algorithms/a.5-data-structures/a.5.8-heaps/a.5.8.1-heap-sort.md)
-* [A.6: Binary Search](algorithms/a.6-binary-search.md)
-* [A.7: Sliding Windows](algorithms/a.7-sliding-windows.md)
-* [A.8: Object-Oriented Programming](algorithms/a.8-intro-to-object-oriented-programming.md)
-* [A.9: Recursion](algorithms/a.9-recursion/README.md)
-  * [A.9.1: Recursive Backtracking](algorithms/a.9-recursion/a.9.1-recursive-backtracking.md)
-* [A.10: Sorting Algorithms](algorithms/a.10-sorting-algorithms/README.md)
-  * [A.10.1: Divide and Conquer Sorting](algorithms/a.10-sorting-algorithms/a.10.1-divide-and-conquer-sorting.md)
-  * [A.10.2: Radix Sort](algorithms/a.10-sorting-algorithms/a.10.2-radix-sort.md)
-* [A.11: Dynamic Programming](algorithms/a.11-dynamic-programming.md)
-* [A.12: Bit Manipulation](algorithms/a.12-bit-manipulation.md)
-* [A.13: Open Practice](algorithms/a.13-open-practice.md)
-
-## Algorithms (New)
-
-* [Overview](algorithms-new/untitled.md)
-* [Intro to Python](algorithms-new/intro-to-python.md)
-* [Big-O](algorithms-new/big-o.md)
-* [Intro to Algorithm Problem Sets](algorithms-new/intro-to-algorithm-problem-sets.md)
-* [Data Structures](algorithms-new/data-structures/README.md)
-  * [Untitled](algorithms-new/data-structures/untitled-1.md)
 ## 💼 Interview Prep
 
 * [IP.0: Interview Prep Overview](interview-prep/ip.0-interview-prep-overview.md)
