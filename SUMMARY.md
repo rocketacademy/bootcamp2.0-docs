@@ -15,7 +15,8 @@
 * [Sharing Code with Classmates](course-logistics/sharing-code-with-classmates.md)
 
 
-# Module1
+# Course Modules
+## Module1
 
 - [Module1](Module1/README.md)
   - Day 1
@@ -162,7 +163,7 @@
       * [2.ICE.4: Servers and Requests](Module1/day15/inclass/2.ice.4-servers-and-requests.md)
     - Post Class
       * [2.POCE.4: File Server](Module1/day15/postclass/2.poce.4-file-server.md)
-# Module2
+## Module2
 
 - [Module2](Module2/README.md)
   - Day 1
@@ -299,7 +300,7 @@
     - In Class
     - Post Class
       * [3.POCE.11: Heroku Deployment](Module2/day16/postclass/3.poce.11-heroku-deployment.md)
-# Module3
+## Module3
 
 - [Module3](Module3/README.md)
   - Day 1
@@ -423,7 +424,7 @@
       * [Project 3 Post-Mortems](Module3/day16/postclass/course-methodology.md)
       * [Project 3 Video Demo](Module3/day16/postclass/project-3-full-stack-game.md)
 
-# Module4
+## Module4
 
 - [Module4](Module4/README.md)
   - Day 1
@@ -536,7 +537,7 @@
     - Post Class
       * [Project 4 Post-Mortems](Module4/day16/postclass/course-methodology.md)
       * [Project 4 Video Demo](Module4/day16/postclass/project-4-full-stack-react-app.md)
-# Module5
+## Module5
 
 - [Module5](MODULE5/README.md)
   - Day 1
@@ -607,7 +608,7 @@
       * [8.POCE.2: Climbing Trip Redux](Module5/day9/inclass/8.poce.2-rock-climbing-trip-planner.md)
     - Post Class
       * [Project 5 Implementation](Module5/day9/postclass/project-5-group-react-app.md)
-# Module6
+## Module6
 
 - [Module6](Module6/README.md)
   - Day 1
@@ -676,7 +677,7 @@
       * [Project 6 Implementation](Module6/day10/postclass/project-6-capstone.md)
 
 
-# Algorithms
+## Algorithms
 
 - Algorithms
   - Day 1
