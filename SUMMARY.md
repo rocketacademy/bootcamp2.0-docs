@@ -2,7 +2,8 @@
 # Your Book Title
 
 # Module1
-- Module1
+
+- [Module1](Module1/README.md)
   - Day 1
     - Pre Class
       * [1.0: Module 1 Overview](Module1/day1/preclass/1.0-module-1-overview.md)
@@ -148,7 +149,8 @@
     - Post Class
       * [2.POCE.4: File Server](Module1/day15/postclass/2.poce.4-file-server.md)
 # Module2
-- Module2
+
+- [Module2](Module2/README.md)
   - Day 1
     - Pre Class
       * [3.0: Overview](Module2/day1/preclass/3.0-module-3-overview.md)
@@ -284,7 +286,8 @@
     - Post Class
       * [3.POCE.11: Heroku Deployment](Module2/day16/postclass/3.poce.11-heroku-deployment.md)
 # Module3
-- Module3
+
+- [Module3](Module3/README.md)
   - Day 1
     - Pre Class
       * [4.0: Module 4 Overview](Module3/day1/preclass/4.0-module-4-overview.md)
@@ -373,7 +376,8 @@
       * [5.POCE.3: AJAX Cards](Module3/day10/postclass/5.poce.3-ajax-cards.md)
       * [Project 3 Ideation Phase 1](Module3/day10/postclass/project-3-full-stack-game.md)
 # Module4
-- Module4
+
+- [Module4](Module4/README.md)
   - Day 1
     - Pre Class
       * [7.0: Module 7 Overview](Module4/day1/preclass/7.0-module-7-overview.md)
@@ -485,7 +489,8 @@
       * [Project 4 Post-Mortems](Module4/day16/postclass/course-methodology.md)
       * [Project 4 Video Demo](Module4/day16/postclass/project-4-full-stack-react-app.md)
 # Module5
-- Module5
+
+- [Module5](MODULE5/README.md)
   - Day 1
     - Pre Class
       * [8.0: Module 8 Overview](Module5/day1/preclass/8.0-module-8-overview.md)
@@ -555,7 +560,8 @@
     - Post Class
       * [Project 5 Implementation](Module5/day9/postclass/project-5-group-react-app.md)
 # Module6
-- Module6
+
+- [Module6](Module6/README.md)
   - Day 1
     - Pre Class
       * [9.0: Module 9 Overview](Module6/day1/preclass/9.0-module-9-overview.md)
@@ -623,6 +629,7 @@
 
 
 # Algorithms
+
 - Algorithms
   - Day 1
     * [A.0: Algorithms Overview](algos/day1/a.0-algorithms-overview.md)
