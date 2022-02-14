@@ -1,5 +1,19 @@
+# Table of contents
 
-# Your Book Title
+* [Overview](README.md)
+## 🛠 Course Logistics
+
+* [Pairing Assignments](course-logistics/pairing-assignments.md)
+* [Rocket Q\&A](course-logistics/rocket-q-and-a.md)
+* [Required Hardware and Software](course-logistics/required-hardware-and-software.md)
+* [Course Methodology](course-logistics/course-methodology.md)
+* [Naming, Casing, and Commenting Conventions](course-logistics/naming-casing-and-commenting-conventions.md)
+* [Tools, Syntax, and Glossary](course-logistics/tools-syntax-and-glossary.md)
+* [Group Work](course-logistics/group-work.md)
+* [LinkedIn Education Badge](course-logistics/linkedin-education-badge.md)
+* [Recommended Resources](course-logistics/recommended-resources.md)
+* [Sharing Code with Classmates](course-logistics/sharing-code-with-classmates.md)
+
 
 # Module1
 
