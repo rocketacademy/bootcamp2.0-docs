@@ -288,7 +288,7 @@
 # Module3
 
 - [Module3](Module3/README.md)
-    - Day 1
+  - Day 1
     - Pre Class
       * [4.0: Module 4 Overview](Module3/day1/preclass/4.0-module-4-overview.md)
       * [4.1: ORM, Sequelize](Module3/day1/preclass/4.1-orm-sequelize.md)
