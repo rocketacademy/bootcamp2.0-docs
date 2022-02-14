@@ -288,7 +288,7 @@
 # Module3
 
 - [Module3](Module3/README.md)
-  - Day 1
+    - Day 1
     - Pre Class
       * [4.0: Module 4 Overview](Module3/day1/preclass/4.0-module-4-overview.md)
       * [4.1: ORM, Sequelize](Module3/day1/preclass/4.1-orm-sequelize.md)
@@ -375,6 +375,40 @@
     - Post Class
       * [5.POCE.3: AJAX Cards](Module3/day10/postclass/5.poce.3-ajax-cards.md)
       * [Project 3 Ideation Phase 1](Module3/day10/postclass/project-3-full-stack-game.md)
+  - Day 11
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 3 Implementation](Module3/day11/postclass/project-3-full-stack-game.md)
+  - Day 12
+    - Pre Class
+      * [4.1.10: Deploy Sequelize App to Heroku](Module3/day12/preclass/4.1.10-deploy-sequelize-app-to-heroku.md)
+      * [6.1.6: Deploy Webpack App to Heroku](Module3/day12/preclass/6.1.6-express-mvc-webpack-and-heroku.md)
+    - In Class
+    - Post Class
+      * [Project 3 Implementation](Module3/day12/postclass/project-3-full-stack-game.md)
+  - Day 13
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 3 Implementation](Module3/day13/postclass/project-3-full-stack-game.md)
+  - Day 14
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 3 Implementation](Module3/day14/postclass/project-3-full-stack-game.md)
+  - Day 15
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 3 Implementation](Module3/day15/postclass/project-3-full-stack-game.md)
+  - Day 16
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 3 Post-Mortems](Module3/day16/postclass/course-methodology.md)
+      * [Project 3 Video Demo](Module3/day16/postclass/project-3-full-stack-game.md)
+
 # Module4
 
 - [Module4](Module4/README.md)
