@@ -822,15 +822,15 @@
 
 # 💼 Interview Prep
 
-* [IP.0: Interview Prep Overview](interview-prep/ip.0-interview-prep-overview.md)
-* [IP.1: Job Application Strategy](interview-prep/ip.1-job-application-strategy.md)
-* [IP.2: Resume](interview-prep/ip.2-resume.md)
-* [IP.3: Portfolio](interview-prep/ip.3-portfolio.md)
-* [IP.4: Job List](interview-prep/ip.4-job-list.md)
-* [IP.5: Negotiation](interview-prep/ip.5-negotiation.md)
+  * [IP.0: Interview Prep Overview](interview-prep/ip.0-interview-prep-overview.md)
+  * [IP.1: Job Application Strategy](interview-prep/ip.1-job-application-strategy.md)
+  * [IP.2: Resume](interview-prep/ip.2-resume.md)
+  * [IP.3: Portfolio](interview-prep/ip.3-portfolio.md)
+  * [IP.4: Job List](interview-prep/ip.4-job-list.md)
+  * [IP.5: Negotiation](interview-prep/ip.5-negotiation.md)
 
 # ☺ User Experience
 
-* [UX.1: Overview](user-experience/ux.1-overview.md)
-* [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
-* [UX.3: How to Design Your App](user-experience/ux.3-how-to-design-your-app.md)
+  * [UX.1: Overview](user-experience/ux.1-overview.md)
+  * [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
+  * [UX.3: How to Design Your App](user-experience/ux.3-how-to-design-your-app.md)
