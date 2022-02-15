@@ -18,7 +18,142 @@
 # Course Modules
 ## Module1
 
-- [Module1](Module1/README.md)
+- [Schedule](Module1/README.md)
+  - Day 1
+    - Pre Class
+      * [1.0: Module 1 Overview](Module1/day1/preclass/1.0-module-1-overview.md)
+      * [1.1: HTML](Module1/day1/preclass/1.1-html.md)
+      * [1.1.0: Wireframes](Module1/day1/preclass/1.1.0-wireframes.md)
+      * [1.1.1: HTML Basics](Module1/day1/preclass/1.1.1-basic-html.md)
+      * [0.0: Module 0 Overview](Module1/day1/preclass/0.0-module-0-overview.md)
+      * [0.1: New JS Syntax](Module1/day1/preclass/0.1-new-js-syntax.md)
+      * [0.2: ES6](Module1/day1/preclass/0.2-es6.md)
+      * [0.2.1: ES6 Basics](Module1/day1/preclass/0.2.1-es6-basics.md)
+      * [1.2: DOM Review](Module1/day1/preclass/1.2-dom-review.md)
+      * [1.2.1: DOM Review - Creating Elements](Module1/day1/preclass/1.2.1-creating-elements.md)
+      * [1.2.2: DOM Review - Events](Module1/day1/preclass/1.2.2-events.md)
+    - In Class
+      * [1.ICE.1: Drawing DOM](Module1/day1/inclass/1.ice.1-drawing-dom.md)
+    - Post Class
+      * [1.POCE.1: Noodle Recipe Website](Module1/day1/postclass/1.poce.1-noodles.md)
+  - Day 2
+    - Pre Class
+      * [0.3: Reading Documentation](Module1/day2/preclass/0.3-reading-documentation.md)
+      * [1.3: High Card DOM](Module1/day2/preclass/1.3-high-card-dom.md)
+      * [1.4: setTimeout](Module1/day2/preclass/1.4-settimeout.md)
+      * [CSS.1: Basic CSS (Exercises Part 1)](Module1/day2/preclass/css-1-basic-css.md)
+    - In Class
+      * [Review 1 student's 1.POCE.1: Noodle Recipe Website](Module1/day2/inclass/1.poce.1-noodles.md)
+      * [1.ICE.1: Drawing DOM (continued)](Module1/day2/inclass/1.ice.1-drawing-dom.md)
+    - Post Class
+      * [1.POCE.2: High Card DOM](Module1/day2/postclass/1.poce.2-high-card-dom.md)
+  - Day 3
+    - Pre Class
+      * [1.5: High Card setTimeout](Module1/day3/preclass/1.5-high-card-settimeout.md)
+      * [1.6: Match Game](Module1/day3/preclass/1.6-match-game.md)
+      * [0.2.4: Reference vs. Value](Module1/day3/preclass/0.2.4-reference-vs.-value.md)
+      * [CSS.1: Basic CSS (Exercises Part 2)](Module1/day3/preclass/css-1-basic-css.md)
+    - In Class
+      * [Peer-Review: 1.POCE.2: High Card](Module1/day3/inclass/course-methodology.md)
+      * [1.ICE.2: Timeout / High Card Redux](Module1/day3/inclass/1.ice.2-high-card-redux.md)
+    - Post Class
+      * [1.POCE.3: Match Game](Module1/day3/postclass/1.poce.3-match-game.md)
+  - Day 4
+    - Pre Class
+      * [1.7: setInterval](Module1/day4/preclass/1.7-setinterval.md)
+      * [1.8: Timer](Module1/day4/preclass/1.8-timer.md)
+      * [CSS.2.1 No Layout](Module1/day4/preclass/css.2.1-no-layout.md)
+      * [CSS.2.2 Display Inline Block](Module1/day4/preclass/css.2.2-display-inline-and-block.md)
+    - In Class
+      * [Peer-Review: 1.POCE.3: Match Game](Module1/day4/inclass/course-methodology.md)
+      * [1.ICE.3: setInterval](Module1/day4/inclass/1.ice.3-setinterval.md)
+    - Post Class
+      * [1.POCE.4: Timer](Module1/day4/postclass/1.poce.4-timer.md)
+  - Day 5
+    - Pre Class
+      * [1.9: Tic Tac Toe](Module1/day5/preclass/1.9-tic-tac-toe.md)
+      * [1.10: Multi File Refactor](Module1/day5/preclass/1.10-multi-file-refactor.md)
+      * [CSS.2.3: Box Model](Module1/day5/preclass/css.2.3-box-model.md)
+      * [CSS.2.4: Layout Width](Module1/day5/preclass/css.2.4-layout-fixed-width-and-max-width.md)
+    - In Class
+      * [Peer-Review: 1.POCE.4: Timer](Module1/day5/inclass/course-methodology.md)
+    - Post Class
+      * [1.POCE.5: Tic Tac Toe](Module1/day5/postclass/1.poce.5-tic-tac-toe.md)
+  - Day 6
+    - Pre Class
+      * [1.11: CSS Control with DOM](Module1/day6/preclass/1.11-css-control-with-dom.md)
+      * [0.4: JS Object as Tally](Module1/day6/preclass/0.4-js-object-as-tally.md)
+      * [CSS.2.5: Display Inline Block](Module1/day6/preclass/css.2.5-display-inline-block.md)
+      * [CSS.2.6: Layout Col / Card](Module1/day6/preclass/css.2.6-layout-columns-and-cards.md)
+    - In Class
+      * [Peer-Review: 1.POCE.5: Tic Tac Toe](Module1/day6/inclass/course-methodology.md)
+    - Post Class
+      * [Project 1 Implementation](Module1/day6/postclass/project-1-video-poker.md)
+  - Day 7
+    - Pre Class
+      * [CSS.2.7: Position](Module1/day7/preclass/css.2.7-position.md)
+      * [CSS.2.8: Float](Module1/day7/preclass/css.2.8-float.md)
+    - In Class
+      * [1.ICE.CSS.1: Straits Times](Module1/day7/inclass/1.ice.css.1-straits-times-css.md)
+    - Post Class
+      * [Project 1 Implementation](Module1/day7/postclass/project-1-video-poker.md)
+  - Day 8
+    - Pre Class
+      * [2.0: Module 2 Setup](Module1/day8/preclass/2.0-module-2-overview.md)
+      * [CSS.3 Flexbox](Module1/day8/preclass/css.3-flexbox.md)
+    - In Class
+      * [1.ICE.CSS.2: Wikipedia](Module1/day8/inclass/1.ice.css.2-css-practice-6-wikipedia.md)
+    - Post Class
+      * [Project 1 Implementation](Module1/day8/postclass/project-1-video-poker.md)
+  - Day 9
+    - Pre Class
+      * [CSS.3.1: Flexbox Columns](Module1/day9/preclass/css.3.1-flexbox-layout.md)
+    - In Class
+      * [1.ICE.CSS.4: Etsy](Module1/day9/inclass/1.ice.css.4-etsy-css.md)
+    - Post Class
+      * [Project 1 Implementation](Module1/day9/postclass/project-1-video-poker.md)
+  - Day 10
+    - Pre Class
+      * [CSS.4 Responsive Design](Module1/day10/preclass/css.4-responsive-design.md)
+      * [CSS.5: Web Design Basics](Module1/day10/preclass/css.5-web-design-basics.md)
+    - In Class
+    - Post Class
+      * [Project 1 Implementation](Module1/day10/postclass/project-1-video-poker.md)
+      * [Project 1: Deploy to GitHub Pages](Module1/day10/postclass/12.3-deployment.md)
+  - Day 11
+    - Pre Class
+    - In Class
+    - Post Class
+      * [Project 1 Post-Mortems](Module1/day11/postclass/course-methodology.md)
+  - Day 12
+    - Pre Class
+      * [2.0: Module 2 Overview](Module1/day12/preclass/2.0-module-2-overview.md)
+      * [2.1: My First Node.js Program](Module1/day12/preclass/2.1-my-first-node-program.md)
+      * [2.2: Command Line Programs](Module1/day12/preclass/2.2-command-line-programs.md)
+    - In Class
+      * [2.ICE.1: Conversions](Module1/day12/inclass/2.ice.1-conversions.md)
+    - Post Class
+      * [2.POCE.1: Command Line Colour Converter](Module1/day12/postclass/2.poce.1-command-line-colour-converter.md)
+  - Day 13
+    - Pre Class
+      * [2.3: Modules](Module1/day13/preclass/2.3-modules.md)
+      * [2.4: Disk Reading](Module1/day13/preclass/2.4-disk-reading.md)
+    - In Class
+      * [2.ICE.2: Modules, Disk Reading](Module1/day13/inclass/2.ice.2-modules-disk-reading.md)
+    - Post Class
+      * [2.POCE.2: CSS Reader](Module1/day13/postclass/2.poce.2-css-reader.md)
+  - Day 14
+    - Pre Class
+      * [2.5: Disk Writing](Module1/day14/preclass/2.5-disk-writing.md)
+      * [2.6: Disk Altering](Module1/day14/preclass/2.6-disk-altering.md)
+      * [2.7: Internet 101](Module1/day14/preclass/2.7-internet-101.md)
+      * [2.8: Chrome Networking](Module1/day14/preclass/2.8-chrome-networking.md)
+    - In Class
+      * [2.ICE.3: Disk Altering](Module1/day14/inclass/2.ice.3-disk-altering.md)
+    - Post Class
+      * [2.POCE.3: CSS Processor](Module1/day14/postclass/2.poce.3-css-processor.md)
+  - Day 15
+- [Content](Module1/README.md)
   - Day 1
     - Pre Class
       * [1.0: Module 1 Overview](Module1/day1/preclass/1.0-module-1-overview.md)
