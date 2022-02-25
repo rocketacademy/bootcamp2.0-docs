@@ -1,6 +1,10 @@
 # 6.1: Webpack
 
-What is webpack?
+Note: If you're here before looking at [6.0 Module 6 Overview](../6.0-module-6-overview.md), please go there to view the short video, so you have more context in this discussion. :)&#x20;
+
+{% embed url="https://youtu.be/ejpXhFJBeO8" %}
+
+### What is webpack?
 
 At its core, **webpack** (a JavaScript library) is a static module bundler for modern JavaScript applications. When webpack processes your application, it combines all the modules your project needs into one or more bundles. These bundles are static assets which your content is served from.&#x20;
 
