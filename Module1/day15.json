@@ -45,21 +45,11 @@
       "css": {
          "type": "css",
          "preClass": {
-            "items": [
-               {
-                  "name": "CSS.6 Bootstrap",
-                  "url": "https://bootcamp.rocketacademy.co/css/css.6-bootstrap"
-               }
-            ]
+            
          },
          "inClass": {},
          "postClass": {
-            "items": [
-               {
-                  "name": "1.POCE.9: Bootstrap",
-                  "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns"
-               }
-            ]
+            
          },
          "dayIndex": 15
       },

@@ -5,15 +5,17 @@
     "general": {
       "type": "general",
       "preClass": {
+
+      },
+      "inClass": {},
+      "postClass": {
         "items": [
           {
-            "name": "2.0: Module 2 Setup",
-            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.0-module-2-overview"
+            "name": "1.POCE.6: CSS Flexbox",
+            "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.1-technical-documentation-page-flexbox-responsive"
           }
         ]
       },
-      "inClass": {},
-      "postClass": {},
       "dayIndex": 8
     },
     "css": {

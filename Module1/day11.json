@@ -11,12 +11,7 @@
     "css": {
       "type": "css",
       "preClass": {
-        "items": [
-          {
-            "name": "CSS.6 Bootstrap",
-            "url": "https://bootcamp.rocketacademy.co/css/css.6-bootstrap"
-          }
-        ]
+        
       },
       "inClass": {},
       "postClass": {}

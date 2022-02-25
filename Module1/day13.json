@@ -13,7 +13,15 @@
                {
                   "name": "2.4: Disk Reading",
                   "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.4-disk-reading"
-               }
+               },
+               {
+                  "name": "2.5: Disk Writing",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.5-disk-writing"
+                },
+                {
+                  "name": "2.6: Disk Altering",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.6-disk-altering"
+                }
             ]
          },
          "inClass": {
@@ -21,7 +29,11 @@
                {
                   "name": "2.ICE.2: Modules, Disk Reading",
                   "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.2-modules-disk-reading"
-               }
+               },
+               {
+                  "name": "2.ICE.3: Disk Altering",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.3-disk-altering"
+                }
             ]
          },
          "postClass": {

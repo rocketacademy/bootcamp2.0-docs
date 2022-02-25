@@ -5,7 +5,14 @@
     "general": {
       "type": "general",
       "preClass": {},
-      "inClass": {},
+      "inClass": {
+        "items": [
+          {
+            "name": "Project 1 Presentations",
+            "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
+          }
+        ]
+      },
       "postClass": {}
     },
     "css": {

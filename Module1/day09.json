@@ -6,16 +6,19 @@
       "type": "general",
       "preClass": {},
       "inClass": {},
-      "postClass": {}
+      "postClass": {
+        "items": [
+          {
+            "name": "1.POCE.8: Flexbox Personal Page",
+            "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.2-flexbox-personal-page"
+          }
+        ]
+      }
     },
     "css": {
       "type": "css",
       "preClass": {
-        "items": [
-          {
-            "name": "CSS.3.1: Flexbox Columns",
-            "url": "https://bootcamp.rocketacademy.co/css/css.3-flexbox/css.3.1-flexbox-layout"
-          },
+        "items": [          
           {
             "name": "CSS.4 Responsive Design",
             "url": "https://bootcamp.rocketacademy.co/css/css.4-responsive-design"
@@ -35,12 +38,7 @@
         ]
       },
       "postClass": {
-        "items": [
-          {
-            "name": "1.POCE.8: Flexbox Personal Page",
-            "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.2-flexbox-personal-page"
-          }
-        ]
+        
       },
       "dayIndex": 9
     },

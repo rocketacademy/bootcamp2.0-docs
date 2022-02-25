@@ -7,22 +7,6 @@
          "preClass": {
             "items": [
                {
-                  "name": "1.0: Module 1 Overview",
-                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.0-module-1-overview"
-               },
-               {
-                  "name": "1.1: HTML",
-                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html"
-               },
-               {
-                  "name": "1.1.0: Wireframes",
-                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html/1.1.0-wireframes"
-               },
-               {
-                  "name": "1.1.1: HTML Basics",
-                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html/1.1.1-basic-html"
-               },
-               {
                   "name": "0.0: Module 0 Overview",
                   "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.0-module-0-overview"
                },
@@ -38,6 +22,22 @@
                   "name": "0.2.1: ES6 Basics",
                   "url": "https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.1-es6-basics"
                },
+               {
+                  "name": "1.0: Module 1 Overview",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.0-module-1-overview"
+               },
+               {
+                  "name": "1.1: HTML",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html"
+               },
+               {
+                  "name": "1.1.0: Wireframes",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html/1.1.0-wireframes"
+               },
+               {
+                  "name": "1.1.1: HTML Basics",
+                  "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html/1.1.1-basic-html"
+               },              
                {
                   "name": "1.2: DOM Review",
                   "url": "https://bootcamp.rocketacademy.co/1-frontend-basics/1.2-dom-review"

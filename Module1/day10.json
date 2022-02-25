@@ -6,21 +6,24 @@
          "type": "general",
          "preClass": {},
          "inClass": {},
-         "postClass": {}
+         "postClass": {
+            "items": [
+               {
+                  "name": "1.POCE.9: Bootstrap",
+                  "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns"
+               }
+            ]
+         }
       },
       "css": {
          "type": "css",
          "preClass": {
             "items": [
                {
-                  "name": "CSS.4 Responsive Design",
-                  "url": "https://bootcamp.rocketacademy.co/css/css.4-responsive-design"
-               },
-               {
-                  "name": "CSS.5: Web Design Basics",
-                  "url": "https://bootcamp.rocketacademy.co/css/css.5-web-design-basics"
+                 "name": "CSS.6 Bootstrap",
+                 "url": "https://bootcamp.rocketacademy.co/css/css.6-bootstrap"
                }
-            ]
+             ]
          },
          "inClass": {},
          "postClass": {},

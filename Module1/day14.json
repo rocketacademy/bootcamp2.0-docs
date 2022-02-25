@@ -8,14 +8,7 @@
       "projectDue": {},
       "preClass": {
         "items": [
-          {
-            "name": "2.5: Disk Writing",
-            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.5-disk-writing"
-          },
-          {
-            "name": "2.6: Disk Altering",
-            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.6-disk-altering"
-          },
+          
           {
             "name": "2.7: Internet 101",
             "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.7-internet-101"
@@ -28,10 +21,7 @@
       },
       "inClass": {
         "items": [
-          {
-            "name": "2.ICE.3: Disk Altering",
-            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.3-disk-altering"
-          }
+          
         ]
       },
       "postClass": {
