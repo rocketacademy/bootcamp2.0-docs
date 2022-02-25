@@ -1,6 +1,6 @@
 # A.5.4: Queues
 
-![](../../.gitbook/assets/1_axag3gn3s-xjn3dvqw6afw.png)
+![](../../../.gitbook/assets/1_axag3gn3s-xjn3dvqw6afw.png)
 
 ## Learning Objectives
 

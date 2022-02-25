@@ -29,7 +29,7 @@ ORM is the answer to the question: "_What if we could write a program that write
 
 Imagine a database setup with the following ERD:
 
-![](../../.gitbook/assets/category-item-erd-wide2.png)
+![](../../../.gitbook/assets/category-item-erd-wide2.png)
 
 #### SELECT with SQL vs. Sequelize
 

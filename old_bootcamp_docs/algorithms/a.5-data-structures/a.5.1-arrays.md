@@ -1,6 +1,6 @@
 # A.5.1: Arrays
 
-![array meme](../../.gitbook/assets/array-meme.gif)
+![array meme](../../../.gitbook/assets/array-meme.gif)
 
 ## Learning Objectives
 

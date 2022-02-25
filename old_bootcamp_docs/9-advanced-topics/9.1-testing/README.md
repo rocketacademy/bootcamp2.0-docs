@@ -1,6 +1,6 @@
 # 9.1: Testing
 
-![](../../.gitbook/assets/darth-test.jpeg)
+![](../../../.gitbook/assets/darth-test.jpeg)
 
 ## Introduction
 
@@ -20,7 +20,7 @@ Testing as part of a company's normal development workflow is a defacto standard
 
 A standard workflow setup is to run testing as part of a [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) system, a system that runs tests and deploys the application automatically or at the click of a single button.
 
-![](../../.gitbook/assets/agile-test-pyramid.png)
+![](../../../.gitbook/assets/agile-test-pyramid.png)
 
 {% hint style="info" %}
 _Brittle_ in this case refers to the idea that if you add any kind of code to a project it will have errors and need to be maintained. Unit tests run against some underlying logic of the app and so are less likely to need to change. Automatic tests need to be updated in many more situations, such as CSS changes \(because the automation needs to know where to click\) that are not related to the core app logic.
@@ -153,7 +153,7 @@ npm run test
 
 We should then see output like this:
 
-![](../../.gitbook/assets/screen-shot-2021-03-11-at-1.45.24-am.png)
+![](../../../.gitbook/assets/screen-shot-2021-03-11-at-1.45.24-am.png)
 
 Let's talk about the test code and the test run output.
 

@@ -4,7 +4,7 @@
 
 Express.js is an NPM package and web server framework for responding to HTTP requests.
 
-![This is the architecture of the apps we are about to build in Module 3.](../../.gitbook/assets/express.jpg)
+![This is the architecture of the apps we are about to build in Module 3.](../../../.gitbook/assets/express.jpg)
 
 ## Node HTTP vs. Express
 

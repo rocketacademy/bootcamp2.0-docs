@@ -1,6 +1,6 @@
 # 3.4: SQL Applications
 
-![](../../.gitbook/assets/express-2.jpg)
+![](../../../.gitbook/assets/express-2.jpg)
 
 The final form of the high-level architecture of our web application is a PostgreSQL database server that stores data, an Express.js web server, and user facing functionality in the browser.
 

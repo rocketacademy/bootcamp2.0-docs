@@ -16,19 +16,20 @@
 
 
 # Course Modules
+
 ## Module 1: Basic Frontend
 
-- [Module 1: Basic Frontend](Module1/README.md)
+- Module 1: Basic Frontend
   - Day 1
     - Pre Class
-      * [1.0: Module 1 Overview](Module1/day1/preclass/1.0-module-1-overview.md)
-      * [1.1: HTML](Module1/day1/preclass/1.1-html.md)
-      * [1.1.0: Wireframes](Module1/day1/preclass/1.1.0-wireframes.md)
-      * [1.1.1: HTML Basics](Module1/day1/preclass/1.1.1-basic-html.md)
       * [0.0: Module 0 Overview](Module1/day1/preclass/0.0-module-0-overview.md)
       * [0.1: New JS Syntax](Module1/day1/preclass/0.1-new-js-syntax.md)
       * [0.2: ES6](Module1/day1/preclass/0.2-es6.md)
       * [0.2.1: ES6 Basics](Module1/day1/preclass/0.2.1-es6-basics.md)
+      * [1.0: Module 1 Overview](Module1/day1/preclass/1.0-module-1-overview.md)
+      * [1.1: HTML](Module1/day1/preclass/1.1-html.md)
+      * [1.1.0: Wireframes](Module1/day1/preclass/1.1.0-wireframes.md)
+      * [1.1.1: HTML Basics](Module1/day1/preclass/1.1.1-basic-html.md)
       * [1.2: DOM Review](Module1/day1/preclass/1.2-dom-review.md)
       * [1.2.1: DOM Review - Creating Elements](Module1/day1/preclass/1.2.1-creating-elements.md)
       * [1.2.2: DOM Review - Events](Module1/day1/preclass/1.2.2-events.md)
@@ -99,64 +100,90 @@
       * [Project 1 Implementation](Module1/day7/postclass/project-1-video-poker.md)
   - Day 8
     - Pre Class
-      * [2.0: Module 2 Setup](Module1/day8/preclass/2.0-module-2-overview.md)
       * [CSS.3 Flexbox](Module1/day8/preclass/css.3-flexbox.md)
+      * [CSS.3.1: Flexbox Columns](Module1/day8/preclass/css.3.1-flexbox-layout.md)
     - In Class
       * [1.ICE.CSS.2: Wikipedia](Module1/day8/inclass/1.ice.css.2-css-practice-6-wikipedia.md)
     - Post Class
+      * [1.POCE.6: CSS Flexbox](Module1/day8/postclass/1.poce.css.1-technical-documentation-page-flexbox-responsive.md)
       * [Project 1 Implementation](Module1/day8/postclass/project-1-video-poker.md)
   - Day 9
     - Pre Class
-      * [CSS.3.1: Flexbox Columns](Module1/day9/preclass/css.3.1-flexbox-layout.md)
+      * [CSS.4 Responsive Design](Module1/day9/preclass/css.4-responsive-design.md)
+      * [CSS.5: Web Design Basics](Module1/day9/preclass/css.5-web-design-basics.md)
     - In Class
-      * [1.ICE.CSS.4: Etsy](Module1/day9/inclass/1.ice.css.4-etsy-css.md)
+      * [1.ICE.CSS.4: Etsy](Module1/day9/inclass/css.ice.4-etsy.md)
     - Post Class
+      * [1.POCE.8: Flexbox Personal Page](Module1/day9/postclass/1.poce.css.2-flexbox-personal-page.md)
       * [Project 1 Implementation](Module1/day9/postclass/project-1-video-poker.md)
   - Day 10
     - Pre Class
-      * [CSS.4 Responsive Design](Module1/day10/preclass/css.4-responsive-design.md)
-      * [CSS.5: Web Design Basics](Module1/day10/preclass/css.5-web-design-basics.md)
+      * [CSS.6 Bootstrap - Day 1](Module1/day10/preclass/css.6-bootstrap.md)
     - In Class
+      * [CSS.ICE MyTunes](Module1/day10/inclass/1.ice.css.3-mytunes.md)
     - Post Class
+      * [1.POCE.3: Bootstrap Columns](Module1/day10/postclass/1.poce.css.3-bootstrap-columns.md)
       * [Project 1 Implementation](Module1/day10/postclass/project-1-video-poker.md)
       * [Project 1: Deploy to GitHub Pages](Module1/day10/postclass/12.3-deployment.md)
   - Day 11
     - Pre Class
+      * [CSS.6 Bootstrap - Day 2](Module1/day11/preclass/css.6-bootstrap.md)
     - In Class
+      * [CSS.ICE Restaurant](Module1/day11/inclass/1.ice.css.5-restaurant.md)
     - Post Class
-      * [Project 1 Post-Mortems](Module1/day11/postclass/course-methodology.md)
+      * [1.POCE.4: More Bootstrap](Module1/day11/postclass/1.poce.css.4-bootstrap-adobe.md)
+      * [Project 1 Implementation](Module1/day11/postclass/project-1-video-poker.md)
   - Day 12
     - Pre Class
       * [2.0: Module 2 Overview](Module1/day12/preclass/2.0-module-2-overview.md)
       * [2.1: My First Node.js Program](Module1/day12/preclass/2.1-my-first-node-program.md)
       * [2.2: Command Line Programs](Module1/day12/preclass/2.2-command-line-programs.md)
+      * [2.3: Modules](Module1/day12/preclass/2.3-modules.md)
     - In Class
       * [2.ICE.1: Conversions](Module1/day12/inclass/2.ice.1-conversions.md)
     - Post Class
       * [2.POCE.1: Command Line Colour Converter](Module1/day12/postclass/2.poce.1-command-line-colour-converter.md)
+      * [Project 1 Implementation](Module1/day12/postclass/project-1-video-poker.md)
   - Day 13
     - Pre Class
-      * [2.3: Modules](Module1/day13/preclass/2.3-modules.md)
       * [2.4: Disk Reading](Module1/day13/preclass/2.4-disk-reading.md)
+      * [2.5: Disk Writing](Module1/day13/preclass/2.5-disk-writing.md)
+      * [2.6: Disk Altering](Module1/day13/preclass/2.6-disk-altering.md)
     - In Class
       * [2.ICE.2: Modules, Disk Reading](Module1/day13/inclass/2.ice.2-modules-disk-reading.md)
+      * [2.ICE.3: Disk Altering](Module1/day13/inclass/2.ice.3-disk-altering.md)
     - Post Class
       * [2.POCE.2: CSS Reader](Module1/day13/postclass/2.poce.2-css-reader.md)
+      * [2.POCE.3: CSS Processor](Module1/day13/postclass/2.poce.3-css-processor.md)
+      * [Project 1 Implementation](Module1/day13/postclass/project-1-video-poker.md)
   - Day 14
     - Pre Class
-      * [2.5: Disk Writing](Module1/day14/preclass/2.5-disk-writing.md)
-      * [2.6: Disk Altering](Module1/day14/preclass/2.6-disk-altering.md)
       * [2.7: Internet 101](Module1/day14/preclass/2.7-internet-101.md)
       * [2.8: Chrome Networking](Module1/day14/preclass/2.8-chrome-networking.md)
     - In Class
-      * [2.ICE.3: Disk Altering](Module1/day14/inclass/2.ice.3-disk-altering.md)
+      * [Review 2.POCE.3: CSS Processor](Module1/day14/inclass/course-methodology.md)
     - Post Class
-      * [2.POCE.3: CSS Processor](Module1/day14/postclass/2.poce.3-css-processor.md)
+      * [Project 1 Implementation](Module1/day14/postclass/project-1-video-poker.md)
   - Day 15
+    - Pre Class
+      * [2.9: HTTP Requests and Responses](Module1/day15/preclass/2.9-http.md)
+      * [2.10: HTTP File Server](Module1/day15/preclass/2.10-http-file-server.md)
+      * [Install ngrok. We will use it in 2.ICE.4.](Module1/day15/preclass/2.0-module-2-overview.md)
+    - In Class
+      * [2.ICE.4: Servers and Requests](Module1/day15/inclass/2.ice.4-servers-and-requests.md)
+    - Post Class
+      * [2.POCE.4: File Server](Module1/day15/postclass/2.poce.4-file-server.md)
+      * [Project 1 Implementation](Module1/day15/postclass/project-1-video-poker.md)
+  - Day 16
+    - Pre Class
+    - In Class
+      * [Project 1 Presentations](Module1/day16/inclass/project-1-video-poker.md)
+    - Post Class
+      * [Project 1 Post-Mortems](Module1/day16/postclass/course-methodology.md)
 
 ## Module 2: Basic Backend
 
-- [Module 2: Basic Backend](Module2/README.md)
+- Module 2: Basic Backend
   - Day 1
     - Pre Class
       * [3.0: Overview](Module2/day1/preclass/3.0-module-3-overview.md)
@@ -291,9 +318,10 @@
     - In Class
     - Post Class
       * [3.POCE.11: Heroku Deployment](Module2/day16/postclass/3.poce.11-heroku-deployment.md)
+
 ## Module 3: Advanced Backend and Full Stack
 
-- [Module 3: Advanced Backend and Full Stack](Module3/README.md)
+- Module 3: Advanced Backend and Full Stack
   - Day 1
     - Pre Class
       * [4.0: Module 4 Overview](Module3/day1/preclass/4.0-module-4-overview.md)
@@ -417,7 +445,7 @@
 
 ## Module 4: Frontend Framework - React
 
-- [Module 4: Frontend Framework - React](Module4/README.md)
+- Module 4: Frontend Framework - React
   - Day 1
     - Pre Class
       * [7.0: Module 7 Overview](Module4/day1/preclass/7.0-module-7-overview.md)
@@ -528,9 +556,10 @@
     - Post Class
       * [Project 4 Post-Mortems](Module4/day16/postclass/course-methodology.md)
       * [Project 4 Video Demo](Module4/day16/postclass/project-4-full-stack-react-app.md)
+
 ## Module 5: Advanced React
 
-- [Module 5: Advanced React](MODULE5/README.md)
+- Module 5: Advanced React
   - Day 1
     - Pre Class
       * [8.0: Module 8 Overview](Module5/day1/preclass/8.0-module-8-overview.md)
@@ -599,9 +628,10 @@
       * [8.POCE.2: Climbing Trip Redux](Module5/day9/inclass/8.poce.2-rock-climbing-trip-planner.md)
     - Post Class
       * [Project 5 Implementation](Module5/day9/postclass/project-5-group-react-app.md)
-## Module 6: Branching out to become a Software Engineer
 
-- [Module 6: Branching out to become a Software Engineer](Module6/README.md)
+## Module 6: Capstone Project
+
+- Module 6: Capstone Project
   - Day 1
     - Pre Class
       * [9.0: Module 9 Overview](Module6/day1/preclass/9.0-module-9-overview.md)
@@ -666,7 +696,6 @@
     - In Class
     - Post Class
       * [Project 6 Implementation](Module6/day10/postclass/project-6-capstone.md)
-
 
 ## Algorithms
 

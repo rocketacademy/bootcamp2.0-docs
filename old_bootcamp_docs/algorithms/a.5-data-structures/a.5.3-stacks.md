@@ -1,6 +1,6 @@
 # A.5.3: Stacks
 
-![stack meme](../../.gitbook/assets/stack_meme.jpeg)
+![stack meme](../../../.gitbook/assets/stack_meme.jpeg)
 
 ## Learning Objectives
 
@@ -26,7 +26,7 @@ Even when using a Python `list` we'll limit ourselves to only writing code that 
 
 ### LIFO
 
-![](../../.gitbook/assets/stack-gif.gif)
+![](../../../.gitbook/assets/stack-gif.gif)
 
 We can think of the stack data structure like a stack of pancakes- we can only add and remove pancakes from the top of the stack, but we cannot add or remove from anywhere else in the stack lest we damage the pancakes. You may notice that arrays already provide the functionality of stacks through list `append` and `pop` methods. Indeed the functionality of stacks is a subset of arrays', but the concepts behind why and how we use stacks may be new to us.
 
