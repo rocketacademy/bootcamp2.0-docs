@@ -1,83 +1,98 @@
 {
-   "courseDay": 8,
-   "dateTypes": {
-      "module": "Module 1: Frontend Basics",
-      "general": {
-         "type": "general",
-         "preClass": {
-            "items": [
-               {
-                  "name": "2.0: Module 2 Setup",
-                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.0-module-2-overview"
-               }
-            ]
-         },
-         "inClass": {},
-         "postClass": {},
-         "dayIndex": 8
+  "courseDay": 8,
+  "dateTypes": {
+    "module": "Module 1: Frontend Basics",
+    "general": {
+      "type": "general",
+      "preClass": {
+        "items": [
+          {
+            "name": "2.0: Module 2 Setup",
+            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.0-module-2-overview"
+          }
+        ]
       },
-      "css": {
-         "type": "css",
-         "preClass": {
-            "items": [
-               {
-                  "name": "CSS.3 Flexbox",
-                  "url": "https://bootcamp.rocketacademy.co/css/css.3-flexbox"
-               }
-            ]
-         },
-         "inClass": {
-            "items": [
-               {
-                  "name": "1.ICE.CSS.2: Wikipedia",
-                  "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.2-css-practice-6-wikipedia"
-               }
-            ]
-         },
-         "postClass": {},
-         "dayIndex": 8
+      "inClass": {},
+      "postClass": {},
+      "dayIndex": 8
+    },
+    "css": {
+      "type": "css",
+      "preClass": {
+        "items": [
+          {
+            "name": "CSS.3 Flexbox",
+            "url": "https://bootcamp.rocketacademy.co/css/css.3-flexbox"
+          },
+          {
+            "name": "CSS.3.1: Flexbox Columns",
+            "url": "https://bootcamp.rocketacademy.co/css/css.3-flexbox/css.3.1-flexbox-layout"
+          }
+        ]
       },
-      "algos": {
-         "type": "algos",
-         "preClass": {},
-         "inClass": {},
-         "postClass": {}
+      "inClass": {
+        "items": [
+          {
+            "name": "1.ICE.CSS.2: Wikipedia",
+            "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.2-css-practice-6-wikipedia"
+          },
+          {
+            "name": "1.ICE.CSS.4: Etsy",
+            "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.4-etsy-css"
+          }
+        ]
       },
-      "ux": {
-         "type": "ux",
-         "preClass": {},
-         "inClass": {},
-         "postClass": {}
+      "postClass": {
+        "items": [
+          {
+            "name": "1.POCE.6: CSS Flexbox",
+            "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.1-technical-documentation-page-flexbox-responsive"
+          }
+        ]
       },
-      "ip": {
-         "type": "ip",
-         "ipDue": {},
-         "preClass": {},
-         "inClass": {},
-         "postClass": {}
+      "dayIndex": 8
+    },
+    "algos": {
+      "type": "algos",
+      "preClass": {},
+      "inClass": {},
+      "postClass": {}
+    },
+    "ux": {
+      "type": "ux",
+      "preClass": {},
+      "inClass": {},
+      "postClass": {}
+    },
+    "ip": {
+      "type": "ip",
+      "ipDue": {},
+      "preClass": {},
+      "inClass": {},
+      "postClass": {}
+    },
+    "projects": {
+      "type": "projects",
+      "projectStart": {},
+      "projectDue": {},
+      "preClass": {},
+      "inClass": {
+        "items": [
+          {
+            "name": "Project 1 Scrum",
+            "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
+          }
+        ]
       },
-      "projects": {
-         "type": "projects",
-         "projectStart": {},
-         "projectDue": {},
-         "preClass": {},
-         "inClass": {
-            "items": [
-               {
-                  "name": "Project 1 Scrum",
-                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums"
-               }
-            ]
-         },
-         "postClass": {
-            "items": [
-               {
-                  "name": "Project 1 Implementation",
-                  "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
-               }
-            ]
-         },
-         "dayIndex": 8
-      }
-   }
+      "postClass": {
+        "items": [
+          {
+            "name": "Project 1 Implementation",
+            "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
+          }
+        ]
+      },
+      "dayIndex": 8
+    }
+  }
 }

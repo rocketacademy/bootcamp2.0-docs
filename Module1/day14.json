@@ -1,89 +1,82 @@
 {
-   "courseDay": 14,
-   "dateTypes": {
-      "module": "Module 2: Backend Basics",
-      "general": {
-         "type": "general",
-         "projectStart": {},
-         "projectDue": {},
-         "preClass": {
-            "items": [
-               {
-                  "name": "2.5: Disk Writing",
-                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.5-disk-writing"
-               },
-               {
-                  "name": "2.6: Disk Altering",
-                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.6-disk-altering"
-               },
-               {
-                  "name": "2.7: Internet 101",
-                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.7-internet-101"
-               },
-               {
-                  "name": "2.8: Chrome Networking",
-                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.8-chrome-networking"
-               }
-            ]
-         },
-         "inClass": {
-            "items": [
-               {
-                  "name": "2.ICE.3: Disk Altering",
-                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.3-disk-altering"
-               }
-            ]
-         },
-         "postClass": {
-            "items": [
-               {
-                  "name": "2.POCE.3: CSS Processor",
-                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor"
-               }
-            ]
-         },
-         "dayIndex": 14
+  "courseDay": 14,
+  "dateTypes": {
+    "module": "Module 2: Backend Basics",
+    "general": {
+      "type": "general",
+      "projectStart": {},
+      "projectDue": {},
+      "preClass": {
+        "items": [
+          {
+            "name": "2.5: Disk Writing",
+            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.5-disk-writing"
+          },
+          {
+            "name": "2.6: Disk Altering",
+            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.6-disk-altering"
+          },
+          {
+            "name": "2.7: Internet 101",
+            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.7-internet-101"
+          },
+          {
+            "name": "2.8: Chrome Networking",
+            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.8-chrome-networking"
+          }
+        ]
       },
-      "css": {
-         "type": "css",
-         "preClass": {},
-         "inClass": {},
-         "postClass": {
-            "items": [
-               {
-                  "name": "1.POCE.8: Flexbox Personal Page",
-                  "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.2-flexbox-personal-page"
-               }
-            ]
-         },
-         "dayIndex": 14
+      "inClass": {
+        "items": [
+          {
+            "name": "2.ICE.3: Disk Altering",
+            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.3-disk-altering"
+          }
+        ]
       },
-      "algos": {
-         "type": "algos",
-         "preClass": {},
-         "inClass": {},
-         "postClass": {}
+      "postClass": {
+        "items": [
+          {
+            "name": "2.POCE.3: CSS Processor",
+            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor"
+          }
+        ]
       },
-      "ux": {
-         "type": "ux",
-         "preClass": {},
-         "inClass": {},
-         "postClass": {}
-      },
-      "ip": {
-         "type": "ip",
-         "ipDue": {},
-         "preClass": {},
-         "inClass": {},
-         "postClass": {}
-      },
-      "projects": {
-         "type": "projects",
-         "projectStart": {},
-         "projectDue": {},
-         "preClass": {},
-         "inClass": {},
-         "postClass": {}
-      }
-   }
+      "dayIndex": 14
+    },
+    "css": {
+      "type": "css",
+      "preClass": {},
+      "inClass": {},
+      "postClass": {},
+      "dayIndex": 14
+    },
+    "algos": {
+      "type": "algos",
+      "preClass": {},
+      "inClass": {},
+      "postClass": {}
+    },
+    "ux": {
+      "type": "ux",
+      "preClass": {},
+      "inClass": {},
+      "postClass": {}
+    },
+    "ip": {
+      "type": "ip",
+      "ipDue": {},
+      "preClass": {},
+      "inClass": {},
+      "postClass": {}
+    },
+    "projects": {
+      "type": "projects",
+      "projectStart": {},
+      "projectDue": {},
+      "preClass": {},
+      "inClass": {},
+      "postClass": {}
+    }
+  }
 }
