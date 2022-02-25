@@ -20,16 +20,19 @@
         ]
       },
       "inClass": {
-        "items": [
-          
+        "items" : [
+          {
+            "name": "Review 2.POCE.3: CSS Processor",
+            "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review"
+         }
         ]
       },
       "postClass": {
         "items": [
           {
-            "name": "2.POCE.3: CSS Processor",
-            "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor"
-          }
+            "name": "Project 1 Implementation",
+            "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
+         }
         ]
       },
       "dayIndex": 14

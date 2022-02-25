@@ -4,9 +4,35 @@
     "module": "Module 1: Frontend Basics",
     "general": {
       "type": "general",
-      "preClass": {},
-      "inClass": {},
-      "postClass": {}
+      "preClass": {
+        "items": [
+        {
+          "name": "CSS.6 Bootstrap - Day 2",
+          "url": "https://bootcamp.rocketacademy.co/css/css.6-bootstrap"
+        }
+      ]
+    },
+      "inClass": {
+        "items": [
+          {
+             "name": "CSS.ICE Restaurant",
+             "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.5-restaurant"
+           }
+          
+       ]
+      },
+      "postClass": {
+        "items": [
+          {
+             "name": "1.POCE.4: More Bootstrap",
+             "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe"
+          },
+          {
+            "name": "Project 1 Implementation",
+            "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
+         }
+       ]
+      }
     },
     "css": {
       "type": "css",

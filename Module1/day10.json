@@ -5,11 +5,19 @@
       "general": {
          "type": "general",
          "preClass": {},
-         "inClass": {},
+         "inClass": {
+            "items": [
+               {
+                  "name": "CSS.ICE MyTunes",
+                  "url": "https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes"
+                }
+               
+            ]
+         },
          "postClass": {
             "items": [
                {
-                  "name": "1.POCE.9: Bootstrap",
+                  "name": "1.POCE.3: Bootstrap Columns",
                   "url": "https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns"
                }
             ]
@@ -20,7 +28,7 @@
          "preClass": {
             "items": [
                {
-                 "name": "CSS.6 Bootstrap",
+                 "name": "CSS.6 Bootstrap - Day 1",
                  "url": "https://bootcamp.rocketacademy.co/css/css.6-bootstrap"
                }
              ]

@@ -6,10 +6,7 @@
          "type": "general",
          "preClass": {
             "items": [
-               {
-                  "name": "2.3: Modules",
-                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.3-modules"
-               },
+               
                {
                   "name": "2.4: Disk Reading",
                   "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.4-disk-reading"
@@ -41,6 +38,14 @@
                {
                   "name": "2.POCE.2: CSS Reader",
                   "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader"
+               },
+               {
+                  "name": "2.POCE.3: CSS Processor",
+                  "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor"
+                },
+                {
+                  "name": "Project 1 Implementation",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
                }
             ]
          },

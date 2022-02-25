@@ -22,10 +22,7 @@
          },
          "inClass": {
             "items": [
-               {
-                  "name": "Review 2.POCE.3: CSS Processor",
-                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review"
-               },
+               
                {
                   "name": "2.ICE.4: Servers and Requests",
                   "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.ice-in-class-exercises/2.ice.4-servers-and-requests"
@@ -37,6 +34,10 @@
                {
                   "name": "2.POCE.4: File Server",
                   "url": "https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.4-file-server"
+               },
+               {
+                  "name": "Project 1 Implementation",
+                  "url": "https://bootcamp.rocketacademy.co/projects/project-1-video-poker"
                }
             ]
          },
