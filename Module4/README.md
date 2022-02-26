@@ -1,0 +1,18 @@
+|Day No.|Pre-Class|In-Class|Post-Class|
+| --- | --- | --- | --- |
+|<h2>Day 1</h2>|<li>[7.2: React Components](day1/preclass/7.2-react-components.md)</li><li>[7.2.1: Props](day1/preclass/7.2.1-props.md)</li><li>[7.2.2: Generating Components from a List](day1/preclass/7.2.2-generating-components-from-a-list.md)</li><li>[7.2.3: Class Components](day1/preclass/7.2.3-class-components.md)</li><br>|<li>[7.ICE.2: React Pokedex](day1/inclass/7.ice.2-pokedex.md)</li><br>|<li>[7.ICE.2: React Pokedex](day1/postclass/7.ice.2-pokedex.md)</li><br><li>[Project 3 Video Demo](day1/postclass/project-3-full-stack-game.md)</li><br>|
+|<h2>Day 2</h2>|<li>[7.3: Using React with Express and Webpack](day2/preclass/7.3-using-react-with-express-and-webpack.md)</li><li>[7.4: React State](day2/preclass/7.4-react-state.md)</li><br>|<li>[7.ICE.3: React Cards](day2/inclass/7.ice.3-react-cards.md)</li><br>|<li>[7.POCE.2: React Tic Tac Toe](day2/postclass/7.poce.2-react-tic-tac-toe.md)</li><br>|
+|<h2>Day 3</h2>|<li>[7.5: Controlled Forms](day3/preclass/7.5-controlled-forms.md)</li><li>[7.6: Passing Data Between Sibling Components](day3/preclass/7.6-passing-data-between-sibling-components.md)</li><br>|<li>[7.ICE.4: Guess the Word](day3/inclass/7.ice.4-guess-the-word.md)</li><br>|<li>[7.POCE.3: Read Later](day3/postclass/7.poce.3-read-later.md)</li><br>|
+|<h2>Day 4</h2>|<li>[7.7: Designing Component Hierarchy](day4/preclass/7.7-designing-component-hierarchy.md)</li><li>[7.7.1: AJAX Requests from Components](day4/preclass/7.7.1-ajax-requests-from-components.md)</li><li>[7.9: React Dev Tools](day4/preclass/7.9-react-dev-tools.md)</li><br>|<li>[7.ICE.5: Create Item](day4/inclass/7.ice.5-create-item.md)</li><br>|<li>[7.POCE.3: Read Later](day4/postclass/7.poce.3-read-later.md)</li><br>|
+|<h2>Day 5</h2>|<br>|<li>[Review 7.POCE.3: Read Later](day5/inclass/7.poce.3-read-later.md)</li><br>|<li>[7.POCE.4: Hot Pot Bill Splitter](day5/postclass/7.poce.4-hot-pot-bill-splitter.md)</li><br><li>[Project 4 Ideation Phase 1](day5/postclass/project-4-full-stack-react-app.md)</li><br>|
+|<h2>Day 6</h2>|<li>[7.7.2: useEffect](day6/preclass/7.7.2-useeffect.md)</li><br>|<br>|<li>[7.POCE.4: Hot Pot Bill Splitter](day6/postclass/7.poce.4-hot-pot-bill-splitter.md)</li><br><li>[Project 4 Ideation Phase 1](day6/postclass/project-4-full-stack-react-app.md)</li><br>|
+|<h2>Day 7</h2>|<li>[7.8: Error Boundaries](day7/preclass/7.8-error-boundaries.md)</li><br>|<br>|<li>[7.POCE.4: Hot Pot Bill Splitter](day7/postclass/7.poce.4-hot-pot-bill-splitter.md)</li><br><li>[Project 4 Ideation Phase 1](day7/postclass/project-4-full-stack-react-app.md)</li><br>|
+|<h2>Day 8</h2>|<br>|<li>[Review 7.POCE.4: Hot Pot Bill Splitter](day8/inclass/course-methodology.md)</li><br>|<li>[Project 4 Ideation Phase 2](day8/postclass/project-4-full-stack-react-app.md)</li><br>|
+|<h2>Day 9</h2>|<br>|<br>|<li>[Start: Project 4 Implementation](day9/postclass/project-4-full-stack-react-app.md)</li><br>|
+|<h2>Day 10</h2>|<br>|<br>|<li>[Project 4 Implementation](day10/postclass/project-4-full-stack-react-app.md)</li><br>|
+|<h2>Day 11</h2>|<br>|<br>|<li>[Project 4 Implementation](day11/postclass/project-4-full-stack-react-app.md)</li><br>|
+|<h2>Day 12</h2>|<br>|<br>|<li>[Project 4 Implementation](day12/postclass/project-4-full-stack-react-app.md)</li><br>|
+|<h2>Day 13</h2>|<br>|<br>|<li>[Project 4 Implementation](day13/postclass/project-4-full-stack-react-app.md)</li><br>|
+|<h2>Day 14</h2>|<br>|<br>|<li>[Project 4 Implementation](day14/postclass/project-4-full-stack-react-app.md)</li><br>|
+|<h2>Day 15</h2>|<br>|<br>|<li>[Project 4 Post-Mortems](day15/postclass/course-methodology.md)</li><li>[Project 4 Video Demo](day15/postclass/project-4-full-stack-react-app.md)</li><br>|
+

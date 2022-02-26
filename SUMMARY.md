@@ -16,8 +16,7 @@
 * [Sharing Code with Classmates](course-logistics/sharing-code-with-classmates.md)
 
 ## Module 1: Basic Frontend
-
-* [Module 1: Basic Frontend](module-1-basic-frontend/module-1-basic-frontend/README.md)
+* [Module 1: Basic Frontend](Module1/README.md)
   * [Day 1](module-1-basic-frontend/module-1-basic-frontend/day-1/README.md)
     * [Pre Class](module-1-basic-frontend/module-1-basic-frontend/day-1/pre-class/README.md)
       * [0.0: Module 0 Overview](Module1/day1/preclass/0.0-module-0-overview.md)
@@ -181,7 +180,7 @@
 
 ## Module 2: Basic Backend
 
-* [Module 2: Basic Backend](module-2-basic-backend/module-2-basic-backend/README.md)
+* [Module 2: Basic Backend](Module2/README.md)
   * [Day 1](module-2-basic-backend/module-2-basic-backend/day-1/README.md)
     * [Pre Class](module-2-basic-backend/module-2-basic-backend/day-1/pre-class/README.md)
       * [3.0: Overview](Module2/day1/preclass/3.0-module-3-overview.md)
@@ -319,7 +318,7 @@
 
 ## Module 3: Advanced Backend and Full Stack
 
-* [Module 3: Advanced Backend and Full Stack](module-3-advanced-backend-and-full-stack/module-3-advanced-backend-and-full-stack/README.md)
+* [Module 3: Advanced Backend and Full Stack](Module3/README.md)
   * [Day 1](module-3-advanced-backend-and-full-stack/module-3-advanced-backend-and-full-stack/day-1/README.md)
     * [Pre Class](module-3-advanced-backend-and-full-stack/module-3-advanced-backend-and-full-stack/day-1/pre-class/README.md)
       * [4.0: Module 4 Overview](Module3/day1/preclass/4.0-module-4-overview.md)
@@ -443,7 +442,7 @@
 
 ## Module 4: Frontend Framework - React
 
-* [Module 4: Frontend Framework - React](module-4-frontend-framework-react/module-4-frontend-framework-react/README.md)
+* [Module 4: Frontend Framework - React](Module4/README.md)
   * [Day 1](module-4-frontend-framework-react/module-4-frontend-framework-react/day-1/README.md)
     * [Pre Class](module-4-frontend-framework-react/module-4-frontend-framework-react/day-1/pre-class/README.md)
       * [7.0: Module 7 Overview](Module4/day1/preclass/7.0-module-7-overview.md)
@@ -557,7 +556,7 @@
 
 ## Module 5: Advanced React
 
-* [Module 5: Advanced React](module-5-advanced-react/module-5-advanced-react/README.md)
+* [Module 5: Advanced React](Module5/README.md)
   * [Day 1](module-5-advanced-react/module-5-advanced-react/day-1/README.md)
     * [Pre Class](module-5-advanced-react/module-5-advanced-react/day-1/pre-class/README.md)
       * [8.0: Module 8 Overview](Module5/day1/preclass/8.0-module-8-overview.md)
@@ -629,7 +628,7 @@
 
 ## Module 6: Capstone Project
 
-* [Module 6: Capstone Project](module-6-capstone-project/module-6-capstone-project/README.md)
+* [Module 6: Capstone Project](Module6/README.md)
   * [Day 1](module-6-capstone-project/module-6-capstone-project/day-1/README.md)
     * [Pre Class](module-6-capstone-project/module-6-capstone-project/day-1/pre-class/README.md)
       * [9.0: Module 9 Overview](Module6/day1/preclass/9.0-module-9-overview.md)
