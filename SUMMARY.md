@@ -732,14 +732,11 @@
     *
   * [Day 11](algorithms/algorithms/day-11/README.md)
     * [A.5.3: Stacks - Part 2](algos/day11/a.5.3-stacks.md)
-    *
   * [Day 12](algorithms/algorithms/day-12/README.md)
     * [A.5.5: Linked Lists - Pre-Class](algos/day12/a.5.5-linked-lists.md)
-    *
-    *
   * [Day 13](algorithms/algorithms/day-13/README.md)
     * [A.5.5: Linked Lists - Part 2](algos/day13/a.5.5-linked-lists.md)
-    *
+    
   * [Day 14](algorithms/algorithms/day-14/README.md)
     * [A.5.5: Linked Lists - Part 3](algos/day14/a.5.5-linked-lists.md)
   * [Day 15](algorithms/algorithms/day-15/README.md)
@@ -748,104 +745,71 @@
     * [A.6: Binary Search - Part 1](algos/day16/a.6-binary-search.md)
   * [Day 17](algorithms/algorithms/day-17/README.md)
     * [A.5.4: Queues - Pre-Class](algos/day17/a.5.4-queues.md)
-    *
-    *
   * [Day 18](algorithms/algorithms/day-18/README.md)
     * [A.9: Recursion - Required Reading](algos/day18/a.9-recursion.md)
-    *
-    *
   * [Day 19](algorithms/algorithms/day-19/README.md)
     * [A.9: Recursion - Part 2](algos/day19/a.9-recursion.md)
-    *
   * [Day 20](algorithms/algorithms/day-20/README.md)
     * [A.9: Recursion - Part 3](algos/day20/a.9-recursion.md)
-    *
   * [Day 21](algorithms/algorithms/day-21/README.md)
     * [A.10: Sorting Algorithms](algos/day21/a.10-sorting-algorithms.md)
-    *
   * [Day 22](algorithms/algorithms/day-22/README.md)
     * [A.10.1: Sorting Algorithms - Part 2](algos/day22/a.10.1-divide-and-conquer-sorting.md)
-    *
   * [Day 23](algorithms/algorithms/day-23/README.md)
     * [A.10.1: Sorting Algorithms - Part 3](algos/day23/a.10.1-divide-and-conquer-sorting.md)
-    *
   * [Day 24](algorithms/algorithms/day-24/README.md)
     * [A.5.6: Trees - Pre-Class](algos/day24/a.5.6-trees.md)
   * [Day 25](algorithms/algorithms/day-25/README.md)
     * [Trees - Part 1](algos/day25/a.5.6-trees.md)
-    *
-    *
   * [Day 26](algorithms/algorithms/day-26/README.md)
     * [Trees - Part 2](algos/day26/a.5.6-trees.md)
     * [Binary Search Trees](algos/day26/a.5.6.2-binary-search-trees.md)
-    *
-    *
   * [Day 27](algorithms/algorithms/day-27/README.md)
     * [A.5.6: Trees - Part 3](algos/day27/a.5.6-trees.md)
-    *
   * [Day 28](algorithms/algorithms/day-28/README.md)
     * [A.5.6: Trees - Part 4](algos/day28/a.5.6-trees.md)
-    *
   * [Day 29](algorithms/algorithms/day-29/README.md)
     * [A.5.6: Trees - Part 5](algos/day29/a.5.6-trees.md)
-    *
   * [Day 30](algorithms/algorithms/day-30/README.md)
     * [A.5.6: Trees - Part 6](algos/day30/a.5.6-trees.md)
-    *
   * [Day 31](algorithms/algorithms/day-31/README.md)
     * [A.5.8: Heaps - Pre-Class](algos/day31/a.5.8-heaps.md)
     * [A.5.8: Heaps - Part 1](algos/day31/a.5.4-queues.md)
-    *
   * [Day 32](algorithms/algorithms/day-32/README.md)
     * [A.5.8: Heaps - Part 2](algos/day32/a.5.8-heaps.md)
-    *
   * [Day 33](algorithms/algorithms/day-33/README.md)
     * [A.5.8: Heaps - Part 3](algos/day33/a.5.8-heaps.md)
   * [Day 34](algorithms/algorithms/day-34/README.md)
     * [A.11.1: Recursive Backtracking - Pre-Class](algorithms/algorithms/day-34/a.11.1-recursive-backtracking-pre-class.md)
-    *
-    *
   * [Day 35](algorithms/algorithms/day-35/README.md)
     * [A.5.7: Graphs - Pre-Class](algos/day35/a.5.7-graphs.md)
-    *
-    *
   * [Day 36](algorithms/algorithms/day-36/README.md)
     * [A.5.7: Graphs - Part 2](algos/day36/a.5.7-graphs.md)
-    *
   * [Day 37](algorithms/algorithms/day-37/README.md)
     * [Graphs - Part 3](algos/day37/a.5.7-graphs.md)
-    *
   * [Day 38](algorithms/algorithms/day-38/README.md)
     * [Graphs - Part 4](algos/day38/a.5.7-graphs.md)
-    *
   * [Day 39](algorithms/algorithms/day-39/README.md)
     * [A.9: Dynamic Programming - Pre-Class](algorithms/algorithms/day-39/a.9-dynamic-programming-pre-class.md)
-    *
-    *
   * [Day 40](algorithms/algorithms/day-40/README.md)
     * [A.9: Dynamic Programming - Part 2](algorithms/algorithms/day-40/a.9-dynamic-programming-part-2.md)
-    *
   * [Day 41](algorithms/algorithms/day-41/README.md)
     * [A.9: Dynamic Programming - Part 3](algorithms/algorithms/day-41/a.9-dynamic-programming-part-3.md)
-    *
   * [Day 42](algorithms/algorithms/day-42/README.md)
     * [Algorithms Open Practice](algos/day42/a.13-open-practice.md)
     * [A.10: Bit Manipulation - Part 1](algorithms/algorithms/day-42/a.10-bit-manipulation-part-1.md)
-    *
-    *
   * [Day 43](algorithms/algorithms/day-43/README.md)
     * [A.10: Bit Manipulation - Pre-Class](algorithms/algorithms/day-43/a.10-bit-manipulation-pre-class.md)
     * [Algorithms Open Practice](algos/day43/a.13-open-practice.md)
-    *
 
-***
+## Interview Prep
 
-* [IP.0: Interview Prep Overview](interview-prep/ip.0-interview-prep-overview.md)
-* [IP.1: Job Application Strategy](interview-prep/ip.1-job-application-strategy.md)
-* [IP.2: Resume](interview-prep/ip.2-resume.md)
-* [IP.3: Portfolio](interview-prep/ip.3-portfolio.md)
-* [IP.4: Job List](interview-prep/ip.4-job-list.md)
-* [IP.5: Negotiation](interview-prep/ip.5-negotiation.md)
-* [UX.1: Overview](user-experience/ux.1-overview.md)
-* [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
-* [UX.3: How to Design Your App](user-experience/ux.3-how-to-design-your-app.md)
+  * [IP.0: Interview Prep Overview](interview-prep/ip.0-interview-prep-overview.md)
+  * [IP.1: Job Application Strategy](interview-prep/ip.1-job-application-strategy.md)
+  * [IP.2: Resume](interview-prep/ip.2-resume.md)
+  * [IP.3: Portfolio](interview-prep/ip.3-portfolio.md)
+  * [IP.4: Job List](interview-prep/ip.4-job-list.md)
+  * [IP.5: Negotiation](interview-prep/ip.5-negotiation.md)
+  * [UX.1: Overview](user-experience/ux.1-overview.md)
+  * [UX.2: The UX Process](user-experience/ux.2-the-ux-process.md)
+  * [UX.3: How to Design Your App](user-experience/ux.3-how-to-design-your-app.md)
