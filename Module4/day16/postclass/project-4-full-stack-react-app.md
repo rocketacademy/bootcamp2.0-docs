@@ -38,12 +38,12 @@ Since the focus of this project is on React, try not to create a database that i
 | Course Day | Deliverable                                                                                                                                                                               | Instructor Feedback                                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | CD14.1     | **Start: Ideation Phase 1.** Introduce project, post project ideas in Slack for feedback.                                                                                                 | Instructor to share feedback on project ideas in Slack.                                                                    |
-| CD14.4     | **Start: Ideation Phase 2. **Create planning docs: user stories, wireframes, and DB ERD.                                                                                                  |                                                                                                                            |
-| CD15.1     | **Due: Ideation Phase 2.**  Finalise project idea and share planning docs in GitHub repo over Slack.                                                                                      | Instructor to review planning docs over Slack and Zoom if necessary.                                                       |
+| CD14.4     | \*\*Start: Ideation Phase 2. \*\*Create planning docs: user stories, wireframes, and DB ERD.                                                                                              |                                                                                                                            |
+| CD15.1     | **Due: Ideation Phase 2.** Finalise project idea and share planning docs in GitHub repo over Slack.                                                                                       | Instructor to review planning docs over Slack and Zoom if necessary.                                                       |
 | CD15.1     | **Due: Peer Planning Review.**                                                                                                                                                            |                                                                                                                            |
 | CD15.1     | **Start: Project Start.**                                                                                                                                                                 | Begin Project Implementation.                                                                                              |
 | CD16.1     | <p><strong>Due: MVP deadline.</strong></p><p>Users should be able to perform the primary user story. Please deploy your app to Heroku. Students to review code in pairs during class.</p> | Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary.                                        |
-| CD16.3     | <p><strong>Due: Feature freeze.</strong> </p><p>No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code.</p>                 | Quick project review in class to discuss improvements post-feature freeze.                                                 |
+| CD16.3     | <p><strong>Due: Feature freeze.</strong></p><p>No more developing new app functionality. Use remaining time to focus on polish, i.e. fixing UI/UX, refactoring code.</p>                  | Quick project review in class to discuss improvements post-feature freeze.                                                 |
 | CD16.5     | **Due: Project presentations.**                                                                                                                                                           | 30-minute post-mortem with instructor. Instructor to review code on GitHub, share feedback in Slack and Zoom if necessary. |
 | CD17.1     | **Project Peer Review exercise.**                                                                                                                                                         |                                                                                                                            |
 | CD17.2     | **Video demo due.**                                                                                                                                                                       |                                                                                                                            |
@@ -60,7 +60,7 @@ Implement the core user story first. What are users coming to your app to do? Ma
 
 ## Ideation Phase 1
 
-Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle?
+Brainstorm app ideas. What problem does the app solve, for whom? How does the app solve the problem? What data does the app handle? Feel free to use [Rocket's project planning template](https://docs.google.com/document/d/1klyi92bVHUKjxgD\_Saou\_u6yoEZFbzkvbttj2izh8xg/edit?usp=sharing), and share your ideas with your SL in Slack to get feedback.
 
 ## Ideation Phase 2
 
@@ -92,14 +92,18 @@ Please answer the [project post-mortem questions](../course-logistics/course-met
 
 Please follow [video demo guidelines here](../course-logistics/course-methodology.md#project-videos).
 
+## Project Submission and Past Student Projects
+
+Once done with your project, please submit it by adding it to the [Rocket Bootcamp Projects spreadsheet](https://docs.google.com/spreadsheets/d/1YZ39naj5E6mNNkQ1akR\_FgeFO\_kM6aWCAr8zqrFOkt4/edit?usp=sharing) in your batch-specific sheet. Feel free to view past student projects in previous batches' sheets.
+
 ## Common Issues
 
 ### Multiple Pages that Load React
 
-[Code splitting](https://webpack.js.org/guides/code-splitting/) allows us to have multiple pages that each load separate React bundles. To keep our apps simple, RA recommends creating a single page application for Project 4, but if you feel strongly about having multiple pages, each of which load a separate React bundle, feel free to try out code splitting. 
+[Code splitting](https://webpack.js.org/guides/code-splitting/) allows us to have multiple pages that each load separate React bundles. To keep our apps simple, RA recommends creating a single page application for Project 4, but if you feel strongly about having multiple pages, each of which load a separate React bundle, feel free to try out code splitting.
 
 ### Setting a Path to Public Resources in Webpack Config
 
 If our app contains multiple routes that each load separate resources compiled by Webpack, we will want to specify the [Public Path](https://webpack.js.org/guides/public-path/) attribute in our Webpack config so that the path to those resources can be absolute and not relative to the routes.
 
-For example, for an app with route `/post/:id` that returns an HTML file that loads a Webpack bundle, if we do not specify public path in our Webpack config, that HTML file will look for our compiled Webpack bundle at `mysite.com/post/my.bundle.js` instead of `mysite.com/my.bundle.js`. 
+For example, for an app with route `/post/:id` that returns an HTML file that loads a Webpack bundle, if we do not specify public path in our Webpack config, that HTML file will look for our compiled Webpack bundle at `mysite.com/post/my.bundle.js` instead of `mysite.com/my.bundle.js`.
