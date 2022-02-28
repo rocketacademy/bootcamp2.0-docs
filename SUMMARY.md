@@ -699,6 +699,8 @@
 
 
 
+
+
 ## Algorithms
 - Algorithms
   - Day 1
@@ -781,8 +783,7 @@
   - Day 33
     * [A.5.8: Heaps - Part 3](algos/day33/a.5.8-heaps.md)
   - Day 34
-    * [A.11.1: Recursive Backtracking - Part 1](algos/day34/a.11.1-recursive-backtracking.md)
-    * [A.11.1: Recursive Backtracking - Pre-Class](algos/day34/a.11.1-recursive-backtracking.md)
+    * [A.9.1: Recursive Backtracking - Part 1](algos/day34/a.9.1-recursive-backtracking.md)  
   - Day 35
     * [A.5.7: Graphs - Part 1](algos/day35/a.5.7-graphs.md)
     * [A.5.7: Graphs - Pre-Class](algos/day35/a.5.7-graphs.md)
@@ -793,18 +794,18 @@
   - Day 38
     * [Graphs - Part 4](algos/day38/a.5.7-graphs.md)
   - Day 39
-    * [A.9: Dynamic Programming - Pre-Class](algos/day39/a.9-dynamic-programming.md)
-    * [A.9: Dynamic Programming - Part 1](algos/day39/a.9-dynamic-programming.md)
+    * [A.9: Dynamic Programming - Pre-Class](algos/day39/a.11-dynamic-programming.md)
+    * [A.9: Dynamic Programming - Part 1](algos/day39/a.11-dynamic-programming.md)
   - Day 40
-    * [A.9: Dynamic Programming - Part 2](algos/day40/a.9-dynamic-programming.md)
+    * [A.9: Dynamic Programming - Part 2](algos/day40/a.11-dynamic-programming.md)
   - Day 41
-    * [A.9: Dynamic Programming - Part 3](algos/day41/a.9-dynamic-programming.md)
+    * [A.9: Dynamic Programming - Part 3](algos/day41/a.11-dynamic-programming.md)
   - Day 42
-    * [A.10: Bit Manipulation - Part 1](algos/day42/a.10-bit-manipulation.md)
+    * [A.10: Bit Manipulation - Part 1](algos/day42/a.12-bit-manipulation.md)
     * [Algorithms Open Practice](algos/day42/a.13-open-practice.md)
   - Day 43
+    * [A.10: Bit Manipulation - Pre-Class](algos/day43/a.12-bit-manipulation.md)
     * [Algorithms Open Practice](algos/day43/a.13-open-practice.md)
-    * [A.10: Bit Manipulation - Pre-Class](algos/day43/a.10-bit-manipulation.md)
 
 ## Interview Prep
 
