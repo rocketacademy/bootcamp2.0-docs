@@ -630,6 +630,7 @@
       * [Project 5 Implementation](module-5-advanced-react/day-9/post-class/project-5-group-react-app.md)
 
 ## Module 6: Capstone Project
+- [Module Summary](module-6-capstone-project/README.md)
 - Day 1
   - Pre Class
     * [9.0: Module 9 Overview](module-6-capstone-project/day-1/pre-class/9.0-module-9-overview.md)
