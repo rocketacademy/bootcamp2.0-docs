@@ -701,18 +701,19 @@
 
 
 
+
 ## Algorithms
 - Algorithms
   - Day 1
-    * [A.1: Intro to SWE Interviews](algos/day1/a.1-intro-to-swe-interviews.md)
     * [A.2: Intro to Python (Exercises 1-8)](algos/day1/a.2-intro-to-python.md)
+    * [A.1: Intro to SWE Interviews](algos/day1/a.1-intro-to-swe-interviews.md)
     * [A.0: Algorithms Overview](algos/day1/a.0-algorithms-overview.md)
   - Day 2
     * [A.2: Intro to Python (Exercises 9-11)](algos/day2/a.2-intro-to-python.md)
   - Day 3
     * [A.4: Interview Strategies](algos/day3/a.4-interview-strategies.md)
-    * [A.3: Complexity Analysis, Big-O Notation](algos/day3/a.3-complexity-analysis-big-o-notation.md)
     * [A.4.1 Introduction to Algorithm Problems](algos/day3/a.4.1-introduction-to-algorithm-problems.md)
+    * [A.3: Complexity Analysis, Big-O Notation](algos/day3/a.3-complexity-analysis-big-o-notation.md)
   - Day 4
     * [A.5.1: Arrays - Pre-Class](algos/day4/a.5.1-arrays.md)
   - Day 5
@@ -720,7 +721,6 @@
   - Day 6
     * [A.5.1: Arrays - Part 2](algos/day6/a.5.1-arrays.md)
   - Day 7
-    * [A.5.2: Hash Tables - Part 1](algos/day7/a.5.2-hash-tables.md)
     * [A.5.2: Hash Tables - Pre-Class](algos/day7/a.5.2-hash-tables.md)
   - Day 8
     * [A.5.2: Hash Tables - Part 2](algos/day8/a.5.2-hash-tables.md)
@@ -728,11 +728,9 @@
     * [A.8: Object-Oriented Programming](algos/day9/a.8-intro-to-object-oriented-programming.md)
   - Day 10
     * [A.5.3: Stacks - Pre-Class](algos/day10/a.5.3-stacks.md)
-    * [A.5.3: Stacks - Part 1](algos/day10/a.5.3-stacks.md)
   - Day 11
     * [A.5.3: Stacks - Part 2](algos/day11/a.5.3-stacks.md)
   - Day 12
-    * [A.5.5: Linked Lists - Part 1](algos/day12/a.5.5-linked-lists.md)
     * [A.5.5: Linked Lists - Pre-Class](algos/day12/a.5.5-linked-lists.md)
   - Day 13
     * [A.5.5: Linked Lists - Part 2](algos/day13/a.5.5-linked-lists.md)
@@ -743,30 +741,26 @@
   - Day 16
     * [A.6: Binary Search - Part 1 ](algos/day16/a.6-binary-search.md)
   - Day 17
-    * [A.5.4: Queues - Pre-Class](algos/day17/a.5.4-queues.md)
-    * [A.5.4: Queues - Part 1](algos/day17/a.5.4-queues.md)
+    * [A.5.4: Queues](algos/day17/a.5.4-queues.md)
   - Day 18
-    * [A.9: Recursion - Required Reading](algos/day18/a.9-recursion.md)
     * [A.9: Recursion - Part 1](algos/day18/a.9-recursion.md)
   - Day 19
-    * [A.9: Recursion - Part 2](algos/day19/a.9-recursion.md)
+    * [A.9: Recursion  - Part 2](algos/day19/a.9-recursion.md)
   - Day 20
-    * [A.9: Recursion - Part 3](algos/day20/a.9-recursion.md)
+    * [A.9: Recursion  - Part 3](algos/day20/a.9-recursion.md)
   - Day 21
     * [A.10: Sorting Algorithms](algos/day21/a.10-sorting-algorithms.md)
   - Day 22
-    * [A.10.1: Sorting Algorithms - Part 2](algos/day22/a.10.1-divide-and-conquer-sorting.md)
+    * [A.10.1: Divide and Conquer](algos/day22/a.10.1-divide-and-conquer-sorting.md)
   - Day 23
-    * [A.10.1: Sorting Algorithms - Part 3](algos/day23/a.10.1-divide-and-conquer-sorting.md)
+    * [A.10.1: Divide and Conquer](algos/day23/a.10.1-divide-and-conquer-sorting.md)
   - Day 24
-    * [A.5.6: Trees - Pre-Class](algos/day24/a.5.6-trees.md)
+    * [A.5.6: Trees](algos/day24/a.5.6-trees.md)
   - Day 25
-    * [A.5.6: Trees - Part 1](algos/day25/a.5.6-trees.md)
-    * [Trees  - Part 1](algos/day25/a.5.6-trees.md)
+    * [A.5.6: Trees](algos/day25/a.5.6-trees.md)
   - Day 26
-    * [A.5.6: Trees - Part 2](algos/day26/a.5.6-trees.md)
     * [Binary Search Trees](algos/day26/a.5.6.2-binary-search-trees.md)
-    * [Trees - Part 2](algos/day26/a.5.6-trees.md)
+    * [A.5.6 Trees - Part 2](algos/day26/a.5.6-trees.md)
   - Day 27
     * [A.5.6: Trees - Part 3](algos/day27/a.5.6-trees.md)
   - Day 28
@@ -776,17 +770,15 @@
   - Day 30
     * [A.5.6: Trees - Part 6](algos/day30/a.5.6-trees.md)
   - Day 31
-    * [A.5.8: Heaps - Pre-Class](algos/day31/a.5.8-heaps.md)
-    * [A.5.8: Heaps - Part 1](algos/day31/a.5.4-queues.md)
+    * [A.5.8: Heaps](algos/day31/a.5.8-heaps.md)
   - Day 32
     * [A.5.8: Heaps - Part 2](algos/day32/a.5.8-heaps.md)
   - Day 33
     * [A.5.8: Heaps - Part 3](algos/day33/a.5.8-heaps.md)
   - Day 34
-    * [A.9.1: Recursive Backtracking - Part 1](algos/day34/a.9.1-recursive-backtracking.md)  
+    * [A.11.1: Recursive Backtracking](algos/day34/a.9.1-recursive-backtracking.md)
   - Day 35
-    * [A.5.7: Graphs - Part 1](algos/day35/a.5.7-graphs.md)
-    * [A.5.7: Graphs - Pre-Class](algos/day35/a.5.7-graphs.md)
+    * [A.5.7: Graphs](algos/day35/a.5.7-graphs.md)
   - Day 36
     * [A.5.7: Graphs - Part 2](algos/day36/a.5.7-graphs.md)
   - Day 37
@@ -794,18 +786,17 @@
   - Day 38
     * [Graphs - Part 4](algos/day38/a.5.7-graphs.md)
   - Day 39
-    * [A.9: Dynamic Programming - Pre-Class](algos/day39/a.11-dynamic-programming.md)
-    * [A.9: Dynamic Programming - Part 1](algos/day39/a.11-dynamic-programming.md)
+    * [A.9: Dynamic Programming](algos/day39/a.11-dynamic-programming.md)
   - Day 40
     * [A.9: Dynamic Programming - Part 2](algos/day40/a.11-dynamic-programming.md)
   - Day 41
     * [A.9: Dynamic Programming - Part 3](algos/day41/a.11-dynamic-programming.md)
   - Day 42
-    * [A.10: Bit Manipulation - Part 1](algos/day42/a.12-bit-manipulation.md)
     * [Algorithms Open Practice](algos/day42/a.13-open-practice.md)
+    * [A.10: Bit Manipulation - Part 1](algos/day42/a.12-bit-manipulation.md)
   - Day 43
-    * [A.10: Bit Manipulation - Pre-Class](algos/day43/a.12-bit-manipulation.md)
     * [Algorithms Open Practice](algos/day43/a.13-open-practice.md)
+    * [A.10: Bit Manipulation](algos/day43/a.12-bit-manipulation.md)
 
 ## Interview Prep
 
