@@ -630,72 +630,70 @@
       * [Project 5 Implementation](module-5-advanced-react/day-9/post-class/project-5-group-react-app.md)
 
 ## Module 6: Capstone Project
-
-- Module6
-  - Day 1
-    - Pre Class
-      * [9.0: Module 9 Overview](module-6-capstone-project/day-1/pre-class/9.0-module-9-overview.md)
-      * [9.1: Testing](module-6-capstone-project/day-1/pre-class/9.1-testing.md)
-      * [9.1.1: Unit Testing](module-6-capstone-project/day-1/pre-class/9.1.1-unit-testing.md)
-      * [9.1.2: TDD](module-6-capstone-project/day-1/pre-class/9.1.2-tdd.md)
-      * [9.1.3: CI](module-6-capstone-project/day-1/pre-class/9.1.3-ci.md)
-    - In Class
-      * [9.ICE.1: Unit Testing](module-6-capstone-project/day-1/in-class/9.ice.1-unit-testing.md)
-    - Post Class
-      * [Project 5 Implementation](module-6-capstone-project/day-1/post-class/project-5-group-react-app.md)
-  - Day 2
-    - Pre Class
-      * [9.2.1: XSS](module-6-capstone-project/day-2/pre-class/9.2.1-xss.md)
-      * [9.2.2: CSRF](module-6-capstone-project/day-2/pre-class/9.2.2-csrf.md)
-      * [9.2.3: SQL Injection](module-6-capstone-project/day-2/pre-class/9.2.3-sql-injection.md)
-    - In Class
-    - Post Class
-      * [Project 5 Implementation](module-6-capstone-project/day-2/post-class/project-5-group-react-app.md)
-  - Day 3
-    - Pre Class
-    - In Class
-    - Post Class
-      * [Project 5 Post-Mortems](module-6-capstone-project/day-3/post-class/course-methodology.md)
-      * [Project 5 Video](module-6-capstone-project/day-3/post-class/project-5-group-react-app.md)
-      * [Project 6 Ideation Phase 1](module-6-capstone-project/day-3/post-class/project-6-capstone.md)
-  - Day 4
-    - Pre Class
-    - In Class
-    - Post Class
-      * [Project 5 Video](module-6-capstone-project/day-4/post-class/project-5-group-react-app.md)
-      * [Project 6 Exploration Time](module-6-capstone-project/day-4/post-class/.md)
-  - Day 5
-    - Pre Class
-    - In Class
-    - Post Class
-      * [Project 6 Implementation](module-6-capstone-project/day-5/post-class/project-6-capstone.md)
-      * [Project 6 Exploration Time](module-6-capstone-project/day-5/post-class/.md)
-  - Day 6
-    - Pre Class
-    - In Class
-    - Post Class
-      * [Project 6 Implementation](module-6-capstone-project/day-6/post-class/project-6-capstone.md)
-      * [Project 6 Ideation Phase 2](module-6-capstone-project/day-6/post-class/project-6-capstone.md)
-  - Day 7
-    - Pre Class
-    - In Class
-    - Post Class
-      * [Project 6 Implementation](module-6-capstone-project/day-7/post-class/project-6-capstone.md)
-  - Day 8
-    - Pre Class
-    - In Class
-    - Post Class
-      * [Project 6 Implementation](module-6-capstone-project/day-8/post-class/project-6-capstone.md)
-  - Day 9
-    - Pre Class
-    - In Class
-    - Post Class
-      * [Project 6 Implementation](module-6-capstone-project/day-9/post-class/project-6-capstone.md)
-  - Day 10
-    - Pre Class
-    - In Class
-    - Post Class
-      * [Project 6 Implementation](module-6-capstone-project/day-10/post-class/project-6-capstone.md)
+- Day 1
+  - Pre Class
+    * [9.0: Module 9 Overview](module-6-capstone-project/day-1/pre-class/9.0-module-9-overview.md)
+    * [9.1: Testing](module-6-capstone-project/day-1/pre-class/9.1-testing.md)
+    * [9.1.1: Unit Testing](module-6-capstone-project/day-1/pre-class/9.1.1-unit-testing.md)
+    * [9.1.2: TDD](module-6-capstone-project/day-1/pre-class/9.1.2-tdd.md)
+    * [9.1.3: CI](module-6-capstone-project/day-1/pre-class/9.1.3-ci.md)
+  - In Class
+    * [9.ICE.1: Unit Testing](module-6-capstone-project/day-1/in-class/9.ice.1-unit-testing.md)
+  - Post Class
+    * [Project 5 Implementation](module-6-capstone-project/day-1/post-class/project-5-group-react-app.md)
+- Day 2
+  - Pre Class
+    * [9.2.1: XSS](module-6-capstone-project/day-2/pre-class/9.2.1-xss.md)
+    * [9.2.2: CSRF](module-6-capstone-project/day-2/pre-class/9.2.2-csrf.md)
+    * [9.2.3: SQL Injection](module-6-capstone-project/day-2/pre-class/9.2.3-sql-injection.md)
+  - In Class
+  - Post Class
+    * [Project 5 Implementation](module-6-capstone-project/day-2/post-class/project-5-group-react-app.md)
+- Day 3
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 5 Post-Mortems](module-6-capstone-project/day-3/post-class/course-methodology.md)
+    * [Project 5 Video](module-6-capstone-project/day-3/post-class/project-5-group-react-app.md)
+    * [Project 6 Ideation Phase 1](module-6-capstone-project/day-3/post-class/project-6-capstone.md)
+- Day 4
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 5 Video](module-6-capstone-project/day-4/post-class/project-5-group-react-app.md)
+    * [Project 6 Exploration Time](module-6-capstone-project/day-4/post-class/.md)
+- Day 5
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 6 Implementation](module-6-capstone-project/day-5/post-class/project-6-capstone.md)
+    * [Project 6 Exploration Time](module-6-capstone-project/day-5/post-class/.md)
+- Day 6
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 6 Implementation](module-6-capstone-project/day-6/post-class/project-6-capstone.md)
+    * [Project 6 Ideation Phase 2](module-6-capstone-project/day-6/post-class/project-6-capstone.md)
+- Day 7
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 6 Implementation](module-6-capstone-project/day-7/post-class/project-6-capstone.md)
+- Day 8
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 6 Implementation](module-6-capstone-project/day-8/post-class/project-6-capstone.md)
+- Day 9
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 6 Implementation](module-6-capstone-project/day-9/post-class/project-6-capstone.md)
+- Day 10
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 6 Implementation](module-6-capstone-project/day-10/post-class/project-6-capstone.md)
 
 ## 🧮 Algorithms
 
