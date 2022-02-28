@@ -711,7 +711,7 @@
          "items": [
             {
                "name": "A.11.1: Recursive Backtracking - Pre-Class",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#pre-class"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-recursion/a.9.1-recursive-backtracking#pre-class"
             }
          ]
       },
@@ -719,7 +719,7 @@
          "items": [
             {
                "name": "A.11.1: Recursive Backtracking - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#part-1"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-recursion/a.9.1-recursive-backtracking#part-1"
             }
          ]
       },
@@ -727,7 +727,7 @@
          "items": [
             {
                "name": "A.11.1: Recursive Backtracking - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-notable-patterns/a.11.1-recursive-backtracking#part-1"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-recursion/a.9.1-recursive-backtracking#part-1"
             }
          ]
       },
@@ -830,7 +830,7 @@
          "items": [
             {
                "name": "A.9: Dynamic Programming - Pre-Class",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#pre-class"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-dynamic-programming#pre-class"
             }
          ]
       },
@@ -838,7 +838,7 @@
          "items": [
             {
                "name": "A.9: Dynamic Programming - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-1"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-dynamic-programming#part-1"
             }
          ]
       },
@@ -846,7 +846,7 @@
          "items": [
             {
                "name": "A.9: Dynamic Programming - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-1"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-dynamic-programming#part-1"
             }
          ]
       },
@@ -859,7 +859,7 @@
          "items": [
             {
                "name": "A.9: Dynamic Programming - Part 2",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-2"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-dynamic-programming#part-2"
             }
          ]
       },
@@ -867,7 +867,7 @@
          "items": [
             {
                "name": "A.9: Dynamic Programming - Part 2",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-2"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-dynamic-programming#part-2"
             }
          ]
       },
@@ -880,7 +880,7 @@
          "items": [
             {
                "name": "A.9: Dynamic Programming - Part 3",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-3"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-dynamic-programming#part-3"
             }
          ]
       },
@@ -888,7 +888,7 @@
          "items": [
             {
                "name": "A.9: Dynamic Programming - Part 3",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.9-dynamic-programming#part-3"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.11-dynamic-programming#part-3"
             }
          ]
       },
@@ -905,7 +905,7 @@
             },
             {
                "name": "A.10: Bit Manipulation - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.10-bit-manipulation#part-1"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.12-bit-manipulation#part-1"
             }
          ]
       },
@@ -917,7 +917,7 @@
             },
             {
                "name": "A.10: Bit Manipulation - Part 1",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.10-bit-manipulation#part-1"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.12-bit-manipulation#part-1"
             }
          ]
       },
@@ -929,7 +929,7 @@
          "items": [
             {
                "name": "A.10: Bit Manipulation - Pre-Class",
-               "url": "https://bootcamp.rocketacademy.co/algorithms/a.10-bit-manipulation#pre-class"
+               "url": "https://bootcamp.rocketacademy.co/algorithms/a.12-bit-manipulation#pre-class"
             }
          ]
       },
