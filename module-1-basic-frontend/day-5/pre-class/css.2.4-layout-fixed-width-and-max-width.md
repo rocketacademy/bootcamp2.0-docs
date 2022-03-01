@@ -1,4 +1,4 @@
-# CSS.2.4: Layout: Fixed, Percent Width & Max Width
+# CSS.2.4: Layout Width
 
 ## Layout with Block
 
@@ -31,7 +31,6 @@ Given this HTML:
 
   </body>
 </html>
-
 ```
 
 ## Centering a Box
@@ -62,11 +61,11 @@ By constraining the size of the content area this prevents the behavior where th
 
 #### Before
 
-![](../../../.gitbook/assets/fixed-width-before.png)
+![](../../../old\_bootcamp\_docs/.gitbook/assets/fixed-width-before.png)
 
 #### After
 
-![](../../../.gitbook/assets/screen-shot-2021-04-14-at-8.28.23-pm.png)
+![](../../../old\_bootcamp\_docs/.gitbook/assets/screen-shot-2021-04-14-at-8.28.23-pm.png)
 
 ## Percent Width Layout
 
@@ -85,9 +84,9 @@ Another kind of design might call for a box that is always a percentage with of 
 
 One major issue with this CSS is that if the device screen is less than 600px, the page will be cut off and scroll to one side.
 
-To prevent this we can have it take up the entire screen width below a certain size. \(To put it conversely, we can constrain the size of the box to no more than a certain number\).
+To prevent this we can have it take up the entire screen width below a certain size. (To put it conversely, we can constrain the size of the box to no more than a certain number).
 
-```text
+```
 .main {
   max-width: 600px; /* be 100% width, until 600px */
   background-color:white;

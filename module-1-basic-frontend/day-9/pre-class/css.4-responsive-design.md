@@ -1,6 +1,6 @@
-# CSS.4: Responsive Design
+# CSS.4 Responsive Design
 
-![](../.gitbook/assets/resp.jpeg)
+![](../../../Module1/day10/.gitbook/assets/resp.jpeg)
 
 ## Introduction
 
@@ -24,7 +24,7 @@ When developing responsive webpages, develop the mobile layout first because the
 Many students miss this, causing CSS layout issues in mobile views. Please add this to websites we want to work on mobile.
 {% endhint %}
 
-For mobile first layouts we need to add a scaling `meta` tag in our `head` tag. This is to develop for mobile on desktop without squinting. Chrome DevTools assumes we have this scaling tag when debugging mobile layouts. Read more about the `viewport` tag [here.](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
+For mobile first layouts we need to add a scaling `meta` tag in our `head` tag. This is to develop for mobile on desktop without squinting. Chrome DevTools assumes we have this scaling tag when debugging mobile layouts. Read more about the `viewport` tag [here.](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport\_meta\_tag)
 
 ```markup
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -32,4 +32,4 @@ For mobile first layouts we need to add a scaling `meta` tag in our `head` tag. 
 
 ## Further Reading
 
-Video on media queries: [https://www.youtube.com/watch?v=na-X_SM8vg0](https://www.youtube.com/watch?v=na-X_SM8vg0)
+Video on media queries: [https://www.youtube.com/watch?v=na-X\_SM8vg0](https://www.youtube.com/watch?v=na-X\_SM8vg0)

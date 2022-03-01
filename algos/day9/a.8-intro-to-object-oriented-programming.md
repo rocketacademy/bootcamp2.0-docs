@@ -1,12 +1,12 @@
 # A.8: Object-Oriented Programming
 
-![oop meme](../../.gitbook/assets/oop_meme.jpeg)
+![oop meme](../../old\_bootcamp\_docs/.gitbook/assets/oop\_meme.jpeg)
 
 ## Introduction
 
-Object-oriented programming \(OOP\) is the concept that data in our apps can be organised in conceptual entities called **"objects"** \(unrelated to JavaScript Objects\), also known as **"classes"**. In an app context, `User` could be 1 such class, where a user could have multiple attributes such as name, email, password, and also multiple **"methods"** \(another word for functions that are part of a class\) that perform functionality on specific user **"instances"**. An "instance" is 1 instantiation of a class, e.g. a `User` instance that represents Akira. 1 example of a method on the `User` class could be `validatePassword`, which might hash an input password and verify if it matches the relevant user's password.
+Object-oriented programming (OOP) is the concept that data in our apps can be organised in conceptual entities called **"objects"** (unrelated to JavaScript Objects), also known as **"classes"**. In an app context, `User` could be 1 such class, where a user could have multiple attributes such as name, email, password, and also multiple **"methods"** (another word for functions that are part of a class) that perform functionality on specific user **"instances"**. An "instance" is 1 instantiation of a class, e.g. a `User` instance that represents Akira. 1 example of a method on the `User` class could be `validatePassword`, which might hash an input password and verify if it matches the relevant user's password.
 
-We have already used classes extensively in Coding Bootcamp, perhaps unknowingly. For example, the `push` and `pop` methods on arrays in JavaScript are examples of methods in the `Array` class. The `user.name` attribute and `user.getItems` method on a user retrieved with Sequelize are examples of attributes and methods in the Sequelize `User` class that we define in our model file \(with Sequelize helper functions\).
+We have already used classes extensively in Coding Bootcamp, perhaps unknowingly. For example, the `push` and `pop` methods on arrays in JavaScript are examples of methods in the `Array` class. The `user.name` attribute and `user.getItems` method on a user retrieved with Sequelize are examples of attributes and methods in the Sequelize `User` class that we define in our model file (with Sequelize helper functions).
 
 In the Leetcode context, we will be using classes to define non-built-in data structures in Python to help us solve problems more efficiently. These new data structures will include linked lists, trees, and graphs. All of these data structures will be built on built-in features of Python.
 
@@ -39,7 +39,7 @@ Naming convention: Classes are typically named with UpperCamelCase. Instances ar
 
 Once we have defined a class we can create an instance of the class. An instance is the "_live_" instantiation of a class, made from the mold of the class definition. It has actual data inside, not just the variable names.
 
-![class instance illustration](../../.gitbook/assets/factory_gif.gif)
+![class instance illustration](../../old\_bootcamp\_docs/.gitbook/assets/factory\_gif.gif)
 
 ```python
 cat1 = Cat("Kai")
@@ -51,11 +51,11 @@ print(cat2.get_name())
 
 #### Constructor
 
-Notice that when a new `Cat` is created the `__init__` constructor method gets called \(and the print function gets called\). The **constructor** is an Object Oriented term that refers to a method that is called when an instance of the class is being created and is used to help set up the values inside of the instance.
+Notice that when a new `Cat` is created the `__init__` constructor method gets called (and the print function gets called). The **constructor** is an Object Oriented term that refers to a method that is called when an instance of the class is being created and is used to help set up the values inside of the instance.
 
 #### `self` Keyword
 
-When we write code that is for `cat1` and `cat2` we are going to be calling the instance methods inside the instance. How do we refer to each Cat \(i.e., `cat1` and `cat2`\) itself? The `self` keyword is used in Python to refer to the object from within the instance method. So here, `self.name` refers to the name _**inside**_ the cat when we call `cat1.get_name()` - "Kai" in one case and "Chee Kean" in the other- i.e., the `name` value refers to that instance if we are calling the function for `cat1` or `cat2.`
+When we write code that is for `cat1` and `cat2` we are going to be calling the instance methods inside the instance. How do we refer to each Cat (i.e., `cat1` and `cat2`) itself? The `self` keyword is used in Python to refer to the object from within the instance method. So here, `self.name` refers to the name _**inside**_ the cat when we call `cat1.get_name()` - "Kai" in one case and "Chee Kean" in the other- i.e., the `name` value refers to that instance if we are calling the function for `cat1` or `cat2.`
 
 ```python
   def get_name(self):
@@ -65,7 +65,7 @@ When we write code that is for `cat1` and `cat2` we are going to be calling the 
 
 ## Four Pillars of OOP Design
 
-In Industry there is some disagreement about how to go about doing OOP, or [even to do it at all](https://en.wikipedia.org/wiki/Object-oriented_programming#Criticism). Four generally recognized principles are: _abstraction_, _encapsulation_, _inheritance_ and _polymorphism_. They were  codified at the height of OOP popularity in the 90's by the [Three Amigos](https://wiki.c2.com/?ThreeAmigos) and the [Gang of Four](http://wiki.c2.com/?GangOfFour). We'll see some examples for each below. Note that these kinds of programming design terms are not static nor are the universally agreed upon.
+In Industry there is some disagreement about how to go about doing OOP, or [even to do it at all](https://en.wikipedia.org/wiki/Object-oriented\_programming#Criticism). Four generally recognized principles are: _abstraction_, _encapsulation_, _inheritance_ and _polymorphism_. They were codified at the height of OOP popularity in the 90's by the [Three Amigos](https://wiki.c2.com/?ThreeAmigos) and the [Gang of Four](http://wiki.c2.com/?GangOfFour). We'll see some examples for each below. Note that these kinds of programming design terms are not static nor are the universally agreed upon.
 
 ![Dijkstra quote](../.gitbook/assets/dijkstra-oop.jpeg)
 
@@ -73,7 +73,7 @@ In Industry there is some disagreement about how to go about doing OOP, or [even
 
 ## Encapsulation: Data & Methods Together
 
-The main usage of objects when writing code is to take advantage of "_encapsulating_" data into a class  instance, and  using class methods to manipulate that data.
+The main usage of objects when writing code is to take advantage of "_encapsulating_" data into a class instance, and using class methods to manipulate that data.
 
 Without OOP we write code "procedurally" or "functionally"- if the following example were written without OOP, each person's variables and functions would be stored independently of each other, resulting in many variables to keep track of, and more context to pass into each function.
 
@@ -227,7 +227,7 @@ This is the same whenever we use an NPM library- the library is abstracting away
 
 ## Inheritance
 
-Inheritance is a way to refactor the code such that, instead of two classes with similar functionality, we can have one class that gets everything the base class has, but adds on other logic and data. 
+Inheritance is a way to refactor the code such that, instead of two classes with similar functionality, we can have one class that gets everything the base class has, but adds on other logic and data.
 
 ```python
 class Robot:
@@ -248,13 +248,13 @@ y = PhysicianRobot("James")
 y.say_hi()
 ```
 
-Robot example from here: [https://www.python-course.eu/python3\_inheritance.php](https://www.python-course.eu/python3_inheritance.php)
+Robot example from here: [https://www.python-course.eu/python3\_inheritance.php](https://www.python-course.eu/python3\_inheritance.php)
 
 ## Polymorphism
 
 Polymorphism is inheritance where the same base class can be inherited by multiple classes.
 
-From [here](https://www.geeksforgeeks.org/polymorphism-in-python/). 
+From [here](https://www.geeksforgeeks.org/polymorphism-in-python/).
 
 ```python
 class Bird:
@@ -351,7 +351,7 @@ Create a class Monsters that inherits from Player. Monsters can defend an attack
 
 #### Player Weapons
 
-The player begins the game with a sword weapon that does 1:1 damage. Every 3rd turn the player replaces their weapon with a brand new weapon  with damage between 1:1 to 1:7.
+The player begins the game with a sword weapon that does 1:1 damage. Every 3rd turn the player replaces their weapon with a brand new weapon with damage between 1:1 to 1:7.
 
 #### Player Weapon Armory
 
@@ -369,16 +369,15 @@ Ask the player which weapons they want to keep and which they want to discard. M
 
 #### Maze
 
-Create a series of rooms. Players can navigate the rooms by turning left and right. Keep the rooms in a 2-D array. 
+Create a series of rooms. Players can navigate the rooms by turning left and right. Keep the rooms in a 2-D array.
 
 ## Further Reading
 
 ### Helpful Videos
 
-1. [This](https://www.youtube.com/watch?v=pTB0EiLXUC8) video introduces key concepts of OOP \(encapsulation, abstraction, inheritance, and polymorphism\) without getting into much code.
+1. [This](https://www.youtube.com/watch?v=pTB0EiLXUC8) video introduces key concepts of OOP (encapsulation, abstraction, inheritance, and polymorphism) without getting into much code.
 2. [This](https://www.youtube.com/watch?v=7Dai8SJgLkM) video explains the same key concepts of OOP with more code examples.
 
 #### Four Pillars of OOP
 
 [https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/](https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/)
-

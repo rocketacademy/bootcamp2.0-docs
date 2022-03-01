@@ -1,12 +1,12 @@
-# CSS.2.6: Layout: Columns & Cards
+# CSS.2.6: Layout Col / Card
 
 ## Cards
 
-![](../../../.gitbook/assets/cards-layout.png)
+![](../../../old\_bootcamp\_docs/.gitbook/assets/cards-layout.png)
 
 Card design is when a set of boxes is displayed next to each other in a layout. One of the simplest ways to create this layout is to specify some fixed pixel width elements on the screen and give them `display` `inline-block.`
 
-![](../../../.gitbook/assets/cards.png)
+![](../../../old\_bootcamp\_docs/.gitbook/assets/cards.png)
 
 ```css
 <!doctype html>
@@ -57,7 +57,6 @@ Card design is when a set of boxes is displayed next to each other in a layout. 
     </div>
   </body>
 </html>
-
 ```
 
 ```css
@@ -90,7 +89,7 @@ img {
 
 Now we'll use `inline-block` to create column layouts.
 
-![](../../../.gitbook/assets/two-column.png)
+![](../../../old\_bootcamp\_docs/.gitbook/assets/two-column.png)
 
 ```markup
 <!doctype html>
@@ -111,7 +110,6 @@ Now we'll use `inline-block` to create column layouts.
     </div>
   </body>
 </html>
-
 ```
 
 ```css
@@ -139,4 +137,4 @@ body {
 
 ## Limitations
 
-Note that for all of these layouts, the alignment and size of the boxes is not perfect. For example, the column layout doesn't have equal-height boxes. The columns are not set to a perfect amount of percent \(i.e., 50%\) The card layout may be awkward looking at certain screen widths. For right now don't worry too much about all the boxes aligning perfectly. Some of these behaviours we will get for free in the Bootstrap CSS library and with flexbox layout.
+Note that for all of these layouts, the alignment and size of the boxes is not perfect. For example, the column layout doesn't have equal-height boxes. The columns are not set to a perfect amount of percent (i.e., 50%) The card layout may be awkward looking at certain screen widths. For right now don't worry too much about all the boxes aligning perfectly. Some of these behaviours we will get for free in the Bootstrap CSS library and with flexbox layout.

@@ -1,3 +1,4 @@
+
 |Day No.|Pre-Class|In-Class|Post-Class|
 | --- | --- | --- | --- |
 |<h2>Day 1</h2>|<li>[8.0: Module 8 Overview](day-1/pre-class/8.0-module-8-overview.md)</li><li>[8.1: Create React App](day-1/pre-class/8.1-create-react-app.md)</li><li>[8.1.1: Create React App Full Stack](day-1/pre-class/8.1.1-create-react-app-full-stack-setup.md)</li><li>[8.2: Higher Order Components](day-1/pre-class/8.3-higher-order-components.md)</li><br>|<br>|<li>[Project 5 Ideation Phase 1](day-1/post-class/project-5-group-react-app.md)</li><br>|
@@ -16,4 +17,3 @@
 |<h2>Day 14</h2>|<br>|<br>|<li>[Project 5 Implementation](day-14/post-class/project-5-group-react-app.md)</li><br>|
 |<h2>Day 15</h2>|<br>|<br>|<li>[Project 5 Implementation](day-15/post-class/project-5-group-react-app.md)</li><br>|
 |<h2>Day 16</h2>|<br>|<li>[Project 5 Presentations](day-16/in-class/project-5-group-react-app.md)</li><br>|<li>[Project 5 Post-Mortems](day-16/post-class/course-methodology.md)</li><li>[Project 5 Video](day-16/post-class/project-5-group-react-app.md)</li><br>|
-
