@@ -9,4 +9,11 @@
 |<h2>Day 7</h2>|<li>[8.8: React NPM Packages](day-7/pre-class/8.8-react-npm-packages.md)</li><br>|<br>|<li>[8.POCE.2: (Group Project) Climbing Trip](day-7/post-class/8.poce.2-rock-climbing-trip-planner.md)</li><br><li>[Project 5 Implementation](day-7/post-class/project-5-group-react-app.md)</li><br>|
 |<h2>Day 8</h2>|<br>|<br>|<li>[8.POCE.2: (Group Project) Climbing Trip](day-8/post-class/8.poce.2-rock-climbing-trip-planner.md)</li><br><li>[Project 5 Implementation](day-8/post-class/project-5-group-react-app.md)</li><br>|
 |<h2>Day 9</h2>|<br>|<li>[8.POCE.2: Climbing Trip Redux](day-9/in-class/8.poce.2-rock-climbing-trip-planner.md)</li><br>|<li>[Project 5 Implementation](day-9/post-class/project-5-group-react-app.md)</li><br>|
+|<h2>Day 10</h2>|<li>[IP.0: Interview Prep Overview](day-10/pre-class/ip.0-interview-prep-overview.md)</li><li>[IP.1: Job Application Strategy](day-10/pre-class/ip.1-job-application-strategy.md)</li><li>[IP.2: Resume](day-10/pre-class/ip.2-resume.md)</li><br>|<br>|<li>[Project 5 Implementation](day-10/post-class/project-5-group-react-app.md)</li><br>|
+|<h2>Day 11</h2>|<br>|<br>|<li>[Project 5 Implementation](day-11/post-class/project-5-group-react-app.md)</li><br>|
+|<h2>Day 12</h2>|<br>|<br>|<li>[Project 5 Implementation](day-12/post-class/project-5-group-react-app.md)</li><br>|
+|<h2>Day 13</h2>|<br>|<br>|<li>[Project 5 Implementation](day-13/post-class/project-5-group-react-app.md)</li><br>|
+|<h2>Day 14</h2>|<br>|<br>|<li>[Project 5 Implementation](day-14/post-class/project-5-group-react-app.md)</li><br>|
+|<h2>Day 15</h2>|<br>|<br>|<li>[Project 5 Implementation](day-15/post-class/project-5-group-react-app.md)</li><br>|
+|<h2>Day 16</h2>|<br>|<li>[Project 5 Presentations](day-16/in-class/project-5-group-react-app.md)</li><br>|<li>[Project 5 Post-Mortems](day-16/post-class/course-methodology.md)</li><li>[Project 5 Video](day-16/post-class/project-5-group-react-app.md)</li><br>|
 

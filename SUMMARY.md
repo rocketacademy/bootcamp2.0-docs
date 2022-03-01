@@ -17,6 +17,7 @@
 
 
 
+
 ## Module 1: Basic Frontend
 
 - [Module Summary](module-1-basic-frontend/README.md)
@@ -628,6 +629,46 @@
     * [8.POCE.2: Climbing Trip Redux](module-5-advanced-react/day-9/in-class/8.poce.2-rock-climbing-trip-planner.md)
   - Post Class
     * [Project 5 Implementation](module-5-advanced-react/day-9/post-class/project-5-group-react-app.md)
+- Day 10
+  - Pre Class
+    * [IP.0: Interview Prep Overview](module-5-advanced-react/day-10/pre-class/ip.0-interview-prep-overview.md)
+    * [IP.1: Job Application Strategy](module-5-advanced-react/day-10/pre-class/ip.1-job-application-strategy.md)
+    * [IP.2: Resume](module-5-advanced-react/day-10/pre-class/ip.2-resume.md)
+  - In Class
+  - Post Class
+    * [Project 5 Implementation](module-5-advanced-react/day-10/post-class/project-5-group-react-app.md)
+- Day 11
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 5 Implementation](module-5-advanced-react/day-11/post-class/project-5-group-react-app.md)
+- Day 12
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 5 Implementation](module-5-advanced-react/day-12/post-class/project-5-group-react-app.md)
+- Day 13
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 5 Implementation](module-5-advanced-react/day-13/post-class/project-5-group-react-app.md)
+- Day 14
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 5 Implementation](module-5-advanced-react/day-14/post-class/project-5-group-react-app.md)
+- Day 15
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 5 Implementation](module-5-advanced-react/day-15/post-class/project-5-group-react-app.md)
+- Day 16
+  - Pre Class
+  - In Class
+    * [Project 5 Presentations](module-5-advanced-react/day-16/in-class/project-5-group-react-app.md)
+  - Post Class
+    * [Project 5 Post-Mortems](module-5-advanced-react/day-16/post-class/course-methodology.md)
+    * [Project 5 Video](module-5-advanced-react/day-16/post-class/project-5-group-react-app.md)
 
 ## Module 6: Capstone Project
 
@@ -655,8 +696,6 @@
   - Pre Class
   - In Class
   - Post Class
-    * [Project 5 Post-Mortems](module-6-capstone-project/day-3/post-class/course-methodology.md)
-    * [Project 5 Video](module-6-capstone-project/day-3/post-class/project-5-group-react-app.md)
     * [Project 6 Ideation Phase 1](module-6-capstone-project/day-3/post-class/project-6-capstone.md)
 - Day 4
   - Pre Class
@@ -696,11 +735,37 @@
   - In Class
   - Post Class
     * [Project 6 Implementation](module-6-capstone-project/day-10/post-class/project-6-capstone.md)
-
-
-
-
-
+- Day 11
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 6 Implementation](module-6-capstone-project/day-11/post-class/project-6-capstone.md)
+- Day 12
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 6 Implementation](module-6-capstone-project/day-12/post-class/project-6-capstone.md)
+- Day 13
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 6 Implementation](module-6-capstone-project/day-13/post-class/project-6-capstone.md)
+- Day 14
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 6 Implementation](module-6-capstone-project/day-14/post-class/project-6-capstone.md)
+- Day 15
+  - Pre Class
+  - In Class
+  - Post Class
+    * [Project 6 Implementation](module-6-capstone-project/day-15/post-class/project-6-capstone.md)
+- Day 16
+  - Pre Class
+  - In Class
+    * [Project 6 Presentations](module-6-capstone-project/day-16/in-class/project-6-capstone.md)
+  - Post Class
+    * [Project 6 Post Mortems](module-6-capstone-project/day-16/post-class/course-methodology.md)
 
 ## Algorithms
 - [Algorithms](algos/README.md)

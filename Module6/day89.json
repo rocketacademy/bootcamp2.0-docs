@@ -59,26 +59,11 @@
                }
             ]
          },
-         "projectDue": {
-            "items": [
-               {
-                  "name": "Due: Project 5 Presentations",
-                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-presentations"
-               }
-            ]
-         },
          "preClass": {},
          "inClass": {},
          "postClass": {
             "items": [
-               {
-                  "name": "Project 5 Post-Mortems",
-                  "url": "https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting"
-               },
-               {
-                  "name": "Project 5 Video",
-                  "url": "https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#video-demo"
-               },
+            
                {
                   "name": "Project 6 Ideation Phase 1",
                   "url": "https://bootcamp.rocketacademy.co/projects/project-6-capstone#ideation-phase-1"
