@@ -8,7 +8,7 @@ Before we begin compiling our application documents (portfolio, resume, cover le
 
 Please keep in mind the below points throughout the job application process.
 
-1. **You are a software engineer, not an "aspiring" software engineer. **You have the skills to build software. All software engineers are learning. You are already a software engineer and can present yourself as one on your LinkedIn, resume, and when meeting employers.
+1. \*\*You are a software engineer, not an "aspiring" software engineer. \*\*You have the skills to build software. All software engineers are learning. You are already a software engineer and can present yourself as one on your LinkedIn, resume, and when meeting employers.
 2. **You will get rejections.** This is normal. Take them as a learning experience and address any mistakes you made at future interviews. Sometimes we may not make any mistakes and still get rejected.
 3. **You only need 1 company to say yes.** There are always more companies to apply to. Everyone is hiring software engineers.
 4. **There is no need to accept the first offers you get if you're not satisfied.** You can afford to wait. Everyone is hiring software engineers.
@@ -28,7 +28,7 @@ Coding Bootcamp prepares graduates for full-stack software engineering roles. Th
 RA's Bootcamp equips graduates to succeed at any entry-level software engineering role, regardless of company. Check out [RA's blog post on the various companies that hire SWEs in SG](https://www.rocketacademy.co/blog/software-engineering-jobs-in-singapore).
 
 1. Do you prefer the tigher-knit culture of a startup or the scale that comes with working for a bigger company?
-2. Do you prefer dipping your toes into multiple industries at a software agency, or working hard on a part of a single product over multiple years? 
+2. Do you prefer dipping your toes into multiple industries at a software agency, or working hard on a part of a single product over multiple years?
 3. Would you enjoy working at a "non-tech" company where software may not be their focus?
 
 ### How will you find the jobs you're looking for?
@@ -49,9 +49,9 @@ Here are some of the best ways to find jobs you might enjoy.
       7. [NodeFlair](https://www.nodeflair.com/jobs)
    3. Feel free to connect with recruiters or engineers on LinkedIn that work for the companies you are interested in. This is what RA does behind the scenes. When connecting with them, **always leave a note with a personal message.** This greatly increases the chances they will respond to you.
 
-![When you click Connect on someone's LinkedIn profile, always choose to "Add a note".](../.gitbook/assets/jie-ping-20210304-17.47.35.png)
+![When you click Connect on someone's LinkedIn profile, always choose to "Add a note".](../old\_bootcamp\_docs/.gitbook/assets/jie-ping-20210304-17.47.35.png)
 
-![Always leave a personal message when connecting with others on LinkedIn.](../.gitbook/assets/jie-ping-20210304-17.51.53.png)
+![Always leave a personal message when connecting with others on LinkedIn.](../old\_bootcamp\_docs/.gitbook/assets/jie-ping-20210304-17.51.53.png)
 
 ### How to filter jobs on job portals
 
@@ -59,13 +59,13 @@ Here are some ways to filter jobs on job portals.
 
 1. Look for roles tagged as "entry-level", but don't hesitate to apply for jobs that are more senior if the role interests you. It doesn't hurt to apply - worst case they ignore you.
 2. There is no need to search for "junior" in the job title. Most reputable companies do not have a "Junior Engineer" role, only Software Engineer and subsequently Senior Software Engineer. Companies looking for "junior software engineers" typically don't have strong tech teams and are looking for cheaper labour.
-3. Don't worry too much about job requirements. Often job requirements are written by recruiters that include many "nice to haves", but in reality the team would accept someone that fulfils the "need to haves" and not all of the "nice to haves". When in doubt, apply. 
+3. Don't worry too much about job requirements. Often job requirements are written by recruiters that include many "nice to haves", but in reality the team would accept someone that fulfils the "need to haves" and not all of the "nice to haves". When in doubt, apply.
 
 ### How to apply to jobs strategically
 
-1. Once you have your application documents (portfolio, resume, cover letters, initial job list) ready, apply to jobs you are relatively less interested in first. This will help you warm up your interview skills before applying to the companies you are more interested in. 
+1. Once you have your application documents (portfolio, resume, cover letters, initial job list) ready, apply to jobs you are relatively less interested in first. This will help you warm up your interview skills before applying to the companies you are more interested in.
 2. If you aren't getting offers from the earlier companies, take time to practise what you feel you're lacking and slowly but steadily apply to more companies on your list until you can get offers.
-3. Once you start getting offers, try to apply to more companies in quicker succession. This is because it's best to receive multiple offers around the same time, so that you have more negotiating power with the companies that offer you jobs. 
+3. Once you start getting offers, try to apply to more companies in quicker succession. This is because it's best to receive multiple offers around the same time, so that you have more negotiating power with the companies that offer you jobs.
 4. If you receive an offer from a company you're less interested in and they're pressuring you to accept their offer before you can interview at companies you're more interested in, consider turning them down. Every company is hiring software engineers, and there are always more software engineering jobs. We do not need to accept a job we do not like.
 5. Try hard for each job, but don't worry too much about submitting the perfect job application or take-home assignment for any given job. The job application process is a numbers game. We can get rejected for many reasons, and the best way to maximise our chances is to apply to more jobs.
 

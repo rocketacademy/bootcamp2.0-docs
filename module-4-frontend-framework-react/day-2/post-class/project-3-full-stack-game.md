@@ -1,8 +1,8 @@
-# Project 3: Full-Stack Game
+# Project 3 Video Demo
 
 ## Introduction
 
-This app is a continuation of [Project 2: Server Side App](project-2-server-side-app.md). We are spreading the logic and computation across 2 computers, the server computer and the user's computer. The underlying mechanic of request and response happening across the network is still the same.
+This app is a continuation of [Project 2: Server Side App](../../../Module3/day13/postclass/project-2-server-side-app.md). We are spreading the logic and computation across 2 computers, the server computer and the user's computer. The underlying mechanic of request and response happening across the network is still the same.
 
 You will implement a card game or turn based card-type game. The user or users will be identified by the system and be able to play a game where the server remembers something about the user and the game cannot be cheated by opening the browser dev tools.
 
@@ -91,15 +91,15 @@ The app and all its features should run without errors. Brief demo in class to d
 
 ## Project Presentations
 
-Presentations should cover the [topics in this list](../course-logistics/course-methodology.md#project-presentations).
+Presentations should cover the [topics in this list](../../../Module3/day13/course-logistics/course-methodology.md#project-presentations).
 
 ## Post-Mortem Meeting
 
-Please answer the [project post-mortem questions](../course-logistics/course-methodology.md#project-post-mortem-meeting) before the post-mortem meeting with your instructor. These questions will be similar to the presentation questions, but we will dig deeper into your code.
+Please answer the [project post-mortem questions](../../../Module3/day13/course-logistics/course-methodology.md#project-post-mortem-meeting) before the post-mortem meeting with your instructor. These questions will be similar to the presentation questions, but we will dig deeper into your code.
 
 ## Video Demo
 
-Please follow [video demo guidelines here](../course-logistics/course-methodology.md#project-videos).
+Please follow [video demo guidelines here](../../../Module3/day13/course-logistics/course-methodology.md#project-videos).
 
 ## Project Submission and Past Student Projects
 

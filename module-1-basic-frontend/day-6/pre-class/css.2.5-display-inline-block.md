@@ -1,4 +1,4 @@
-# CSS.2.5: Display: Inline Block
+# CSS.2.5: Display Inline Block
 
 `inline-block` `display` style is used when we want to have box (block) like boxes next to each other in a layout.
 
@@ -32,13 +32,13 @@ body {
 }
 ```
 
-![](../../../.gitbook/assets/inline-block.png)
+![](../../../old\_bootcamp\_docs/.gitbook/assets/inline-block.png)
 
 #### Properties of `inline-block`
 
-- unlike `inline`, vertical margins and padding can be set on inline-block elements
-- unlike `inline`, elements do not break within themselves to a new line.
-- unlike `block`, the element does not take up 100% width by default.
+* unlike `inline`, vertical margins and padding can be set on inline-block elements
+* unlike `inline`, elements do not break within themselves to a new line.
+* unlike `block`, the element does not take up 100% width by default.
 
 ## CSS Layout Gotchas
 
@@ -50,4 +50,4 @@ When using `inline-block`, whitespace in the HTML can affect the spacing of elem
 
 ## Further Reading
 
-Video on block, inline-block (also includes position fixed and absolute): [https://www.youtube.com/watch?v=x_i2gga-sYg](https://www.youtube.com/watch?v=x_i2gga-sYg)
+Video on block, inline-block (also includes position fixed and absolute): [https://www.youtube.com/watch?v=x\_i2gga-sYg](https://www.youtube.com/watch?v=x\_i2gga-sYg)
