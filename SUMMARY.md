@@ -281,7 +281,6 @@
   * [Pre Class](module-2-basic-backend/day-11/pre-class.md)
   * [In Class](module-2-basic-backend/day-11/in-class/README.md)
     * [Due: Project 2 Ideation Phase 2](module-2-basic-backend/day-11/in-class/project-2-server-side-app.md)
-    *
   * [Post Class](module-2-basic-backend/day-11/post-class/README.md)
     * [Project 2 Implementation](module-2-basic-backend/day-11/post-class/project-2-server-side-app.md)
 * [Day 12](module-2-basic-backend/day-12/README.md)
@@ -294,7 +293,6 @@
   * [In Class](module-2-basic-backend/day-13/in-class.md)
   * [Post Class](module-2-basic-backend/day-13/post-class/README.md)
     * [Project 2 Mid-Point Instructor Meeting (30 minutes)](module-2-basic-backend/day-13/post-class/project-2-server-side-app.md)
-    *
 * [Day 14](module-2-basic-backend/day-14/README.md)
   * [Pre Class](module-2-basic-backend/day-14/pre-class.md)
   * [In Class](module-2-basic-backend/day-14/in-class.md)
@@ -625,44 +623,44 @@
     * [8.POCE.2: Climbing Trip Redux](module-5-advanced-react/day-9/in-class/8.poce.2-rock-climbing-trip-planner.md)
   * [Post Class](module-5-advanced-react/day-9/post-class/README.md)
     * [Project 5 Implementation](module-5-advanced-react/day-9/post-class/project-5-group-react-app.md)
-- Day 10
-  - Pre Class
+* [Day 10](module-5-advanced-react/day-10/README.md)
+  * [Pre Class](module-5-advanced-react/day-10/pre-class/README.md)
     * [IP.0: Interview Prep Overview](module-5-advanced-react/day-10/pre-class/ip.0-interview-prep-overview.md)
     * [IP.1: Job Application Strategy](module-5-advanced-react/day-10/pre-class/ip.1-job-application-strategy.md)
     * [IP.2: Resume](module-5-advanced-react/day-10/pre-class/ip.2-resume.md)
-  - In Class
-  - Post Class
+  * [In Class](module-5-advanced-react/day-10/in-class.md)
+  * [Post Class](module-5-advanced-react/day-10/post-class/README.md)
     * [Project 5 Implementation](module-5-advanced-react/day-10/post-class/project-5-group-react-app.md)
-- Day 11
-  - Pre Class
-  - In Class
-  - Post Class
+* [Day 11](module-5-advanced-react/day-11/README.md)
+  * [Pre Class](module-5-advanced-react/day-11/pre-class.md)
+  * [In Class](module-5-advanced-react/day-11/in-class.md)
+  * [Post Class](module-5-advanced-react/day-11/post-class/README.md)
     * [Project 5 Implementation](module-5-advanced-react/day-11/post-class/project-5-group-react-app.md)
-- Day 12
-  - Pre Class
-  - In Class
-  - Post Class
+* [Day 12](module-5-advanced-react/day-12/README.md)
+  * [Pre Class](module-5-advanced-react/day-12/pre-class.md)
+  * [In Class](module-5-advanced-react/day-12/in-class.md)
+  * [Post Class](module-5-advanced-react/day-12/post-class/README.md)
     * [Project 5 Implementation](module-5-advanced-react/day-12/post-class/project-5-group-react-app.md)
-- Day 13
-  - Pre Class
-  - In Class
-  - Post Class
+* [Day 13](module-5-advanced-react/day-13/README.md)
+  * [Pre Class](module-5-advanced-react/day-13/pre-class.md)
+  * [In Class](module-5-advanced-react/day-13/in-class.md)
+  * [Post Class](module-5-advanced-react/day-13/post-class/README.md)
     * [Project 5 Implementation](module-5-advanced-react/day-13/post-class/project-5-group-react-app.md)
-- Day 14
-  - Pre Class
-  - In Class
-  - Post Class
+* [Day 14](module-5-advanced-react/day-14/README.md)
+  * [Pre Class](module-5-advanced-react/day-14/pre-class.md)
+  * [In Class](module-5-advanced-react/day-14/in-class.md)
+  * [Post Class](module-5-advanced-react/day-14/post-class/README.md)
     * [Project 5 Implementation](module-5-advanced-react/day-14/post-class/project-5-group-react-app.md)
-- Day 15
-  - Pre Class
-  - In Class
-  - Post Class
+* [Day 15](module-5-advanced-react/day-15/README.md)
+  * [Pre Class](module-5-advanced-react/day-15/pre-class.md)
+  * [In Class](module-5-advanced-react/day-15/in-class.md)
+  * [Post Class](module-5-advanced-react/day-15/post-class/README.md)
     * [Project 5 Implementation](module-5-advanced-react/day-15/post-class/project-5-group-react-app.md)
-- Day 16
-  - Pre Class
-  - In Class
+* [Day 16](module-5-advanced-react/day-16/README.md)
+  * [Pre Class](module-5-advanced-react/day-16/pre-class.md)
+  * [In Class](module-5-advanced-react/day-16/in-class/README.md)
     * [Project 5 Presentations](module-5-advanced-react/day-16/in-class/project-5-group-react-app.md)
-  - Post Class
+  * [Post Class](module-5-advanced-react/day-16/post-class/README.md)
     * [Project 5 Post-Mortems](module-5-advanced-react/day-16/post-class/course-methodology.md)
     * [Project 5 Video](module-5-advanced-react/day-16/post-class/project-5-group-react-app.md)
 
@@ -688,7 +686,6 @@
   * [In Class](module-6-capstone-project/day-2/in-class.md)
   * [Post Class](module-6-capstone-project/day-2/post-class/README.md)
     * [Project 5 Implementation](module-6-capstone-project/day-2/post-class/project-5-group-react-app.md)
-
 * [Day 3](module-6-capstone-project/day-3/README.md)
   * [Pre Class](module-6-capstone-project/day-3/pre-class.md)
   * [In Class](module-6-capstone-project/day-3/in-class.md)
@@ -713,7 +710,6 @@
   * [In Class](module-6-capstone-project/day-6/in-class.md)
   * [Post Class](module-6-capstone-project/day-6/post-class/README.md)
     * [Project 6 Implementation](module-6-capstone-project/day-6/post-class/project-6-capstone.md)
-    *
 * [Day 7](module-6-capstone-project/day-7/README.md)
   * [Pre Class](module-6-capstone-project/day-7/pre-class.md)
   * [In Class](module-6-capstone-project/day-7/in-class.md)
@@ -734,36 +730,36 @@
   * [In Class](module-6-capstone-project/day-10/in-class.md)
   * [Post Class](module-6-capstone-project/day-10/post-class/README.md)
     * [Project 6 Implementation](module-6-capstone-project/day-10/post-class/project-6-capstone.md)
-- Day 11
-  - Pre Class
-  - In Class
-  - Post Class
+* [Day 11](module-6-capstone-project/day-11/README.md)
+  * [Pre Class](module-6-capstone-project/day-11/pre-class.md)
+  * [In Class](module-6-capstone-project/day-11/in-class.md)
+  * [Post Class](module-6-capstone-project/day-11/post-class/README.md)
     * [Project 6 Implementation](module-6-capstone-project/day-11/post-class/project-6-capstone.md)
-- Day 12
-  - Pre Class
-  - In Class
-  - Post Class
+* [Day 12](module-6-capstone-project/day-12/README.md)
+  * [Pre Class](module-6-capstone-project/day-12/pre-class.md)
+  * [In Class](module-6-capstone-project/day-12/in-class.md)
+  * [Post Class](module-6-capstone-project/day-12/post-class/README.md)
     * [Project 6 Implementation](module-6-capstone-project/day-12/post-class/project-6-capstone.md)
-- Day 13
-  - Pre Class
-  - In Class
-  - Post Class
+* [Day 13](module-6-capstone-project/day-13/README.md)
+  * [Pre Class](module-6-capstone-project/day-13/pre-class.md)
+  * [In Class](module-6-capstone-project/day-13/in-class.md)
+  * [Post Class](module-6-capstone-project/day-13/post-class/README.md)
     * [Project 6 Implementation](module-6-capstone-project/day-13/post-class/project-6-capstone.md)
-- Day 14
-  - Pre Class
-  - In Class
-  - Post Class
+* [Day 14](module-6-capstone-project/day-14/README.md)
+  * [Pre Class](module-6-capstone-project/day-14/pre-class.md)
+  * [In Class](module-6-capstone-project/day-14/in-class.md)
+  * [Post Class](module-6-capstone-project/day-14/post-class/README.md)
     * [Project 6 Implementation](module-6-capstone-project/day-14/post-class/project-6-capstone.md)
-- Day 15
-  - Pre Class
-  - In Class
-  - Post Class
+* [Day 15](module-6-capstone-project/day-15/README.md)
+  * [Pre Class](module-6-capstone-project/day-15/pre-class.md)
+  * [In Class](module-6-capstone-project/day-15/in-class.md)
+  * [Post Class](module-6-capstone-project/day-15/post-class/README.md)
     * [Project 6 Implementation](module-6-capstone-project/day-15/post-class/project-6-capstone.md)
-- Day 16
-  - Pre Class
-  - In Class
+* [Day 16](module-6-capstone-project/day-16/README.md)
+  * [Pre Class](module-6-capstone-project/day-16/pre-class.md)
+  * [In Class](module-6-capstone-project/day-16/in-class/README.md)
     * [Project 6 Presentations](module-6-capstone-project/day-16/in-class/project-6-capstone.md)
-  - Post Class
+  * [Post Class](module-6-capstone-project/day-16/post-class/README.md)
     * [Project 6 Post Mortems](module-6-capstone-project/day-16/post-class/course-methodology.md)
 
 ## Algorithms
