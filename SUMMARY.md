@@ -703,7 +703,7 @@
 
 
 ## Algorithms
-- Algorithms
+- [Algorithms](algos/README.md)
   - Day 1
     * [A.2: Intro to Python (Exercises 1-8)](algos/day1/a.2-intro-to-python.md)
     * [A.1: Intro to SWE Interviews](algos/day1/a.1-intro-to-swe-interviews.md)
