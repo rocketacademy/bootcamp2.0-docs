@@ -1,4 +1,3 @@
-
 |Day No.|Pre-Class|In-Class|Post-Class|
 | --- | --- | --- | --- |
 |<h2>Day 1</h2>|<li>[8.0: Module 8 Overview](day-1/pre-class/8.0-module-8-overview.md)</li><li>[8.1: Create React App](day-1/pre-class/8.1-create-react-app.md)</li><li>[8.1.1: Create React App Full Stack](day-1/pre-class/8.1.1-create-react-app-full-stack-setup.md)</li><li>[8.2: Higher Order Components](day-1/pre-class/8.3-higher-order-components.md)</li><br>|<br>|<li>[Project 5 Ideation Phase 1](day-1/post-class/project-5-group-react-app.md)</li><br>|

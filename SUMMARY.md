@@ -688,19 +688,13 @@
   * [In Class](module-6-capstone-project/day-2/in-class.md)
   * [Post Class](module-6-capstone-project/day-2/post-class/README.md)
     * [Project 5 Implementation](module-6-capstone-project/day-2/post-class/project-5-group-react-app.md)
-<<<<<<< HEAD
-- Day 3
-  - Pre Class
-  - In Class
-  - Post Class
-=======
+
 * [Day 3](module-6-capstone-project/day-3/README.md)
   * [Pre Class](module-6-capstone-project/day-3/pre-class.md)
   * [In Class](module-6-capstone-project/day-3/in-class.md)
   * [Post Class](module-6-capstone-project/day-3/post-class/README.md)
     * [Project 5 Post-Mortems](module-6-capstone-project/day-3/post-class/course-methodology.md)
     * [Project 5 Video](module-6-capstone-project/day-3/post-class/project-5-group-react-app.md)
->>>>>>> e25d32c35f182b3027690b74da032f4a10c1d78e
     * [Project 6 Ideation Phase 1](module-6-capstone-project/day-3/post-class/project-6-capstone.md)
 * [Day 4](module-6-capstone-project/day-4/README.md)
   * [Pre Class](module-6-capstone-project/day-4/pre-class.md)
