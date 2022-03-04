@@ -161,7 +161,9 @@ _**Gestalt thinking**_ refers to learning many small things and putting them tog
 
 </details>
 
-## Bootcamp Structure
+## Course Syllabus
+
+## Modules 1-3: Bootcamp Foundation&#x20;
 
 The first 3 modules builds knowledge of web applications from the ground up, starting with running a simple one-line program and building up to a complex internet and data-backed application. Even though some of the content is not the latest industry-relevant technologies, these modules provide fundamental knowledge and practice in how the disparate parts of modern web applications are constructed, by constructing one yourself, piece-by-piece.
 
@@ -194,7 +196,7 @@ In this module, you will learn to write a front end that interacts with the back
 * MVC
 * Managed cloud deployment with Heroku
 
-
+## Modules 4-6: Latest Technologies
 
 ### Module 4: Frontend Framework - React
 
@@ -214,40 +216,30 @@ Going deeper into React this module is the summation of all previous material, c
 
 You are a software engineer, capable of exploring and learning new things. This is also a module where the practical aspects of Job Interview Preparation is done.
 
-* Learn new frameworks, libraries, technologies.
+* With the assistance and advice of your SL and Rocket Staff, you will choose and learn new frameworks, libraries, technologies.
 * Create something new to complete your transition into a Software Engineer.
 * Interview Preparation: Resume, and Portfolio
 
-### Syllabus
 
-Rocket's Bootcamp syllabus is divided into 6
 
-### Projects
-
-| Project | Name                                                                                   |
-| ------- | -------------------------------------------------------------------------------------- |
-| 1       | [Video Poker](projects/project-1-video-poker.md)                                       |
-| 2       | [Server-Side Web Application](projects/project-2-server-side-app.md)                   |
-| 3       | [Full-Stack Game](projects/project-3-full-stack-game.md)                               |
-| 4       | [Full-Stack React App](projects/project-4-full-stack-react-app.md)                     |
-| 5       | [Advanced Full-Stack React App (Group Project)](projects/project-5-group-react-app.md) |
-| 6       | [Capstone](projects/project-6-capstone.md)                                             |
+## Projects
 
 #### Project Requirements
 
-The goal of each project is to demonstrate working knowledge of the the concepts learned in the previous modules.
+Each module culminates in a project. The goal of each project is to demonstrate working knowledge of the the concepts learned in the module.
 
 Project completion is a requirement to continue in bootcamp.
 
 If any project is not completed up to the given project requirements, that student may no longer be eligible to continue in bootcamp.
 
-### Schedule
-
-Students are expected to spend a minimum of 8 hours a day (ideally from 10am-6pm) on weekdays on coursework. This includes the 2 hours of live sessions from 10am-12pm GMT+8.
-
-Our schedule is organised by Course Days and Schedule Days. Course Days mark days of the course from 1.1 to 23.5. Schedule Days correspond to calendar days, e.g. Week 13 Day 4, where each Schedule Day has a designated Course Day except for public holidays during the course. Please see the Batch X Schedule page for your batch's schedule, where X is your batch number.
-
-The Course Weeks pages list deliverables for each day of the course. Deliverables typically consist of videos, reading, and coding exercises. Each day's deliverables are due by the **start** of the day's class. We work on exercises based on each day's deliverables in pairs during class.
+| Project | Name                                                                                                                    |
+| ------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 1       | [Video Poker](module-1-basic-frontend/day-7/post-class/project-1-video-poker.md)                                        |
+| 2       | [Server-Side Web Application](module-2-basic-backend/day-11/post-class/project-2-server-side-app.md)                    |
+| 3       | [Full-Stack Game](module-3-advanced-backend-and-full-stack/day-11/post-class/project-3-full-stack-game.md)              |
+| 4       | [Full-Stack React App](module-4-frontend-framework-react/day-12/post-class/project-4-full-stack-react-app.md)           |
+| 5       | [Advanced Full-Stack React App (Group Project)](module-5-advanced-react/day-10/post-class/project-5-group-react-app.md) |
+| 6       | [Capstone](module-6-capstone-project/day-11/post-class/project-6-capstone.md)                                           |
 
 ### Class Agenda
 
