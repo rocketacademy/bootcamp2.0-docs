@@ -252,7 +252,7 @@
 * [Day 8](module-2-basic-backend/day-8/README.md)
   * [Pre Class](module-2-basic-backend/day-8/pre-class/README.md)
     * [3.3.4: Inner Join](module-2-basic-backend/day-8/pre-class/3.3.4-inner-join.md)
-    * [3.3.5: Non-FK Relationship Data in Join Table](module-2-basic-backend/day-8/pre-class/3.3.2-sql-relationships-one-to-many.md)
+    * [3.3.5: Non-FK Relationship Data in Join Table](module-2-basic-backend/day-8/pre-class/3.3.5-non-fk-relationship-data-in-join-table.md) 
   * [In Class](module-2-basic-backend/day-8/in-class/README.md)
     * [3.ICE.6: Inner Joins](module-2-basic-backend/day-8/in-class/3.ice.6-inner-join.md)
     * [3.ICE.8: Multiple Foreign Keys](module-2-basic-backend/day-8/in-class/3.ice.8-multi-foreign-key.md)
