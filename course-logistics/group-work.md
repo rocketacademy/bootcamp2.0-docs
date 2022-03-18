@@ -6,7 +6,7 @@ The workflow when coding in a group is different from coding alone. This module 
 
 ## Principles
 
-![](../Module3/day10/.gitbook/assets/team-comms.png)
+![](../.gitbook/assets/team-comms.png)
 
 Working closely on a technical project in a group can be challenging. Not only as a coding challenge but as an exercise in communication. As teams get bigger, the communication necessary for coordination does not grow at the same linear rate.
 
@@ -38,7 +38,7 @@ Wireframes show visually how the user will accomplish the tasks described in the
 
 ### Kanban Board
 
-![](../Module3/day10/.gitbook/assets/kanb.png)
+![](../.gitbook/assets/kanb.png)
 
 A Kanban board is a team document that is used for planning, to show what each team member is working on, and to show what parts of the project are already done.
 
@@ -62,7 +62,7 @@ For done tasks.
 
 ## Git Workflow
 
-One member of the team will create a GitHub repo and invite the other collaborators. See [2.15 Git Branches](../Module3/day10/0-language-and-tooling/0.5-advanced-git/0.5.2-git-branches.md) and [2.ICE.7.](../Module3/day10/0-language-and-tooling/0.ice-in-class-exercises/0.ice.1-git-branches.md)
+One member of the team will create a GitHub repo and invite the other collaborators. 
 
 For each task in the Kanban board create a new feature branch by checking out from `main`. Name the branch after the task. When a feature is done, push the feature branch to GitHub, create a pull request and merge the code into `main` from the PR in GitHub.
 
