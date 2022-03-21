@@ -6,7 +6,7 @@ When we create our CSS layouts we'll be using container elements. These will for
 
 Given this HTML:
 
-```markup
+```html
 <!doctype html>
 <html lang="en">
   <head>

@@ -174,6 +174,7 @@
 * [Day 16](module-1-basic-frontend/day-16/README.md)
 * Supplemental Material
   * [Spread Operator](module-1-basic-frontend/supplemental-material/0.2.3-es6-destructuring-spread-operators.md)
+  * [Flexbox](module-1-basic-frontend/supplemental-material/css.3-flexbox/README.md)
   
 
 ## Module 2: Basic Backend
