@@ -172,11 +172,9 @@
     * [2.POCE.4: File Server](module-1-basic-frontend/day-15/post-class/2.poce.4-file-server.md)
     * [Project 1 Implementation](module-1-basic-frontend/day-15/post-class/project-1-video-poker.md)
 * [Day 16](module-1-basic-frontend/day-16/README.md)
-  * [Pre Class](module-1-basic-frontend/day-16/pre-class.md)
-  * [In Class](module-1-basic-frontend/day-16/in-class/README.md)
-    * [Project 1 Presentations](module-1-basic-frontend/day-16/in-class/project-1-video-poker.md)
-  * [Post Class](module-1-basic-frontend/day-16/post-class/README.md)
-    * [Project 1 Post-Mortems](module-1-basic-frontend/day-16/post-class/course-methodology.md)
+* Supplemental Material
+  * [Spread Operator](module-1-basic-frontend/supplemental-material/0.2.3-es6-destructuring-spread-operators.md)
+  
 
 ## Module 2: Basic Backend
 
