@@ -73,7 +73,7 @@ You cannot set width & height on inline elements.
 
 You cannot set percentage height, unless the parent container has a fixed size.
 
-Without [flexbox](../../supplemental-material/css.3-flexbox/README.md), writing CSS that vertically centers boxes is difficult / not recommended.
+Without [flexbox](../../day-8/pre-class/css.3-flexbox.md), writing CSS that vertically centers boxes is difficult / not recommended.
 
 ### Seeing and Manipulating the Box
 

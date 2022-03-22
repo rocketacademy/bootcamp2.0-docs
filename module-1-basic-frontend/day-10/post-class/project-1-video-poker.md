@@ -17,7 +17,7 @@ Fork and clone the [Video Poker Repo](https://github.com/rocketacademy/video-pok
 ### Primary Game Logic
 
 1. Create an empty helper function called `calcHandScore` that returns a fixed number of points for now, e.g. 1.
-   1. Use [JSDoc function commenting](../../../Module1/day16/course-logistics/tools-syntax-and-glossary.md#jsdoc) with the following attributes.
+   1. Use [JSDoc function commenting](../../../course-logistics/tools-syntax-and-glossary.md) with the following attributes.
       1. Description of function
       2. Description of each parameter
       3. Description of return value
@@ -36,7 +36,7 @@ Fork and clone the [Video Poker Repo](https://github.com/rocketacademy/video-pok
 1. After we have a playable version of the game, add logic to `calcHandScore`.
    1. Add logic for detecting each hand (e.g. full-house, flush, 2 pair) 1 at a time.
    2. Test the logic for each hand before moving onto the next hand.
-   3. Consider using a JS Object to track frequencies of specific ranks or suits. This might make it easier to detect hands such as flushes, full houses, and X-of-a-kind. See [0.4: JS Object as Tally](../../../Module1/day16/0-language-and-tooling/0.4-js-object-as-tally.md) for an example.
+   3. Consider using a JS Object to track frequencies of specific ranks or suits. This might make it easier to detect hands such as flushes, full houses, and X-of-a-kind. See [0.4: JS Object as Tally](../../day-6/pre-class/0.4-js-object-as-tally.md) for an example.
 2. Hard-code the arrays of card objects we will need to test our logic.
    1. Put these test hands in a separate file, e.g. `testHands.js`.
 3. Don't forget to test the negative cases, e.g. do we still win/lose the right number of points if we don't get the hand we are currently testing?

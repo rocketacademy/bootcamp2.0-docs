@@ -4,7 +4,7 @@
 
 [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) is an alternative and often more convenient system for CSS layout.
 
-Also see the section on [column layouts using flexbox here.](../../../Module1/day8/preclass/css.3.1-flexbox-layout.md)
+Also see the section on [column layouts using flexbox here.](css.3.1-flexbox-layout.md)
 
 ## Distributing Boxes
 

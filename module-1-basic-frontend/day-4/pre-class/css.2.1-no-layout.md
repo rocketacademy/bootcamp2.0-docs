@@ -4,7 +4,7 @@ If we want to put a basic vertical document on the page we can just put elements
 
 ![](../../../old\_bootcamp\_docs/.gitbook/assets/layout-ex-1.png)
 
-```markup
+```html
 <!doctype html>
 <html lang="en">
   <head>

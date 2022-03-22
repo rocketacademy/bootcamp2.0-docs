@@ -31,7 +31,7 @@ Here are some example default display values:
 
 Given the following example:
 
-```markup
+```html
 <span>span 1 inline</span>
 <h2>h two 1 : block</h2>
 <span>span 2 inline</span>

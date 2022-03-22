@@ -10,7 +10,7 @@ When trying the examples, be sure to resize the width of the screen to see how t
 
 This is the basic flexbox column layout example. Every column div will divide itself equally across the width of the page.
 
-![](../../../Module1/.gitbook/assets/eq-col%20\(1\).png)
+![](../../../.gitbook/assets/eq-col%20\(1\).png)
 
 ```css
 .container {
@@ -26,7 +26,7 @@ This is the basic flexbox column layout example. Every column div will divide it
 }
 ```
 
-```markup
+```html
 <div class="container">
   <div class="flex1">
     Nisi fugiat incididunt esse sint id nulla fugiat duis qui nisi. Velit
@@ -69,7 +69,7 @@ We can change the default style to make one column smaller by changing the `flex
 }
 ```
 
-```markup
+```html
 <div class="container">
   <div class="col flex1">
     Nisi fugiat incididunt esse sint id nulla fugiat duis qui nisi. Velit
@@ -147,7 +147,7 @@ We can fix the maximum dimensions of a box with the `flex-basis` style. The left
 }
 ```
 
-```
+```html
 <div class="container">
   <div class="col fixed-w">
     Nisi fugiat incididunt esse sint id nulla fugiat duis qui nisi. Velit

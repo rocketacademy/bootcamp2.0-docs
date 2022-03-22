@@ -86,7 +86,7 @@ One major issue with this CSS is that if the device screen is less than 600px, t
 
 To prevent this we can have it take up the entire screen width below a certain size. (To put it conversely, we can constrain the size of the box to no more than a certain number).
 
-```
+```css
 .main {
   max-width: 600px; /* be 100% width, until 600px */
   background-color:white;

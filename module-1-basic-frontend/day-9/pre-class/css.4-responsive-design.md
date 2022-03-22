@@ -1,6 +1,6 @@
 # CSS.4 Responsive Design
 
-![](../../../Module1/day10/.gitbook/assets/resp.jpeg)
+![](../../../.gitbook/assets/resp.jpeg)
 
 ## Introduction
 
