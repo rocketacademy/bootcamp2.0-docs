@@ -1,8 +1,6 @@
 # Overview
 
-## Overview
-
-### Welcome to Software Engineering Bootcamp!
+## Welcome to Software Engineering Bootcamp!
 
 Software Engineering Bootcamp is Rocket Academy's flagship career conversion course. It builds on material taught in [Coding Basics](http://codingbasics.rocketacademy.co). On successful completion of Bootcamp, students can expect to be [job-ready full-stack software engineers](https://inewsnetwork.net/wp-content/uploads/2019/01/5051722203\_890e2dab19\_b-811x900.jpg).
 
@@ -238,8 +236,8 @@ If any project is not completed up to the given project requirements, that stude
 | 2       | [Server-Side Web Application](module-2-basic-backend/day-11/post-class/project-2-server-side-app.md)                    |
 | 3       | [Full-Stack Game](module-3-advanced-backend-and-full-stack/day-11/post-class/project-3-full-stack-game.md)              |
 | 4       | [Full-Stack React App](module-4-frontend-framework-react/day-12/post-class/project-4-full-stack-react-app.md)           |
-| 5       | [Advanced Full-Stack React App (Group Project)](module-5-advanced-react/day-12/post-class/project-5-group-react-app.md) |
-| 6       | [Capstone](module-6-capstone-project/day-13/post-class/project-6-capstone.md)                                           |
+| 5       | [Advanced Full-Stack React App (Group Project)](module-5-advanced-react/day-10/post-class/project-5-group-react-app.md) |
+| 6       | [Capstone](module-6-capstone-project/day-11/post-class/project-6-capstone.md)                                           |
 
 ### Class Agenda
 
