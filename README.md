@@ -161,11 +161,11 @@ _**Gestalt thinking**_ refers to learning many small things and putting them tog
 
 ## Course Syllabus
 
-## Modules 1-3: Bootcamp Foundation&#x20;
+### Modules 1-3: Bootcamp Foundation&#x20;
 
 The first 3 modules builds knowledge of web applications from the ground up, starting with running a simple one-line program and building up to a complex internet and data-backed application. Even though some of the content is not the latest industry-relevant technologies, these modules provide fundamental knowledge and practice in how the disparate parts of modern web applications are constructed, by constructing one yourself, piece-by-piece.
 
-### Module 1: Basic Frontend&#x20;
+#### Module 1: Basic Frontend&#x20;
 
 This part of the program builds on the work done in Coding Basics. You will learn to use HTML, CSS and Javascript to construct static webpages (without a backend server) and deploy them on a hosting service. These topics comprise what we call Web 1.0.&#x20;
 
@@ -175,7 +175,7 @@ This part of the program builds on the work done in Coding Basics. You will lear
 * Create mobile-responsive web layouts with CSS
 * Hosting on Github pages and Heroku
 
-### Module 2: Basic Backend
+#### Module 2: Basic Backend
 
 In this module you will learn to create a backend server, to not only host your website, but provide dynamically generated content, personalized based on user data stored in a database. This is effectively Web 1.5. &#x20;
 
@@ -185,7 +185,7 @@ In this module you will learn to create a backend server, to not only host your 
 * Web authentication
 * Backend application fundamentals with NPM
 
-### Module 3: Advanced Backend and Full Stack
+#### Module 3: Advanced Backend and Full Stack
 
 In this module, you will learn to write a front end that interacts with the backend, removing the need to refresh the page on every click. This is effectively Web 2.0 and completes your Full Stack Development experience.
 
@@ -194,15 +194,15 @@ In this module, you will learn to write a front end that interacts with the back
 * MVC
 * Managed cloud deployment with Heroku
 
-## Modules 4-6: Latest Technologies
+### Modules 4-6: Latest Technologies
 
-### Module 4: Frontend Framework - React
+#### Module 4: Frontend Framework - React
 
 At this point, you are ready to explore modern development frameworks, that make rapid development possible. React is one of the most popular front end frameworks to learn.
 
 * React.js front-end DOM libraries & architecture
 
-### Module 5: Advanced React
+#### Module 5: Advanced React
 
 Going deeper into React this module is the summation of all previous material, culminating in the final form of our app, incorporating the latest libraries and technologies.
 
@@ -210,7 +210,7 @@ Going deeper into React this module is the summation of all previous material, c
 * Front-end state management with reducers
 * Popular React Libraries
 
-### Module 6: Capstone Project
+#### Module 6: Capstone Project
 
 You are a software engineer, capable of exploring and learning new things. This is also a module where the practical aspects of Job Interview Preparation is done.
 
@@ -222,7 +222,7 @@ You are a software engineer, capable of exploring and learning new things. This 
 
 ## Projects
 
-#### Project Requirements
+### Project Requirements
 
 Each module culminates in a project. The goal of each project is to demonstrate working knowledge of the the concepts learned in the module.
 
@@ -239,7 +239,7 @@ If any project is not completed up to the given project requirements, that stude
 | 5       | [Advanced Full-Stack React App (Group Project)](module-5-advanced-react/day-10/post-class/project-5-group-react-app.md) |
 | 6       | [Capstone](module-6-capstone-project/day-11/post-class/project-6-capstone.md)                                           |
 
-### Class Agenda
+## Class Agenda
 
 1. Review of post-class exercise(s) from the day before
 2. Review of the day's pre-class material
