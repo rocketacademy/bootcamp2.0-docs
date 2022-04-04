@@ -143,7 +143,7 @@ This exposes the other major behaviour of a recursive function that returns a va
 
 How do we write recursive functions that returns values?
 
-![Demonstration of recursive string reverse from here: https://towardsdatascience.com/finding-a-recursive-solution-184784b0aea0](../../.gitbook/assets/recurse\_string.gif)
+![Demonstration of recursive string reverse from here: https://towardsdatascience.com/finding-a-recursive-solution-184784b0aea0](../../old\_bootcamp\_docs/.gitbook/assets/recurse\_string.gif)
 
 Given this iterative loop:
 

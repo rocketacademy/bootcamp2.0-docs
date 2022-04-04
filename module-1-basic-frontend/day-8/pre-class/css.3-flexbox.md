@@ -12,15 +12,15 @@ One of best features of flexbox is it's ability to distribute boxes across the a
 
 ## Align Content
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/align-content.svg)
+![](../../../.gitbook/assets/align-content.svg)
 
 ## Align Items
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/align-items.svg)
+![](../../../.gitbook/assets/align-items.svg)
 
 ## Justify Content
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/justify-content.svg)
+![](../../../.gitbook/assets/justify-content.svg)
 
 ## Exercises
 

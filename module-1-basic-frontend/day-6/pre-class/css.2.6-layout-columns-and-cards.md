@@ -2,11 +2,11 @@
 
 ## Cards
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/cards-layout.png)
+![](../../../.gitbook/assets/cards-layout.png)
 
 Card design is when a set of boxes is displayed next to each other in a layout. One of the simplest ways to create this layout is to specify some fixed pixel width elements on the screen and give them `display` `inline-block.`
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/cards.png)
+![](../../../.gitbook/assets/cards.png)
 
 ```css
 <!doctype html>
@@ -89,7 +89,7 @@ img {
 
 Now we'll use `inline-block` to create column layouts.
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/two-column.png)
+![](../../../.gitbook/assets/two-column.png)
 
 ```markup
 <!doctype html>

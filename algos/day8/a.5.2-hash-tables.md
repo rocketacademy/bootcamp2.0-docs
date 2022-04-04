@@ -1,6 +1,6 @@
 # A.5.2: Hash Tables - Part 2
 
-![hash browns](../../.gitbook/assets/hashbrowns.png)
+![hash browns](../../old\_bootcamp\_docs/.gitbook/assets/hashbrowns.png)
 
 ## Learning Objectives
 

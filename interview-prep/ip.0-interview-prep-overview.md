@@ -1,6 +1,6 @@
 # IP.0: Interview Prep Overview
 
-![](../old\_bootcamp\_docs/.gitbook/assets/interview.jpeg)
+![](../.gitbook/assets/interview.jpeg)
 
 ## Introduction
 

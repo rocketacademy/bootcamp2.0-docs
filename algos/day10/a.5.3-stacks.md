@@ -1,6 +1,6 @@
-# A.5.3: Stacks
+# A.5.3: Stacks - Pre-Class
 
-![stack meme](../../../.gitbook/assets/stack_meme.jpeg)
+![stack meme](../../old\_bootcamp\_docs/.gitbook/assets/stack\_meme.jpeg)
 
 ## Learning Objectives
 
@@ -12,7 +12,7 @@ By the end of this lesson, you should:
 
 ## Introduction
 
-SImilar to hash tables, we are going to be employing the concept of a stack data structure to work with certain kinds of data. A stack is a data structure that supports adding and removing only from the end/top of the stack. They are often referred to as a FILO \(first in last out\) or LIFO \(last in first out\) data structure.
+SImilar to hash tables, we are going to be employing the concept of a stack data structure to work with certain kinds of data. A stack is a data structure that supports adding and removing only from the end/top of the stack. They are often referred to as a FILO (first in last out) or LIFO (last in first out) data structure.
 
 #### History of Stacks
 
@@ -22,11 +22,11 @@ Within this historical context, arrays can do everything a list can do, but stac
 
 #### Big-O of Stacks
 
-Even when using a Python `list` we'll limit ourselves to only writing code that uses the stack operations. This means that our stack code will have a constant **O\(1\)** time complexity.
+Even when using a Python `list` we'll limit ourselves to only writing code that uses the stack operations. This means that our stack code will have a constant **O(1)** time complexity.
 
 ### LIFO
 
-![](../../../.gitbook/assets/stack-gif.gif)
+![](../../old\_bootcamp\_docs/.gitbook/assets/stack-gif.gif)
 
 We can think of the stack data structure like a stack of pancakes- we can only add and remove pancakes from the top of the stack, but we cannot add or remove from anywhere else in the stack lest we damage the pancakes. You may notice that arrays already provide the functionality of stacks through list `append` and `pop` methods. Indeed the functionality of stacks is a subset of arrays', but the concepts behind why and how we use stacks may be new to us.
 
@@ -146,4 +146,4 @@ Feel free to use the Python List to perform Stack operations. Once you've attemp
 
 #### Pushdown Automata
 
-Turing's theoretical computers used stacks as part of it's basic behaviours. See more about them here: [https://en.wikipedia.org/wiki/Pushdown_automaton](https://en.wikipedia.org/wiki/Pushdown_automaton)
+Turing's theoretical computers used stacks as part of it's basic behaviours. See more about them here: [https://en.wikipedia.org/wiki/Pushdown\_automaton](https://en.wikipedia.org/wiki/Pushdown\_automaton)

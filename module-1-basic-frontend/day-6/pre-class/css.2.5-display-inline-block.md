@@ -32,7 +32,7 @@ body {
 }
 ```
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/inline-block.png)
+![](../../../.gitbook/assets/inline-block.png)
 
 #### Properties of `inline-block`
 

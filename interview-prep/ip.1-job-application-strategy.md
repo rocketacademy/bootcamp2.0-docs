@@ -49,9 +49,9 @@ Here are some of the best ways to find jobs you might enjoy.
       7. [NodeFlair](https://www.nodeflair.com/jobs)
    3. Feel free to connect with recruiters or engineers on LinkedIn that work for the companies you are interested in. This is what RA does behind the scenes. When connecting with them, **always leave a note with a personal message.** This greatly increases the chances they will respond to you.
 
-![When you click Connect on someone's LinkedIn profile, always choose to "Add a note".](../old\_bootcamp\_docs/.gitbook/assets/jie-ping-20210304-17.47.35.png)
+![When you click Connect on someone's LinkedIn profile, always choose to "Add a note".](../.gitbook/assets/jie-ping-20210304-17.47.35.png)
 
-![Always leave a personal message when connecting with others on LinkedIn.](../old\_bootcamp\_docs/.gitbook/assets/jie-ping-20210304-17.51.53.png)
+![Always leave a personal message when connecting with others on LinkedIn.](../.gitbook/assets/jie-ping-20210304-17.51.53.png)
 
 ### How to filter jobs on job portals
 

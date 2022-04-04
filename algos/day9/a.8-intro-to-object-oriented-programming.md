@@ -1,6 +1,6 @@
 # A.8: Object-Oriented Programming
 
-![oop meme](../../old\_bootcamp\_docs/.gitbook/assets/oop\_meme.jpeg)
+![oop meme](../../.gitbook/assets/oop\_meme.jpeg)
 
 ## Introduction
 
@@ -39,7 +39,7 @@ Naming convention: Classes are typically named with UpperCamelCase. Instances ar
 
 Once we have defined a class we can create an instance of the class. An instance is the "_live_" instantiation of a class, made from the mold of the class definition. It has actual data inside, not just the variable names.
 
-![class instance illustration](../../old\_bootcamp\_docs/.gitbook/assets/factory\_gif.gif)
+![class instance illustration](../../.gitbook/assets/factory\_gif.gif)
 
 ```python
 cat1 = Cat("Kai")

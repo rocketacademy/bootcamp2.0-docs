@@ -1,6 +1,6 @@
 # A.5.4: Queues
 
-![](../../../.gitbook/assets/1_axag3gn3s-xjn3dvqw6afw.png)
+![](../../old\_bootcamp\_docs/.gitbook/assets/1\_axag3gn3s-xjn3dvqw6afw.png)
 
 ## Learning Objectives
 
@@ -16,7 +16,7 @@ Queues are similar to stacks except instead of removing elements from the end of
 
 #### Big-O of Queues
 
-If we think of a list or, even worse, a stack, operations that affect the beginning of the data would run in at least O\(n\). Remember that in an array, removing something from the front is **O\(n\)**. We can think of a queue as a doubly linked list so that taking things off the front or the back is always **O\(1\)**.
+If we think of a list or, even worse, a stack, operations that affect the beginning of the data would run in at least O(n). Remember that in an array, removing something from the front is **O(n)**. We can think of a queue as a doubly linked list so that taking things off the front or the back is always **O(1)**.
 
 ## Helpful Resources
 
@@ -26,7 +26,7 @@ If we think of a list or, even worse, a stack, operations that affect the beginn
 
 ## Queue Class
 
-Notice we Python's built-in `deque` data structure because it supports more efficient popping \(dequeuing\) of the left-most element than Python Lists.
+Notice we Python's built-in `deque` data structure because it supports more efficient popping (dequeuing) of the left-most element than Python Lists.
 
 ```python
 # We use the built-in Python deque data structure for queues.
@@ -61,7 +61,6 @@ class Queue:
   def size(self):
     print(f"Queue contains {len(self.data)} elements")
     return len(self.data)
-
 ```
 
 ## Linked List Queue Class
@@ -200,10 +199,9 @@ print(moving_averages([0,1,2,3,4,5], 1)) # [0.0, 1.0, 2.0, 3.0, 4.0, 5.0]
 print(moving_averages([0,1,2,3,4,5], 2)) # [0.5, 1.5, 2.5, 3.5, 4.5]
 print(moving_averages([0,1,2,3,4,5], 3)) # [1.0, 2.0, 3.0, 4.0]
 print(moving_averages([0,1,2,3,4,5], 4)) # [1.5, 2.5, 3.5]
-
 ```
 
-Solutions: [https://repl.it/@kaiyuanneo/queuessoln\#main.py](https://repl.it/@kaiyuanneo/queuessoln#main.py)
+Solutions: [https://repl.it/@kaiyuanneo/queuessoln#main.py](https://repl.it/@kaiyuanneo/queuessoln#main.py)
 
 ### Comfortable
 

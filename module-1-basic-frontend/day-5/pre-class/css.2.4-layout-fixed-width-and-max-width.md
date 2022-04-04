@@ -61,11 +61,11 @@ By constraining the size of the content area this prevents the behavior where th
 
 #### Before
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/fixed-width-before.png)
+![](../../../.gitbook/assets/fixed-width-before.png)
 
 #### After
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/screen-shot-2021-04-14-at-8.28.23-pm.png)
+![](../../../.gitbook/assets/screen-shot-2021-04-14-at-8.28.23-pm.png)
 
 ## Percent Width Layout
 

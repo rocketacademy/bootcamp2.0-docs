@@ -44,13 +44,13 @@ Given the following example:
 
 Block elements will line break before and after. This also affects inline elements. Inline elements will stack horizontally.
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/block-inline.png)
+![](../../../.gitbook/assets/block-inline.png)
 
 #### Inline Line Breaks
 
 Inline elements will line break _**inside**_ the element.
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/inline-break.png)
+![](../../../.gitbook/assets/inline-break.png)
 
 ## Inline / Block Margin
 
@@ -87,7 +87,7 @@ h2 {
 }
 ```
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/block-inline-margin.png)
+![](../../../.gitbook/assets/block-inline-margin.png)
 
 Notice that a margin is applied on the block element. However, even though a large margin is set on the inline element, it is not applied.
 

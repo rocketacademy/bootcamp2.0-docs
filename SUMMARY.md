@@ -92,7 +92,7 @@
     * [CSS.2.7: Position](module-1-basic-frontend/day-7/pre-class/css.2.7-position.md)
     * [CSS.2.8: Float](module-1-basic-frontend/day-7/pre-class/css.2.8-float.md)
   * [In Class](module-1-basic-frontend/day-7/in-class/README.md)
-    * [1.ICE.CSS.1: Straits Times](module-1-basic-frontend/day-7/in-class/1.ice.css.1-straits-times-css.md)
+    * [1.ICE.CSS.1: Personal Portfolio Site](module-1-basic-frontend/day-7/in-class/1.ice.css.1-personal-portfolio-site.md)
   * [Post Class](module-1-basic-frontend/day-7/post-class/README.md)
     * [Project 1 Implementation](module-1-basic-frontend/day-7/post-class/project-1-video-poker.md)
 * [Day 8](module-1-basic-frontend/day-8/README.md)

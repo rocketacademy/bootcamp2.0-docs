@@ -1,6 +1,6 @@
 # A.5.2: Hash Tables - Pre-Class
 
-![hash browns](../../.gitbook/assets/hashbrowns.png)
+![hash browns](../../old\_bootcamp\_docs/.gitbook/assets/hashbrowns.png)
 
 ## Learning Objectives
 

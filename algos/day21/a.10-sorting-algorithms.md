@@ -1,6 +1,6 @@
 # A.10: Sorting Algorithms
 
-![](../../../.gitbook/assets/sort-ar.jpeg)
+![](../../old\_bootcamp\_docs/.gitbook/assets/sort-ar.jpeg)
 
 ## Introduction
 

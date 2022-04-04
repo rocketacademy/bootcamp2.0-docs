@@ -1,6 +1,6 @@
 # CSS.4 Responsive Design
 
-![](../../../.gitbook/assets/resp.jpeg)
+![](../../../old\_bootcamp\_docs/.gitbook/assets/resp.jpeg)
 
 ## Introduction
 

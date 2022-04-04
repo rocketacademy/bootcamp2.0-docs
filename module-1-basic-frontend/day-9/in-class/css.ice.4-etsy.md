@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![](../../../old\_bootcamp\_docs/.gitbook/assets/etsy.jpg)
+![](../../../.gitbook/assets/etsy.jpg)
 
 Recreate the website screenshot above. Note that this is not the real version of this page. Begin with this starter code repo: [https://github.com/rocketacademy/base-css-bootcamp](https://github.com/rocketacademy/base-css-bootcamp)
 

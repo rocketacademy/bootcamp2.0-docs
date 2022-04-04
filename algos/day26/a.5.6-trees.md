@@ -1,6 +1,6 @@
-# A.5.6: Trees
+# A.5.6 Trees - Part 2
 
-![](../../../.gitbook/assets/trees.jpeg)
+![](../../old\_bootcamp\_docs/.gitbook/assets/trees.jpeg)
 
 ## Introduction
 

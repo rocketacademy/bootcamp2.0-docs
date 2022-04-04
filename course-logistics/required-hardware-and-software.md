@@ -63,11 +63,11 @@ If you were using the Git Bash terminal before, after following these instructio
 1. Install the [Remote Development extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) for VSCode.
 2. Once you install the extension, you will see a Remote Development extension icon at the bottom left corner of the VS Code editor.
 
-![](../old\_bootcamp\_docs/.gitbook/assets/wsl-ss1.png)
+![](../.gitbook/assets/wsl-ss1.png)
 
 1. Click on the icon, a pop up will appear with a list of options. Click on the first option "**Remote-WSL: New Window**" for the default distro or select the "**Remote-WSL: New Window using Distro**" for a specific distro.
 
-![](../old\_bootcamp\_docs/.gitbook/assets/wsl-ss2.png)
+![](../.gitbook/assets/wsl-ss2.png)
 
 1. You will see a notification "Starting VS Code in WSL...". This means VS Code is setting up a server inside WSL for the first time. Once installed, the VS Code of your Windows machine/desktop will communicate with VS Code server on the Linux side.
 
@@ -188,13 +188,13 @@ ESLint requires that we make some changes to the VSCode configuration file.
 
 As we code, ESLint may suggest fixes to our code by highlighting errors. Some of these fixes are optional but others may cause our programs to break.
 
-![](../old\_bootcamp\_docs/.gitbook/assets/eslint-1.png)
+![](../.gitbook/assets/eslint-1.png)
 
 To see what errors we have in our code, we can view the suggestion messages in the console.
 
-![](../old\_bootcamp\_docs/.gitbook/assets/eslint-2.png)
+![](../.gitbook/assets/eslint-2.png)
 
-![](../old\_bootcamp\_docs/.gitbook/assets/eslint3.png)
+![](../.gitbook/assets/eslint3.png)
 
 To view messages in the console, use the following steps.
 
