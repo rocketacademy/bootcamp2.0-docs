@@ -156,7 +156,7 @@
     * [2.7: Internet 101](module-1-basic-frontend/day-15/pre-class/2.7-internet-101.md)
     * [2.8: Chrome Networking](module-1-basic-frontend/day-15/pre-class/2.8-chrome-networking.md)
   * [In Class](module-1-basic-frontend/day-15/in-class/README.md)
-    * [Review 2.POCE.3: CSS Processor](module-1-basic-frontend/day-15/in-class/course-methodology.md)
+    * [Review 2.POCE.2: CSS Reader](module-1-basic-frontend/day-15/in-class/course-methodology.md)
   * [Post Class](module-1-basic-frontend/day-15/post-class/README.md)
     * [2.POCE.3: CSS Processor](module-1-basic-frontend/day-15/post-class/2.poce.3-css-processor.md)
 * [Day 16](module-1-basic-frontend/day-16/README.md)
