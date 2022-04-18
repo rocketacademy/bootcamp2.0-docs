@@ -2,9 +2,7 @@
 
 ## Welcome to Software Engineering Bootcamp!
 
-Software Engineering Bootcamp is Rocket Academy's flagship career conversion course. It builds on material taught in [Coding Basics](http://codingbasics.rocketacademy.co). On successful completion of Bootcamp, students can expect to be [job-ready full-stack software engineers](https://inewsnetwork.net/wp-content/uploads/2019/01/5051722203\_890e2dab19\_b-811x900.jpg).
-
-
+Welcome! Software Engineering (SWE) Bootcamp is Rocket Academy's flagship career-conversion course. It builds on concepts from Rocket's intro coding course [Coding Basics](https://codingbasics.rocketacademy.co). On successful completion of SWE Bootcamp, students can expect to get jobs as software engineers (SWEs).
 
 ## Learning Objectives
 
