@@ -6,9 +6,9 @@
 
 By the end of this lesson, you should:
 
-* be familiar with queue functionality time and space complexity
-* understand the difference between LIFO and FIFO
-* understand the python queue class example
+- be familiar with queue functionality time and space complexity
+- understand the difference between LIFO and FIFO
+- understand the python queue class example
 
 ## Introduction
 
@@ -203,7 +203,7 @@ print(moving_averages([0,1,2,3,4,5], 4)) # [1.5, 2.5, 3.5]
 
 ```
 
-Solutions: [https://repl.it/@kaiyuanneo/queuessoln\#main.py](https://repl.it/@kaiyuanneo/queuessoln#main.py)
+Solutions: [https://repl.it/@neokaiyuan/queuessoln\#main.py](https://repl.it/@neokaiyuan/queuessoln#main.py)
 
 ### Comfortable
 
