@@ -1,14 +1,14 @@
 # A.5.4: Queues
 
-![](../../old\_bootcamp\_docs/.gitbook/assets/1\_axag3gn3s-xjn3dvqw6afw.png)
+![](../../old_bootcamp_docs/.gitbook/assets/1_axag3gn3s-xjn3dvqw6afw.png)
 
 ## Learning Objectives
 
 By the end of this lesson, you should:
 
-* be familiar with queue functionality time and space complexity
-* understand the difference between LIFO and FIFO
-* understand the python queue class example
+- be familiar with queue functionality time and space complexity
+- understand the difference between LIFO and FIFO
+- understand the python queue class example
 
 ## Introduction
 
@@ -201,7 +201,7 @@ print(moving_averages([0,1,2,3,4,5], 3)) # [1.0, 2.0, 3.0, 4.0]
 print(moving_averages([0,1,2,3,4,5], 4)) # [1.5, 2.5, 3.5]
 ```
 
-Solutions: [https://repl.it/@kaiyuanneo/queuessoln#main.py](https://repl.it/@kaiyuanneo/queuessoln#main.py)
+Solutions: [https://repl.it/@neokaiyuan/queuessoln\#main.py](https://repl.it/@neokaiyuan/queuessoln#main.py)
 
 ### Comfortable
 

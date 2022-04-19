@@ -4,7 +4,7 @@
 
 By the end of this lesson, you should:
 
-* be familiar with what a binary search tree data structure is
+- be familiar with what a binary search tree data structure is
 
 ## Introduction
 
@@ -44,8 +44,8 @@ See pre-order and in-order tree traversal.
 
 ### Pre-Class
 
-1. [https://repl.it/@kaiyuanneo/treebst#main.py](https://repl.it/@kaiyuanneo/treebst#main.py)
-   1. [https://repl.it/@kaiyuanneo/treebstsoln#main.py](https://repl.it/@kaiyuanneo/treebstsoln#main.py)
+1. [https://repl.it/@neokaiyuan/treebst#main.py](https://repl.it/@neokaiyuan/treebst#main.py)
+   1. [https://repl.it/@neokaiyuan/treebstsoln#main.py](https://repl.it/@neokaiyuan/treebstsoln#main.py)
 
 ### Part 1
 
@@ -55,16 +55,13 @@ See pre-order and in-order tree traversal.
    1. FTBC3 class video discussion on solution and how to trace code in a recursion problem: [https://youtu.be/uQldubu1LOE?t=2269](https://youtu.be/uQldubu1LOE?t=2269)
 
 ### Part 2
+
 1. [https://leetcode.com/problems/maximum-depth-of-n-ary-tree/](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
    1. Hint: Review [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) problem before attempting this one.
    2. [FTBC class video discussion](https://youtu.be/L2gtfJBxKzE?t=5329)
 
 ### Part 3
+
 1. [https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 2. [https://leetcode.com/problems/balanced-binary-tree/](https://leetcode.com/problems/balanced-binary-tree/)
 3. [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-
-
-
-
-
