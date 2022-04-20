@@ -8,11 +8,11 @@ Software Engineering Bootcamp is Rocket Academy's flagship career conversion cou
 
 ### Current Batch Schedules
 
-1. [Full Time Batch 4](scheduler.rocketacademy.co/#/schedules/ftbc4)
-2. [Full Time Batch 5](scheduler.rocketacademy.co/#/schedules/ftbc5)
-3. [Full Time Batch 6](scheduler.rocketacademy.co/#/schedules/ftbc6)
-4. [Part Time Batch 1](scheduler.rocketacademy.co/#/schedules/ptbc1)
-5. [Part Time Batch 2](scheduler.rocketacademy.co/#/schedules/ptbc2)
+1. [Full Time Batch 4](schedules.rocketacademy.co/#/ftbc4)
+2. [Full Time Batch 5](schedules.rocketacademy.co/#/ftbc5)
+3. [Full Time Batch 6](schedules.rocketacademy.co/#/ftbc6)
+4. [Part Time Batch 1](schedules.rocketacademy.co/#/ptbc1)
+5. [Part Time Batch 2](schedules.rocketacademy.co/#/ptbc2)
 
 ## Learning Objectives
 
