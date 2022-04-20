@@ -1,13 +1,11 @@
 # Schedules
 
-## [Full Time Batch 4](scheduler.rocketacademy.co/#/schedules/ftbc4)
+## [FTBC6](scheduler.rocketacademy.co/#/schedules/ftbc6)
 
-## [Full Time Batch 5](scheduler.rocketacademy.co/#/schedules/ftbc5)
+## [FTBC7](scheduler.rocketacademy.co/#/schedules/ftbc7)
 
-## [Full Time Batch 6](scheduler.rocketacademy.co/#/schedules/ftbc6)
+## [PTBC1](scheduler.rocketacademy.co/#/schedules/ptbc1)
 
-## [Part Time Batch 1](scheduler.rocketacademy.co/#/schedules/ptbc1)
+## [PTBC2](scheduler.rocketacademy.co/#/schedules/ptbc2)
 
-## [Part Time Batch 2](scheduler.rocketacademy.co/#/schedules/ptbc2)
-
-## [Part Time Batch 3](scheduler.rocketacademy.co/#/schedules/ptbc3)
+## [PTBC3](scheduler.rocketacademy.co/#/schedules/ptbc3)
