@@ -2,7 +2,7 @@
 
 ## Welcome to Software Engineering Bootcamp!
 
-Welcome! Software Engineering (SWE) Bootcamp is Rocket Academy's flagship career-conversion course. It builds on concepts from Rocket's intro coding course [Coding Basics](https://codingbasics.rocketacademy.co). On successful completion of SWE Bootcamp, students can expect to get jobs as software engineers (SWEs).
+Welcome! Coding Bootcamp is Rocket Academy's flagship career-conversion course. It builds on concepts from Rocket's intro coding course [Coding Basics](https://codingbasics.rocketacademy.co). On successful completion of Coding Bootcamp, students can expect to get jobs as software engineers (SWEs).
 
 ## Learning Objectives
 
@@ -16,19 +16,19 @@ Our learning outcomes were informed by top-level industry standards for what an 
 
 <summary><strong>Gain proficiency in specific technologies that employers are looking for</strong></summary>
 
-* Javascript ES5 & Browser DOM (Document Object Model)
-* CSS & HTML
-* ES6
-* Nodejs & System-level runtime-environments
-* Nodejs and ESModules, code modularity with NPM
-* HTTP & HTTP file servers
-* Express.js and data-backed RESTful web applications
-* SQL and ORM (Object Relational Mapping) libraries (Sequelize)
-* MVC architecture
-* AJAX
-* Webpack
-* React.js
-* React data-handling and Create React App package
+- Javascript ES5 & Browser DOM (Document Object Model)
+- CSS & HTML
+- ES6
+- Nodejs & System-level runtime-environments
+- Nodejs and ESModules, code modularity with NPM
+- HTTP & HTTP file servers
+- Express.js and data-backed RESTful web applications
+- SQL and ORM (Object Relational Mapping) libraries (Sequelize)
+- MVC architecture
+- AJAX
+- Webpack
+- React.js
+- React data-handling and Create React App package
 
 </details>
 
@@ -40,22 +40,22 @@ Our learning outcomes were informed by top-level industry standards for what an 
 
 Expertise in specific technologies is only one aspect of being able to write high-quality software. Topics such as system design and architecture, basic CS knowledge and code fluency are extremely important for employers to distinguish between candidates.
 
-* Algorithms
-* Code format best practices
-* Database design
-* HTTP / Internet fundamentals
-* Runtime environment fundamentals w/ Node.js
-* Javascript runtime fundamentals, callback and asynchronous behaviours
-* Web Authentication
-* Web 2.0 architecture
-* Modern full-stack web application evolution and architecture
-* Minimum Viable Product & Lean Startup methodologies
-* Agile software development workflows
-* Git & version control workflows & best practices
-* UX & product / user-centered development
-* Code refactoring
-* Web application security principles
-* Googling
+- Algorithms
+- Code format best practices
+- Database design
+- HTTP / Internet fundamentals
+- Runtime environment fundamentals w/ Node.js
+- Javascript runtime fundamentals, callback and asynchronous behaviours
+- Web Authentication
+- Web 2.0 architecture
+- Modern full-stack web application evolution and architecture
+- Minimum Viable Product & Lean Startup methodologies
+- Agile software development workflows
+- Git & version control workflows & best practices
+- UX & product / user-centered development
+- Code refactoring
+- Web application security principles
+- Googling
 
 </details>
 
@@ -67,16 +67,16 @@ Expertise in specific technologies is only one aspect of being able to write hig
 
 Good engineers can communicate their ideas clearly to a range of stakeholders- e.g, technical discussions with other developers, or non-technical discussions with designers, marketers or business people. They have empathy to work well with others. Understand that software specifications are written for humans and by humans.
 
-* Pair Programming
-* Code reading
-* Code reviews
-* Video demos
-* Technical documentation
-* Project Presentations
-* Project / software development time estimation & time management
-* Group work, project specifications & code collaboration
-* Project completeness & polish
-* Technical Interviews
+- Pair Programming
+- Code reading
+- Code reviews
+- Video demos
+- Technical documentation
+- Project Presentations
+- Project / software development time estimation & time management
+- Group work, project specifications & code collaboration
+- Project completeness & polish
+- Technical Interviews
 
 </details>
 
@@ -88,13 +88,13 @@ Good engineers can communicate their ideas clearly to a range of stakeholders- e
 
 It is normal not to understand things. A software engineer is not afraid to ask questions. We seek to develop an awareness of what you know and what you don’t know, so you can ask more intelligent questions to further your learning.
 
-* Practice asking questions
-* Practice formulating product specifications
-* Pair Programming
-* Practice designing applications at all levels of the process
-* Understanding Project / Exercise Requirements
-* Dealing with requirement ambiguity
-* Practicing how to google / use the internet to gather information
+- Practice asking questions
+- Practice formulating product specifications
+- Pair Programming
+- Practice designing applications at all levels of the process
+- Understanding Project / Exercise Requirements
+- Dealing with requirement ambiguity
+- Practicing how to google / use the internet to gather information
 
 </details>
 
@@ -150,10 +150,10 @@ _**Linear learning**_ in the first half trains you in the key foundational areas
 
 _**Gestalt thinking**_ refers to learning many small things and putting them together into a big idea/project. The second half trains you in selected technologies commonly used in the industry. These are disjoint tools that you can use as needed.
 
-* We do linear learning in the first foundational part of the course, building up to a final web-application form.
-* We do linear learning in non-project sections of the program by building prescribed applications with specific requirements.
-* We do Gestalt thinking in the second part of the program by putting together the different parts of the system we’ve created.
-* We do Gestalt thinking during projects by encouraging independent work as a summation of previous linear work.
+- We do linear learning in the first foundational part of the course, building up to a final web-application form.
+- We do linear learning in non-project sections of the program by building prescribed applications with specific requirements.
+- We do Gestalt thinking in the second part of the program by putting together the different parts of the system we’ve created.
+- We do Gestalt thinking during projects by encouraging independent work as a summation of previous linear work.
 
 </details>
 
@@ -167,30 +167,30 @@ The first 3 modules builds knowledge of web applications from the ground up, sta
 
 This part of the program builds on the work done in Coding Basics. You will learn to use HTML, CSS and Javascript to construct static webpages (without a backend server) and deploy them on a hosting service. These topics comprise what we call Web 1.0.&#x20;
 
-* Expand upon basics work to understand the wider context of JavaScript in the browser.
-* Ramp up the complexity of programs we write.
-* Introduce new levels of program abstraction, representation & complexity.
-* Create mobile-responsive web layouts with CSS
-* Hosting on Github pages and Heroku
+- Expand upon basics work to understand the wider context of JavaScript in the browser.
+- Ramp up the complexity of programs we write.
+- Introduce new levels of program abstraction, representation & complexity.
+- Create mobile-responsive web layouts with CSS
+- Hosting on Github pages and Heroku
 
 #### Module 2: Basic Backend
 
 In this module you will learn to create a backend server, to not only host your website, but provide dynamically generated content, personalized based on user data stored in a database. This is effectively Web 1.5. &#x20;
 
-* Introduce system-level runtime environment with Node.js
-* Introduction to HTTP & Internet fundamentals
-* Database & data storage fundamentals
-* Web authentication
-* Backend application fundamentals with NPM
+- Introduce system-level runtime environment with Node.js
+- Introduction to HTTP & Internet fundamentals
+- Database & data storage fundamentals
+- Web authentication
+- Backend application fundamentals with NPM
 
 #### Module 3: Advanced Backend and Full Stack
 
 In this module, you will learn to write a front end that interacts with the backend, removing the need to refresh the page on every click. This is effectively Web 2.0 and completes your Full Stack Development experience.
 
-* Modern web-application architecture with Webpack
-* Web 2.0 full-stack architecture
-* MVC
-* Managed cloud deployment with Heroku
+- Modern web-application architecture with Webpack
+- Web 2.0 full-stack architecture
+- MVC
+- Managed cloud deployment with Heroku
 
 ### Modules 4-6: Latest Technologies
 
@@ -198,25 +198,23 @@ In this module, you will learn to write a front end that interacts with the back
 
 At this point, you are ready to explore modern development frameworks, that make rapid development possible. React is one of the most popular front end frameworks to learn.
 
-* React.js front-end DOM libraries & architecture
+- React.js front-end DOM libraries & architecture
 
 #### Module 5: Advanced React
 
 Going deeper into React this module is the summation of all previous material, culminating in the final form of our app, incorporating the latest libraries and technologies.
 
-* Front-end & Backend isolation with Create React App
-* Front-end state management with reducers
-* Popular React Libraries
+- Front-end & Backend isolation with Create React App
+- Front-end state management with reducers
+- Popular React Libraries
 
 #### Module 6: Capstone Project
 
 You are a software engineer, capable of exploring and learning new things. This is also a module where the practical aspects of Job Interview Preparation is done.
 
-* With the assistance and advice of your SL and Rocket Staff, you will choose and learn new frameworks, libraries, technologies.
-* Create something new to complete your transition into a Software Engineer.
-* Interview Preparation: Resume, and Portfolio
-
-
+- With the assistance and advice of your SL and Rocket Staff, you will choose and learn new frameworks, libraries, technologies.
+- Create something new to complete your transition into a Software Engineer.
+- Interview Preparation: Resume, and Portfolio
 
 ## Projects
 
